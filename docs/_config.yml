@@ -1,0 +1,6 @@
+title: "JuiceWorks — Open-Lab by Justin Bilyeu"
+description: "Choose your own adventure through my projects."
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
