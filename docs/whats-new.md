@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-11-11 15:11 UTC._
+_Window: last 14 days; generated 2025-11-12 15:11 UTC._
 
 ## eMSSC-squared
 
+- 2025-11-12 · [caa8404](https://github.com/justindbilyeu/eMSSC-squared/commit/caa8404c0288448f500799699548b50d466ee748) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-11-12 · [10500f7](https://github.com/justindbilyeu/eMSSC-squared/commit/10500f7d3e449d9181cd7c411cf3323b988d8034) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-11 · [1ff17ca](https://github.com/justindbilyeu/eMSSC-squared/commit/1ff17ca7cc5d72a136dfef55f75c90a7a88947cb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-11 · [c79f901](https://github.com/justindbilyeu/eMSSC-squared/commit/c79f901ed69032d9babff34c7b330297d7eae56d) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-10 · [7b19f85](https://github.com/justindbilyeu/eMSSC-squared/commit/7b19f85ed310db1f144a224f04c4451edf9a5363) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,11 +24,12 @@ _Window: last 14 days; generated 2025-11-11 15:11 UTC._
 - 2025-11-04 · [ad70e62](https://github.com/justindbilyeu/eMSSC-squared/commit/ad70e622dc85d57d110269e47d423d4984c2d0d9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-03 · [ccd45df](https://github.com/justindbilyeu/eMSSC-squared/commit/ccd45df2b2a7d149723d28f5b4a38c5704c8e91c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-03 · [fc31f55](https://github.com/justindbilyeu/eMSSC-squared/commit/fc31f55c2edd297955407fa844f360f34f218fc9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-02 · [65e1733](https://github.com/justindbilyeu/eMSSC-squared/commit/65e17334763da5e49b60290e5044e8fdf56020db) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-02 · [ac37014](https://github.com/justindbilyeu/eMSSC-squared/commit/ac37014568e13f87f50e36c8c6d7288cd368811c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## SCSRRS-TCR
 
+- 2025-11-11 · [2a1af48](https://github.com/justindbilyeu/SCSRRS-TCR/commit/2a1af4823086da26780a383b392064ede45235ef) — Merge pull request #6 from justindbilyeu/claude/remove-chart-011CUzR7Gs81Te6ifxvjeYHu
+- 2025-11-11 · [51aad37](https://github.com/justindbilyeu/SCSRRS-TCR/commit/51aad3758c43eedb3d2d5e002ea6af43c3021455) — Merge main into two-page calculator branch
+- 2025-11-11 · [83e81d3](https://github.com/justindbilyeu/SCSRRS-TCR/commit/83e81d312a71645ac8d249a330c769490ce451ae) — Convert to two-page calculator flow for better UX
 - 2025-11-11 · [b7528e8](https://github.com/justindbilyeu/SCSRRS-TCR/commit/b7528e8cff7c790df0122e809ccafe81e69d1855) — Revise README for Class 4 Metal Roofing Calculator
 - 2025-11-11 · [41929fd](https://github.com/justindbilyeu/SCSRRS-TCR/commit/41929fd1309f2b5f9c8b3635e1e60fc3fcb4085a) — Update print statement from 'Hello' to 'Goodbye'
 - 2025-11-10 · [3866f37](https://github.com/justindbilyeu/SCSRRS-TCR/commit/3866f376031ddec6ecfefb0a6b11451e7d9595cc) — Merge pull request #5 from justindbilyeu/claude/remove-chart-011CUzR7Gs81Te6ifxvjeYHu
