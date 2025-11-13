@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-11-12 15:11 UTC._
+_Window: last 14 days; generated 2025-11-13 15:12 UTC._
 
 ## eMSSC-squared
 
+- 2025-11-13 · [7cfd5c1](https://github.com/justindbilyeu/eMSSC-squared/commit/7cfd5c1f3b140c50e82aef6cba3191795c9edaf2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-11-13 · [5a831ad](https://github.com/justindbilyeu/eMSSC-squared/commit/5a831ad5f4ad7b9d9303321a220c9432bae9d6b6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-12 · [caa8404](https://github.com/justindbilyeu/eMSSC-squared/commit/caa8404c0288448f500799699548b50d466ee748) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-12 · [10500f7](https://github.com/justindbilyeu/eMSSC-squared/commit/10500f7d3e449d9181cd7c411cf3323b988d8034) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-11 · [1ff17ca](https://github.com/justindbilyeu/eMSSC-squared/commit/1ff17ca7cc5d72a136dfef55f75c90a7a88947cb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2025-11-12 15:11 UTC._
 - 2025-11-05 · [c332671](https://github.com/justindbilyeu/eMSSC-squared/commit/c33267123b95f3f17288f3866dbb9fa26a592abf) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-04 · [12fbb21](https://github.com/justindbilyeu/eMSSC-squared/commit/12fbb219ab35dd226dc595a3557e362937988bf0) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-04 · [ad70e62](https://github.com/justindbilyeu/eMSSC-squared/commit/ad70e622dc85d57d110269e47d423d4984c2d0d9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-03 · [ccd45df](https://github.com/justindbilyeu/eMSSC-squared/commit/ccd45df2b2a7d149723d28f5b4a38c5704c8e91c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-03 · [fc31f55](https://github.com/justindbilyeu/eMSSC-squared/commit/fc31f55c2edd297955407fa844f360f34f218fc9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## SCSRRS-TCR
 
@@ -41,7 +41,3 @@ _Window: last 14 days; generated 2025-11-12 15:11 UTC._
 - 2025-11-10 · [6fb8a81](https://github.com/justindbilyeu/SCSRRS-TCR/commit/6fb8a81c69e10efa67bc3ecd3e04945db8fe3ae1) — Fix input fields not visible - move initialization to DOMContentLoaded
 - 2025-11-10 · [7dfec5d](https://github.com/justindbilyeu/SCSRRS-TCR/commit/7dfec5d2ef59e8f276d9324ef025738e5a125ff6) — Merge pull request #2 from justindbilyeu/claude/review-repo-011CUzR7Gs81Te6ifxvjeYHu
 - 2025-11-10 · [751414f](https://github.com/justindbilyeu/SCSRRS-TCR/commit/751414f8ebf1bd6158e023f037b234a83917d8b3) — 🚀 Enhanced calculator: templates, URL sharing, charts, expanded ZIPs
-
-## Resonance_Geometry
-
-- 2025-10-30 · [a0c1445](https://github.com/justindbilyeu/Resonance_Geometry/commit/a0c1445f5a888f4b133b01af34f46bd4ee6a4ed7) — Merge pull request #121 from justindbilyeu/claude/docs-pr-summary-011CUWtfEK1atiYdPZXEGALp
