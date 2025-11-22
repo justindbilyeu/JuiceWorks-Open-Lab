@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-11-21 15:10 UTC._
+_Window: last 14 days; generated 2025-11-22 15:08 UTC._
 
 ## eMSSC-squared
 
+- 2025-11-22 · [45f972f](https://github.com/justindbilyeu/eMSSC-squared/commit/45f972f44bb99b8ce19d2fb18f28a38ce62da035) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-11-22 · [499b74b](https://github.com/justindbilyeu/eMSSC-squared/commit/499b74b88db62f708159bd5fde0fe4ac58777d9e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-21 · [983e8b5](https://github.com/justindbilyeu/eMSSC-squared/commit/983e8b5d915a7da4ebee4e778b1f54274ec30ea6) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-21 · [d3464a9](https://github.com/justindbilyeu/eMSSC-squared/commit/d3464a986f6cbcc1ab7cd33d594a187a8a84150c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-20 · [110be4b](https://github.com/justindbilyeu/eMSSC-squared/commit/110be4bc77088dca79f86dd6811263c7c01ea875) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2025-11-21 15:10 UTC._
 - 2025-11-14 · [a0d4ac5](https://github.com/justindbilyeu/eMSSC-squared/commit/a0d4ac562c01eebe64a9d34204c830ac9e0c3783) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-13 · [7cfd5c1](https://github.com/justindbilyeu/eMSSC-squared/commit/7cfd5c1f3b140c50e82aef6cba3191795c9edaf2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-13 · [5a831ad](https://github.com/justindbilyeu/eMSSC-squared/commit/5a831ad5f4ad7b9d9303321a220c9432bae9d6b6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-12 · [caa8404](https://github.com/justindbilyeu/eMSSC-squared/commit/caa8404c0288448f500799699548b50d466ee748) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-12 · [10500f7](https://github.com/justindbilyeu/eMSSC-squared/commit/10500f7d3e449d9181cd7c411cf3323b988d8034) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## SCSRRS-TCR
 
