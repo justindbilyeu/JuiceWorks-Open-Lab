@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-11-26 15:09 UTC._
+_Window: last 14 days; generated 2025-11-27 15:11 UTC._
 
 ## eMSSC-squared
 
+- 2025-11-27 · [eb5ef3b](https://github.com/justindbilyeu/eMSSC-squared/commit/eb5ef3ba8bcd7bd4479155b3af7688ea522060f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-11-27 · [da20bda](https://github.com/justindbilyeu/eMSSC-squared/commit/da20bdaa87a79bf6bb32b5016b782b56bdfb9d55) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-26 · [b4d799d](https://github.com/justindbilyeu/eMSSC-squared/commit/b4d799d461ff15b1bf15e70079064661a14ab864) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-26 · [d2b3b9e](https://github.com/justindbilyeu/eMSSC-squared/commit/d2b3b9e212821a78ac76b4166420604050aae706) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-25 · [2f63d4c](https://github.com/justindbilyeu/eMSSC-squared/commit/2f63d4c0f7db74705fecd7b860d3b366e2e65faf) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,11 +24,8 @@ _Window: last 14 days; generated 2025-11-26 15:09 UTC._
 - 2025-11-19 · [f85c3e2](https://github.com/justindbilyeu/eMSSC-squared/commit/f85c3e2efc2681502e5b280ccbb9a7a8b1111eda) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-18 · [bb6577e](https://github.com/justindbilyeu/eMSSC-squared/commit/bb6577eb2dc103b0520c922a5c67f17effefb06d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-18 · [5562e7d](https://github.com/justindbilyeu/eMSSC-squared/commit/5562e7d64d3d4ec6cf671e17dc6ff52c209c3966) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-17 · [10dadc9](https://github.com/justindbilyeu/eMSSC-squared/commit/10dadc97abc0482d34073d910c6dda500a4ceb5e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-17 · [d6730bf](https://github.com/justindbilyeu/eMSSC-squared/commit/d6730bf159436b7650e426f9d82b8dc9e237adeb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## SCSRRS-TCR
 
 - 2025-11-16 · [99545fb](https://github.com/justindbilyeu/SCSRRS-TCR/commit/99545fb1548b4648d448c83bdd03bdfbaf8ee8f9) — Merge pull request #7 from justindbilyeu/claude/remove-chart-011CUzR7Gs81Te6ifxvjeYHu
 - 2025-11-16 · [86ac141](https://github.com/justindbilyeu/SCSRRS-TCR/commit/86ac141cbfaf3be8c5233e5cc552d0e275628d5a) — Add on-page savings calculation with deductible input
-- 2025-11-12 · [e8aa15b](https://github.com/justindbilyeu/SCSRRS-TCR/commit/e8aa15be306a5744ba2ce07a3579c2a39aa6929d) — Add insurance carrier selection with carrier-specific discount rates
