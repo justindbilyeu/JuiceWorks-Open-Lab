@@ -1,13 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-04 15:13 UTC._
-
-## Resonance_Geometry
-
-- 2025-12-04 · [7dd818b](https://github.com/justindbilyeu/Resonance_Geometry/commit/7dd818b9d07b47c61bf0532864d1b7df38e2d5b3) — Add files via upload
+_Window: last 14 days; generated 2025-12-05 15:11 UTC._
 
 ## eMSSC-squared
 
+- 2025-12-05 · [fb9d2b1](https://github.com/justindbilyeu/eMSSC-squared/commit/fb9d2b112634012a13f01301d5e334897875ec2e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-05 · [4477273](https://github.com/justindbilyeu/eMSSC-squared/commit/44772731bfb88863f8788cb0b8db177f0e0536d4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-04 · [8f19dfc](https://github.com/justindbilyeu/eMSSC-squared/commit/8f19dfcacde5eb8461a7f5cf60f401586b67236d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-04 · [983fb89](https://github.com/justindbilyeu/eMSSC-squared/commit/983fb89b1bf3387aa5e3707ecc11b0834dc95c88) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-03 · [daa2e7d](https://github.com/justindbilyeu/eMSSC-squared/commit/daa2e7d85fb3a53483ffb894d787cd8356d737ae) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -26,5 +24,7 @@ _Window: last 14 days; generated 2025-12-04 15:13 UTC._
 - 2025-11-26 · [d2b3b9e](https://github.com/justindbilyeu/eMSSC-squared/commit/d2b3b9e212821a78ac76b4166420604050aae706) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-25 · [2f63d4c](https://github.com/justindbilyeu/eMSSC-squared/commit/2f63d4c0f7db74705fecd7b860d3b366e2e65faf) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-25 · [a101259](https://github.com/justindbilyeu/eMSSC-squared/commit/a101259df22be1f2a9025ce812b4c760663f81bb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-24 · [46da204](https://github.com/justindbilyeu/eMSSC-squared/commit/46da204a827fc77af5764ce0573b744cea5ca9e8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-24 · [e9ec1a6](https://github.com/justindbilyeu/eMSSC-squared/commit/e9ec1a6098dc0e6917b818767436a76403a6ce44) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## Resonance_Geometry
+
+- 2025-12-04 · [7dd818b](https://github.com/justindbilyeu/Resonance_Geometry/commit/7dd818b9d07b47c61bf0532864d1b7df38e2d5b3) — Add files via upload
