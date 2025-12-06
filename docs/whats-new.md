@@ -1,9 +1,24 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-05 15:11 UTC._
+_Window: last 14 days; generated 2025-12-06 15:09 UTC._
+
+## Resonance_Geometry
+
+- 2025-12-06 · [30f8971](https://github.com/justindbilyeu/Resonance_Geometry/commit/30f89714fc92b2176440f8474f76214657b31b10) — Create resonance_geometry_rfo_wedge.tex for RFO analysis
+- 2025-12-06 · [a09a1c8](https://github.com/justindbilyeu/Resonance_Geometry/commit/a09a1c84d35a3cca66dcc8b7179646ece158a9f0) — Merge pull request #125 from justindbilyeu/claude/phase-map-corrected-math-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [a517421](https://github.com/justindbilyeu/Resonance_Geometry/commit/a5174216453c11c40e4b1fc79ede497f89b34c00) — feat: Add corrected phase map generator and validation
+- 2025-12-06 · [443e272](https://github.com/justindbilyeu/Resonance_Geometry/commit/443e2721d16bbd14237a95b8802fa3d3825998a4) — Merge pull request #124 from justindbilyeu/claude/fix-hopf-saddle-correction-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [e40c842](https://github.com/justindbilyeu/Resonance_Geometry/commit/e40c84227b3ff193bba2e21b260961ad57586d01) — fix: Correct bifurcation classification from Hopf to saddle-type
+- 2025-12-06 · [8928182](https://github.com/justindbilyeu/Resonance_Geometry/commit/89281829c5dbedaadf2b30740eca05b1c68c06ae) — Merge pull request #123 from justindbilyeu/claude/update-readme-comprehensive-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [8f9aa83](https://github.com/justindbilyeu/Resonance_Geometry/commit/8f9aa830bbdb05750ee008eafdd49c4f98957cad) — docs: Comprehensive README update with Toy Universe v2.1 and plain-English story
+- 2025-12-06 · [083a7f6](https://github.com/justindbilyeu/Resonance_Geometry/commit/083a7f6a7de4aa3b1d0459b8667fb3f0f5bf6b07) — Merge pull request #122 from justindbilyeu/claude/toy-model-v2.1-canon-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [3b66db7](https://github.com/justindbilyeu/Resonance_Geometry/commit/3b66db764e76223fa53bcab7b02cf5a002917451) — feat: Add Resonance Geometry Toy Universe v2.1 Canon
+- 2025-12-04 · [7dd818b](https://github.com/justindbilyeu/Resonance_Geometry/commit/7dd818b9d07b47c61bf0532864d1b7df38e2d5b3) — Add files via upload
 
 ## eMSSC-squared
 
+- 2025-12-06 · [18a1931](https://github.com/justindbilyeu/eMSSC-squared/commit/18a193109b36d338705c8d897f4a0f7137cbe68b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-06 · [057d603](https://github.com/justindbilyeu/eMSSC-squared/commit/057d6035e084fdfd72f73933aaf55c94a3025b34) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-05 · [fb9d2b1](https://github.com/justindbilyeu/eMSSC-squared/commit/fb9d2b112634012a13f01301d5e334897875ec2e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-05 · [4477273](https://github.com/justindbilyeu/eMSSC-squared/commit/44772731bfb88863f8788cb0b8db177f0e0536d4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-04 · [8f19dfc](https://github.com/justindbilyeu/eMSSC-squared/commit/8f19dfcacde5eb8461a7f5cf60f401586b67236d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,9 +37,3 @@ _Window: last 14 days; generated 2025-12-05 15:11 UTC._
 - 2025-11-27 · [da20bda](https://github.com/justindbilyeu/eMSSC-squared/commit/da20bdaa87a79bf6bb32b5016b782b56bdfb9d55) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-26 · [b4d799d](https://github.com/justindbilyeu/eMSSC-squared/commit/b4d799d461ff15b1bf15e70079064661a14ab864) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-26 · [d2b3b9e](https://github.com/justindbilyeu/eMSSC-squared/commit/d2b3b9e212821a78ac76b4166420604050aae706) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-25 · [2f63d4c](https://github.com/justindbilyeu/eMSSC-squared/commit/2f63d4c0f7db74705fecd7b860d3b366e2e65faf) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-25 · [a101259](https://github.com/justindbilyeu/eMSSC-squared/commit/a101259df22be1f2a9025ce812b4c760663f81bb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## Resonance_Geometry
-
-- 2025-12-04 · [7dd818b](https://github.com/justindbilyeu/Resonance_Geometry/commit/7dd818b9d07b47c61bf0532864d1b7df38e2d5b3) — Add files via upload
