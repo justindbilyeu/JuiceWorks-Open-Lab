@@ -1,22 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-06 15:09 UTC._
-
-## Resonance_Geometry
-
-- 2025-12-06 · [30f8971](https://github.com/justindbilyeu/Resonance_Geometry/commit/30f89714fc92b2176440f8474f76214657b31b10) — Create resonance_geometry_rfo_wedge.tex for RFO analysis
-- 2025-12-06 · [a09a1c8](https://github.com/justindbilyeu/Resonance_Geometry/commit/a09a1c84d35a3cca66dcc8b7179646ece158a9f0) — Merge pull request #125 from justindbilyeu/claude/phase-map-corrected-math-011CUW2p9mb9iCR6gfNbRrge
-- 2025-12-06 · [a517421](https://github.com/justindbilyeu/Resonance_Geometry/commit/a5174216453c11c40e4b1fc79ede497f89b34c00) — feat: Add corrected phase map generator and validation
-- 2025-12-06 · [443e272](https://github.com/justindbilyeu/Resonance_Geometry/commit/443e2721d16bbd14237a95b8802fa3d3825998a4) — Merge pull request #124 from justindbilyeu/claude/fix-hopf-saddle-correction-011CUW2p9mb9iCR6gfNbRrge
-- 2025-12-06 · [e40c842](https://github.com/justindbilyeu/Resonance_Geometry/commit/e40c84227b3ff193bba2e21b260961ad57586d01) — fix: Correct bifurcation classification from Hopf to saddle-type
-- 2025-12-06 · [8928182](https://github.com/justindbilyeu/Resonance_Geometry/commit/89281829c5dbedaadf2b30740eca05b1c68c06ae) — Merge pull request #123 from justindbilyeu/claude/update-readme-comprehensive-011CUW2p9mb9iCR6gfNbRrge
-- 2025-12-06 · [8f9aa83](https://github.com/justindbilyeu/Resonance_Geometry/commit/8f9aa830bbdb05750ee008eafdd49c4f98957cad) — docs: Comprehensive README update with Toy Universe v2.1 and plain-English story
-- 2025-12-06 · [083a7f6](https://github.com/justindbilyeu/Resonance_Geometry/commit/083a7f6a7de4aa3b1d0459b8667fb3f0f5bf6b07) — Merge pull request #122 from justindbilyeu/claude/toy-model-v2.1-canon-011CUW2p9mb9iCR6gfNbRrge
-- 2025-12-06 · [3b66db7](https://github.com/justindbilyeu/Resonance_Geometry/commit/3b66db764e76223fa53bcab7b02cf5a002917451) — feat: Add Resonance Geometry Toy Universe v2.1 Canon
-- 2025-12-04 · [7dd818b](https://github.com/justindbilyeu/Resonance_Geometry/commit/7dd818b9d07b47c61bf0532864d1b7df38e2d5b3) — Add files via upload
+_Window: last 14 days; generated 2025-12-07 15:09 UTC._
 
 ## eMSSC-squared
 
+- 2025-12-07 · [00415f0](https://github.com/justindbilyeu/eMSSC-squared/commit/00415f0940be3260a485b1d88c4ddd6c3d557adc) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-07 · [4a9f876](https://github.com/justindbilyeu/eMSSC-squared/commit/4a9f8763edd50274ba613a8d1805bfd6aeac4a3b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-06 · [18a1931](https://github.com/justindbilyeu/eMSSC-squared/commit/18a193109b36d338705c8d897f4a0f7137cbe68b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-06 · [057d603](https://github.com/justindbilyeu/eMSSC-squared/commit/057d6035e084fdfd72f73933aaf55c94a3025b34) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-05 · [fb9d2b1](https://github.com/justindbilyeu/eMSSC-squared/commit/fb9d2b112634012a13f01301d5e334897875ec2e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -35,5 +24,26 @@ _Window: last 14 days; generated 2025-12-06 15:09 UTC._
 - 2025-11-28 · [256518e](https://github.com/justindbilyeu/eMSSC-squared/commit/256518efc865d258d0f5c6c61c6f90dff9e48dbb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-11-27 · [eb5ef3b](https://github.com/justindbilyeu/eMSSC-squared/commit/eb5ef3ba8bcd7bd4479155b3af7688ea522060f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-11-27 · [da20bda](https://github.com/justindbilyeu/eMSSC-squared/commit/da20bdaa87a79bf6bb32b5016b782b56bdfb9d55) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-11-26 · [b4d799d](https://github.com/justindbilyeu/eMSSC-squared/commit/b4d799d461ff15b1bf15e70079064661a14ab864) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-11-26 · [d2b3b9e](https://github.com/justindbilyeu/eMSSC-squared/commit/d2b3b9e212821a78ac76b4166420604050aae706) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## Resonance_Geometry
+
+- 2025-12-07 · [a656bd8](https://github.com/justindbilyeu/Resonance_Geometry/commit/a656bd84c3949f473975eb065f8cde029bb24430) — Revise README with updated badges and content
+- 2025-12-07 · [c84d3e6](https://github.com/justindbilyeu/Resonance_Geometry/commit/c84d3e6b3588b5478b95b9d65a5f7b251c3750c2) — Clean up README introductory section
+- 2025-12-07 · [dba8bb0](https://github.com/justindbilyeu/Resonance_Geometry/commit/dba8bb04fffdec45d1d3ffc449a34017c12ce7fd) — Revise README for clarity and additional information
+- 2025-12-07 · [fc6b241](https://github.com/justindbilyeu/Resonance_Geometry/commit/fc6b24121874a5987822480a4112efcdbebef1ff) — Add Resonance Geometry Lab Ethos document
+- 2025-12-06 · [afd23bc](https://github.com/justindbilyeu/Resonance_Geometry/commit/afd23bc10d433ffd106568b3309317403e13e389) — Refine text and add GitHub code reference
+- 2025-12-06 · [acfdbc7](https://github.com/justindbilyeu/Resonance_Geometry/commit/acfdbc717d1922a7aeb4a94b9fbed85680656f57) — Add white paper on Resonance Wedge and stability boundaries
+- 2025-12-06 · [effb1f5](https://github.com/justindbilyeu/Resonance_Geometry/commit/effb1f5eaef60b222f484edf60654f9cea6aadde) — Rename resonance_geometry_rfo_wedge to v2 version
+- 2025-12-06 · [558f519](https://github.com/justindbilyeu/Resonance_Geometry/commit/558f519d28b71d4411fde79980b89865e37e8bb1) — Update print statement from 'Hello' to 'Goodbye'
+- 2025-12-06 · [c317839](https://github.com/justindbilyeu/Resonance_Geometry/commit/c31783978db16ae85782365549856b1438938cb7) — Revise README with updated title and content
+- 2025-12-06 · [ba476f3](https://github.com/justindbilyeu/Resonance_Geometry/commit/ba476f3cb0c1e175b1c50596074770bdf841d2ee) — Merge pull request #126 from justindbilyeu/claude/phase-map-corrected-math-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [66cddd4](https://github.com/justindbilyeu/Resonance_Geometry/commit/66cddd447fd3797e4a2139ce371998dab50a0791) — feat: Add RFO validation script (analytical vs DDE simulation)
+- 2025-12-06 · [30f8971](https://github.com/justindbilyeu/Resonance_Geometry/commit/30f89714fc92b2176440f8474f76214657b31b10) — Create resonance_geometry_rfo_wedge.tex for RFO analysis
+- 2025-12-06 · [bd02883](https://github.com/justindbilyeu/Resonance_Geometry/commit/bd0288321af777c0fb2d5e64f3d2d57687072a86) — feat: Add K-Δ phase map hero plot (analytical)
+- 2025-12-06 · [7f416af](https://github.com/justindbilyeu/Resonance_Geometry/commit/7f416afed46b87d8e30d99bd701b0d7ce67f9621) — feat: Add RFO stability and motifs simulation suite (partial)
+- 2025-12-06 · [a09a1c8](https://github.com/justindbilyeu/Resonance_Geometry/commit/a09a1c84d35a3cca66dcc8b7179646ece158a9f0) — Merge pull request #125 from justindbilyeu/claude/phase-map-corrected-math-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [a517421](https://github.com/justindbilyeu/Resonance_Geometry/commit/a5174216453c11c40e4b1fc79ede497f89b34c00) — feat: Add corrected phase map generator and validation
+- 2025-12-06 · [443e272](https://github.com/justindbilyeu/Resonance_Geometry/commit/443e2721d16bbd14237a95b8802fa3d3825998a4) — Merge pull request #124 from justindbilyeu/claude/fix-hopf-saddle-correction-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [e40c842](https://github.com/justindbilyeu/Resonance_Geometry/commit/e40c84227b3ff193bba2e21b260961ad57586d01) — fix: Correct bifurcation classification from Hopf to saddle-type
+- 2025-12-06 · [8928182](https://github.com/justindbilyeu/Resonance_Geometry/commit/89281829c5dbedaadf2b30740eca05b1c68c06ae) — Merge pull request #123 from justindbilyeu/claude/update-readme-comprehensive-011CUW2p9mb9iCR6gfNbRrge
+- 2025-12-06 · [8f9aa83](https://github.com/justindbilyeu/Resonance_Geometry/commit/8f9aa830bbdb05750ee008eafdd49c4f98957cad) — docs: Comprehensive README update with Toy Universe v2.1 and plain-English story
