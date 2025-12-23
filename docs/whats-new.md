@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-22 15:11 UTC._
+_Window: last 14 days; generated 2025-12-23 15:11 UTC._
 
 ## eMSSC-squared
 
+- 2025-12-23 · [00312f3](https://github.com/justindbilyeu/eMSSC-squared/commit/00312f3ce1e118a62177a098c5e1a82c479e3d26) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-23 · [6b5bf82](https://github.com/justindbilyeu/eMSSC-squared/commit/6b5bf8229abd9333c9ef8e2365465a3d2f414649) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-22 · [fdf9a5f](https://github.com/justindbilyeu/eMSSC-squared/commit/fdf9a5f35458c1a8631eeb7dce59c50713cf2d73) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-22 · [df25525](https://github.com/justindbilyeu/eMSSC-squared/commit/df255251b7edbfe0b6f4c0b26d63cae15e8aca57) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-21 · [e95b034](https://github.com/justindbilyeu/eMSSC-squared/commit/e95b0346039a8be49ab1113aa4e1fb5ea4c2a62c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,16 +24,8 @@ _Window: last 14 days; generated 2025-12-22 15:11 UTC._
 - 2025-12-15 · [ddb5d3f](https://github.com/justindbilyeu/eMSSC-squared/commit/ddb5d3f570fa740ba00f31c2f330b320b00ba728) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-14 · [4802173](https://github.com/justindbilyeu/eMSSC-squared/commit/48021736a63d88650984a1749c23d89d2fda67db) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-14 · [1c7b57e](https://github.com/justindbilyeu/eMSSC-squared/commit/1c7b57ebe663f195a42f3d3781eda9175da94e15) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-13 · [af27e05](https://github.com/justindbilyeu/eMSSC-squared/commit/af27e05d106fd28d505b58b1976d463ea2f0af2a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-13 · [a9453c5](https://github.com/justindbilyeu/eMSSC-squared/commit/a9453c542affdaf713cfb3a29e398f515bfae1ae) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Resonance-Method
 
 - 2025-12-14 · [efdccbf](https://github.com/justindbilyeu/Resonance-Method/commit/efdccbf3ccf016fae5620fd65a058f468a30f7c5) — Merge pull request #1 from justindbilyeu/claude/transform-emssc2-resonance-01Toc3fLnTPtJjfnK8R3ydve
 - 2025-12-13 · [d131e8a](https://github.com/justindbilyeu/Resonance-Method/commit/d131e8ad8ae4ea6a065fb7ae4d487c8ebd77bf25) — Transform eMSSC2 into Resonance-Method framework
-
-## Resonance_Geometry
-
-- 2025-12-08 · [83ec2dc](https://github.com/justindbilyeu/Resonance_Geometry/commit/83ec2dc3aa293006ddc3b97041ed6f42c6d4f8bc) — Add Chapter 5 on Geometric Theory of AI Hallucination
-- 2025-12-08 · [dda9b09](https://github.com/justindbilyeu/Resonance_Geometry/commit/dda9b099979c8c3224b110d2094a9468243e7dcd) — Rename hallucination theory document to v1
-- 2025-12-08 · [d490045](https://github.com/justindbilyeu/Resonance_Geometry/commit/d490045e0d78f5c02cb0774825e863476d18fbe8) — Merge pull request #133 from justindbilyeu/claude/cleanup-github-actions-workflows-01VtuyrsguTN1fee5qgjvB5R
