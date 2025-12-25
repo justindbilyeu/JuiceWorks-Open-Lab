@@ -1,9 +1,17 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-23 15:11 UTC._
+_Window: last 14 days; generated 2025-12-25 15:11 UTC._
+
+## Resonance-Engine
+
+- 2025-12-25 · [feceee9](https://github.com/justindbilyeu/Resonance-Engine/commit/feceee905fb8739d381fa87cb517b20174395ee5) — Initial commit
 
 ## eMSSC-squared
 
+- 2025-12-25 · [4485ef8](https://github.com/justindbilyeu/eMSSC-squared/commit/4485ef808bb65dd7b3e86a2689f5f2898bf3323e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-25 · [4658627](https://github.com/justindbilyeu/eMSSC-squared/commit/4658627cd1a36833673b9a16942cc686b0377559) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2025-12-24 · [ceb1144](https://github.com/justindbilyeu/eMSSC-squared/commit/ceb1144361fe387f9ec68bef6c770dfba0bf8a96) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-24 · [f6a1ae4](https://github.com/justindbilyeu/eMSSC-squared/commit/f6a1ae4ee309abafd9ade47f0ea82215e346f191) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-23 · [00312f3](https://github.com/justindbilyeu/eMSSC-squared/commit/00312f3ce1e118a62177a098c5e1a82c479e3d26) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-23 · [6b5bf82](https://github.com/justindbilyeu/eMSSC-squared/commit/6b5bf8229abd9333c9ef8e2365465a3d2f414649) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-22 · [fdf9a5f](https://github.com/justindbilyeu/eMSSC-squared/commit/fdf9a5f35458c1a8631eeb7dce59c50713cf2d73) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -20,10 +28,11 @@ _Window: last 14 days; generated 2025-12-23 15:11 UTC._
 - 2025-12-17 · [238ee44](https://github.com/justindbilyeu/eMSSC-squared/commit/238ee44618748cfadc648b6833b9126316942462) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-16 · [02e7597](https://github.com/justindbilyeu/eMSSC-squared/commit/02e759793bd86d7879bda78e3281abd60399e062) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-16 · [3aa4019](https://github.com/justindbilyeu/eMSSC-squared/commit/3aa4019cb093a942ae56d960ecab279ab3144ef7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-15 · [f2e5bd5](https://github.com/justindbilyeu/eMSSC-squared/commit/f2e5bd598049f52b2b8a0d02e2b430fc47cc68b3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-15 · [ddb5d3f](https://github.com/justindbilyeu/eMSSC-squared/commit/ddb5d3f570fa740ba00f31c2f330b320b00ba728) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-14 · [4802173](https://github.com/justindbilyeu/eMSSC-squared/commit/48021736a63d88650984a1749c23d89d2fda67db) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-14 · [1c7b57e](https://github.com/justindbilyeu/eMSSC-squared/commit/1c7b57ebe663f195a42f3d3781eda9175da94e15) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## Resonance_Geometry
+
+- 2025-12-23 · [bed9e8c](https://github.com/justindbilyeu/Resonance_Geometry/commit/bed9e8c43bed174450d04786a51fde8755e6ad93) — Merge pull request #134 from justindbilyeu/claude/add-f-ai-intrinsic-0xBtO
+- 2025-12-23 · [3837963](https://github.com/justindbilyeu/Resonance_Geometry/commit/38379635febbfd5cdfe0a73052a931c336f6831d) — Add F_AI intrinsic metric v1.0 implementation
 
 ## Resonance-Method
 
