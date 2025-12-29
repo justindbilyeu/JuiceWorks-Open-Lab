@@ -1,9 +1,10 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2025-12-28 15:10 UTC._
+_Window: last 14 days; generated 2025-12-29 15:12 UTC._
 
 ## Resonance-Engine
 
+- 2025-12-29 · [22f0f9d](https://github.com/justindbilyeu/Resonance-Engine/commit/22f0f9dddbec1fc3433eddba1d947bf89a862200) — fix: Make Bundle 0001 executable - fixes rep parameter bug, adds forcing test
 - 2025-12-28 · [24b6105](https://github.com/justindbilyeu/Resonance-Engine/commit/24b6105f1aa8724eb940fb8aa037029546bf067d) — Add files via upload
 - 2025-12-28 · [d93fe37](https://github.com/justindbilyeu/Resonance-Engine/commit/d93fe37a68e28415198e580348dcac82dc2af756) — Merge pull request #7 from justindbilyeu/claude/cleanup-organize-aOE69
 - 2025-12-27 · [8d470f4](https://github.com/justindbilyeu/Resonance-Engine/commit/8d470f4c0d65c996b1de4dac9044f3cae91930f5) — docs: Update README to reflect organized repository structure
@@ -23,10 +24,11 @@ _Window: last 14 days; generated 2025-12-28 15:10 UTC._
 - 2025-12-26 · [983a285](https://github.com/justindbilyeu/Resonance-Engine/commit/983a2856f7d86f60abd64ee3674bd39676d326e6) — Merge pull request #2 from justindbilyeu/claude/pr1-null-gate-aOE69
 - 2025-12-26 · [6b24023](https://github.com/justindbilyeu/Resonance-Engine/commit/6b24023739540541f7364275dcdc897ee5c811a5) — PR-1: Hard gate - Numeric null completeness (≥2 thresholds)
 - 2025-12-26 · [efa5a71](https://github.com/justindbilyeu/Resonance-Engine/commit/efa5a710d09e66f5ed40219b5cd4394d651a208a) — Merge pull request #1 from justindbilyeu/claude/pr0-kernel-scaffold-aOE69
-- 2025-12-26 · [012c387](https://github.com/justindbilyeu/Resonance-Engine/commit/012c3876534599c56bd40f76265ea07617eea22a) — PR-0: Kernel scaffold + CI + truthful README
 
 ## eMSSC-squared
 
+- 2025-12-29 · [f1f8634](https://github.com/justindbilyeu/eMSSC-squared/commit/f1f8634e30fad0b86b01ff2aead261e124007ae3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2025-12-29 · [648b4b1](https://github.com/justindbilyeu/eMSSC-squared/commit/648b4b1b3b91f47f4c3699212d662e699ac779be) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-28 · [a011fc2](https://github.com/justindbilyeu/eMSSC-squared/commit/a011fc20e050ae90da9a58196dabefc1ce18d4b2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-28 · [cb1c800](https://github.com/justindbilyeu/eMSSC-squared/commit/cb1c80043cb1e637dfe98c0234dceacf9da6b86b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-27 · [42841e3](https://github.com/justindbilyeu/eMSSC-squared/commit/42841e366fa987df2285289e3c57b15905f411fd) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -45,14 +47,8 @@ _Window: last 14 days; generated 2025-12-28 15:10 UTC._
 - 2025-12-21 · [7247acc](https://github.com/justindbilyeu/eMSSC-squared/commit/7247acc7c2994eff5671f3c01c904d6ad480eca4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-20 · [59a1ea1](https://github.com/justindbilyeu/eMSSC-squared/commit/59a1ea1d340ed9619cc21b3aabb58137463c4e9b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-20 · [daacc85](https://github.com/justindbilyeu/eMSSC-squared/commit/daacc853d6c03db42eab00fe15a9d24d363de5d8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-19 · [aa43a40](https://github.com/justindbilyeu/eMSSC-squared/commit/aa43a40cdbcd29caae6c7e08a138d37c898e146c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-19 · [f37957f](https://github.com/justindbilyeu/eMSSC-squared/commit/f37957f559d8f6bdef9802a2dd883dc1bb7663a2) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Resonance_Geometry
 
 - 2025-12-23 · [bed9e8c](https://github.com/justindbilyeu/Resonance_Geometry/commit/bed9e8c43bed174450d04786a51fde8755e6ad93) — Merge pull request #134 from justindbilyeu/claude/add-f-ai-intrinsic-0xBtO
 - 2025-12-23 · [3837963](https://github.com/justindbilyeu/Resonance_Geometry/commit/38379635febbfd5cdfe0a73052a931c336f6831d) — Add F_AI intrinsic metric v1.0 implementation
-
-## Resonance-Method
-
-- 2025-12-14 · [efdccbf](https://github.com/justindbilyeu/Resonance-Method/commit/efdccbf3ccf016fae5620fd65a058f468a30f7c5) — Merge pull request #1 from justindbilyeu/claude/transform-emssc2-resonance-01Toc3fLnTPtJjfnK8R3ydve
