@@ -1,9 +1,21 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-05 15:13 UTC._
+_Window: last 14 days; generated 2026-01-06 15:12 UTC._
+
+## iTCR
+
+- 2026-01-06 · [6256090](https://github.com/justindbilyeu/iTCR/commit/6256090ec7bb9ce0e0a2691e9ded236205741d12) — Merge pull request #3 from justindbilyeu/claude/build-itcr-repository-QSe8W
+- 2026-01-06 · [d5daf20](https://github.com/justindbilyeu/iTCR/commit/d5daf20fcd966db26010b4a4f0ff4314bf935cb4) — feat(calculator): add 7-business-day validity stamping + PII sanitization
+- 2026-01-05 · [40ee3fb](https://github.com/justindbilyeu/iTCR/commit/40ee3fb99ad665ea766aed446d6aa4b9ea4aa8e7) — Merge pull request #2 from justindbilyeu/claude/build-itcr-repository-QSe8W
+- 2026-01-05 · [e77a3da](https://github.com/justindbilyeu/iTCR/commit/e77a3da1f9450a68ddf59b141a23a68724786f95) — Add quote engine shell from SCSRRS (client-side, privacy-first)
+- 2026-01-03 · [73e83f1](https://github.com/justindbilyeu/iTCR/commit/73e83f130daf62940837fdffc766ca141ec88436) — Merge pull request #1 from justindbilyeu/claude/build-itcr-repository-QSe8W
+- 2026-01-03 · [4d5b804](https://github.com/justindbilyeu/iTCR/commit/4d5b804c523580e5eef5bba4294d48fb9b946749) — Initial iTCR repository structure and documentation
+- 2026-01-03 · [e7c3f95](https://github.com/justindbilyeu/iTCR/commit/e7c3f95e5ba0665f028bf5152c5c969df0a9311d) — Initial commit
 
 ## eMSSC-squared
 
+- 2026-01-06 · [85400e5](https://github.com/justindbilyeu/eMSSC-squared/commit/85400e5e4999d2e381a3f572b23edfa564da5598) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-06 · [8c5ab2d](https://github.com/justindbilyeu/eMSSC-squared/commit/8c5ab2d87c2039ceef3cfb17adc3d76aa3ef4ffb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-05 · [0ce1cc0](https://github.com/justindbilyeu/eMSSC-squared/commit/0ce1cc0e93efa74b93ee0b85937a885f822d42ab) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-05 · [3eb0bad](https://github.com/justindbilyeu/eMSSC-squared/commit/3eb0bad928b726f80bbfb70e81adc074f8c7efe4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-04 · [c2b7456](https://github.com/justindbilyeu/eMSSC-squared/commit/c2b7456ef6b13e6e0975cc9dea3ff5318fcb1d05) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,16 +34,6 @@ _Window: last 14 days; generated 2026-01-05 15:13 UTC._
 - 2025-12-29 · [648b4b1](https://github.com/justindbilyeu/eMSSC-squared/commit/648b4b1b3b91f47f4c3699212d662e699ac779be) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-28 · [a011fc2](https://github.com/justindbilyeu/eMSSC-squared/commit/a011fc20e050ae90da9a58196dabefc1ce18d4b2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-28 · [cb1c800](https://github.com/justindbilyeu/eMSSC-squared/commit/cb1c80043cb1e637dfe98c0234dceacf9da6b86b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-27 · [42841e3](https://github.com/justindbilyeu/eMSSC-squared/commit/42841e366fa987df2285289e3c57b15905f411fd) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-27 · [1d44407](https://github.com/justindbilyeu/eMSSC-squared/commit/1d44407d899ba071b8ee216ee5e0605cb759042b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## iTCR
-
-- 2026-01-05 · [40ee3fb](https://github.com/justindbilyeu/iTCR/commit/40ee3fb99ad665ea766aed446d6aa4b9ea4aa8e7) — Merge pull request #2 from justindbilyeu/claude/build-itcr-repository-QSe8W
-- 2026-01-05 · [e77a3da](https://github.com/justindbilyeu/iTCR/commit/e77a3da1f9450a68ddf59b141a23a68724786f95) — Add quote engine shell from SCSRRS (client-side, privacy-first)
-- 2026-01-03 · [73e83f1](https://github.com/justindbilyeu/iTCR/commit/73e83f130daf62940837fdffc766ca141ec88436) — Merge pull request #1 from justindbilyeu/claude/build-itcr-repository-QSe8W
-- 2026-01-03 · [4d5b804](https://github.com/justindbilyeu/iTCR/commit/4d5b804c523580e5eef5bba4294d48fb9b946749) — Initial iTCR repository structure and documentation
-- 2026-01-03 · [e7c3f95](https://github.com/justindbilyeu/iTCR/commit/e7c3f95e5ba0665f028bf5152c5c969df0a9311d) — Initial commit
 
 ## Resonance-Engine
 
