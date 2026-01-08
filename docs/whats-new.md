@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-07 15:13 UTC._
+_Window: last 14 days; generated 2026-01-08 15:14 UTC._
 
 ## eMSSC-squared
 
+- 2026-01-08 · [f663326](https://github.com/justindbilyeu/eMSSC-squared/commit/f6633260363856211f446a78b6bd913762728315) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-08 · [016598e](https://github.com/justindbilyeu/eMSSC-squared/commit/016598ea22483a1b106c79aa2ec18f166f5d976c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-07 · [0be3ff3](https://github.com/justindbilyeu/eMSSC-squared/commit/0be3ff3a9c49af524c00189a72254fe144870d5b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-07 · [d6071c7](https://github.com/justindbilyeu/eMSSC-squared/commit/d6071c7f50277f3f63d3e4a395862dce06bf214a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-06 · [85400e5](https://github.com/justindbilyeu/eMSSC-squared/commit/85400e5e4999d2e381a3f572b23edfa564da5598) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,23 @@ _Window: last 14 days; generated 2026-01-07 15:13 UTC._
 - 2025-12-31 · [638a781](https://github.com/justindbilyeu/eMSSC-squared/commit/638a78127cc089afa42c147168481a8ef480244a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-30 · [99e7a9f](https://github.com/justindbilyeu/eMSSC-squared/commit/99e7a9f4cf4d55bb1856f7f1e119e5d7bd797978) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-30 · [4b4000b](https://github.com/justindbilyeu/eMSSC-squared/commit/4b4000bfc2cd7a88026ebf843f07b4d454e04bee) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-29 · [f1f8634](https://github.com/justindbilyeu/eMSSC-squared/commit/f1f8634e30fad0b86b01ff2aead261e124007ae3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-29 · [648b4b1](https://github.com/justindbilyeu/eMSSC-squared/commit/648b4b1b3b91f47f4c3699212d662e699ac779be) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## iQueue
+
+- 2026-01-08 · [ac5b09b](https://github.com/justindbilyeu/iQueue/commit/ac5b09b09600aa1609226971b04071cc093ad88d) — Revise MVP specification document for clarity
+- 2026-01-08 · [daee116](https://github.com/justindbilyeu/iQueue/commit/daee11624b928f643e8e6505cc1bf7b063f22e15) — Revise README to clarify iQueue's mission and features
+- 2026-01-08 · [74d8834](https://github.com/justindbilyeu/iQueue/commit/74d88344bfa61ae509a41ec379743fd5dfa32945) — Create contributing.md with contribution guidelines
+- 2026-01-08 · [a82a06b](https://github.com/justindbilyeu/iQueue/commit/a82a06b3ec593c87e852cb8b16c38dd7da78e372) — Create MVP specification document for iQueue
+- 2026-01-08 · [64343cc](https://github.com/justindbilyeu/iQueue/commit/64343ccee23d2429cdd37b379329d276ce4ba3fe) — Create iQueue development roadmap document
+- 2026-01-08 · [d1d88be](https://github.com/justindbilyeu/iQueue/commit/d1d88be26a4e6211d8706b320905721b63713e7e) — Add architecture documentation for iQueue platform
+- 2026-01-08 · [88c849e](https://github.com/justindbilyeu/iQueue/commit/88c849e6fb606827efb15a7cba3d6c2de0216051) — Revamp README with comprehensive project details
+- 2026-01-08 · [921502d](https://github.com/justindbilyeu/iQueue/commit/921502d1fc447057a37afd536fb8d1c281158641) — Initial commit
+
+## Fold-Engine-Intrinsics
+
+- 2026-01-08 · [99c9301](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/99c9301d3c313aa74c5ceab32a4b364912351cbd) — Merge pull request #1 from justindbilyeu/claude/implement-intrinsics-suite-fdtyo
+- 2026-01-08 · [c38628c](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/c38628c6f442f6c1b1f106dea5451526ccb93ccf) — Implement complete Intrinsic LLM Test Suite v0.1.0
+- 2026-01-07 · [8e62182](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/8e621829ba41abdc46277c596e7edd99c7ad6809) — Initial commit
 
 ## iTCR
 
