@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-08 15:14 UTC._
+_Window: last 14 days; generated 2026-01-09 15:12 UTC._
 
 ## eMSSC-squared
 
+- 2026-01-09 · [702e030](https://github.com/justindbilyeu/eMSSC-squared/commit/702e0300ad5f02d6e488ec0201b62fbbf4ef1de3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-09 · [f65595a](https://github.com/justindbilyeu/eMSSC-squared/commit/f65595abada199b0777abfdd9ba2901a3b6121e9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-08 · [f663326](https://github.com/justindbilyeu/eMSSC-squared/commit/f6633260363856211f446a78b6bd913762728315) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-08 · [016598e](https://github.com/justindbilyeu/eMSSC-squared/commit/016598ea22483a1b106c79aa2ec18f166f5d976c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-07 · [0be3ff3](https://github.com/justindbilyeu/eMSSC-squared/commit/0be3ff3a9c49af524c00189a72254fe144870d5b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,10 @@ _Window: last 14 days; generated 2026-01-08 15:14 UTC._
 - 2026-01-01 · [1b4cc76](https://github.com/justindbilyeu/eMSSC-squared/commit/1b4cc76dd51f8ae54487976dde5706547d6b013a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2025-12-31 · [db52611](https://github.com/justindbilyeu/eMSSC-squared/commit/db52611dc3069ad4bec9bf9ed79ab18deb6e5bbf) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2025-12-31 · [638a781](https://github.com/justindbilyeu/eMSSC-squared/commit/638a78127cc089afa42c147168481a8ef480244a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2025-12-30 · [99e7a9f](https://github.com/justindbilyeu/eMSSC-squared/commit/99e7a9f4cf4d55bb1856f7f1e119e5d7bd797978) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2025-12-30 · [4b4000b](https://github.com/justindbilyeu/eMSSC-squared/commit/4b4000bfc2cd7a88026ebf843f07b4d454e04bee) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## EdgeLab
+
+- 2026-01-08 · [dc80ae5](https://github.com/justindbilyeu/EdgeLab/commit/dc80ae5049007ce80ccd8315fa252f4913db280c) — Initial commit
 
 ## iQueue
 
@@ -66,11 +70,3 @@ _Window: last 14 days; generated 2026-01-08 15:14 UTC._
 - 2025-12-27 · [5fc5d78](https://github.com/justindbilyeu/Resonance-Engine/commit/5fc5d780de8b4d0ddbd7efb52a11415b37c517f8) — Delete project overview from README.md
 - 2025-12-27 · [9b61805](https://github.com/justindbilyeu/Resonance-Engine/commit/9b61805a399f6957152e0840b18186dbb1d18258) — Add files via upload
 - 2025-12-27 · [fcdbf7d](https://github.com/justindbilyeu/Resonance-Engine/commit/fcdbf7d40030239c2f83b3dfc757209bfc48e2d6) — Add files via upload
-- 2025-12-26 · [0bbe397](https://github.com/justindbilyeu/Resonance-Engine/commit/0bbe39717e9e87f248f8bd1557b771a25af330b6) — Merge pull request #5 from justindbilyeu/claude/pr4-example-toy-golden-path-aOE69
-- 2025-12-26 · [f3c705f](https://github.com/justindbilyeu/Resonance-Engine/commit/f3c705f07b6ca3eb0aaa15bcfdac03eeaec80b62) — PR-4: Example Bundle (Toy Golden Path) + Results Stub
-- 2025-12-26 · [64c8ac2](https://github.com/justindbilyeu/Resonance-Engine/commit/64c8ac24ab58bac397db1fed53ec9c560daea355) — Merge pull request #4 from justindbilyeu/claude/pr3-integration-adapters-aOE69
-- 2025-12-26 · [1eba076](https://github.com/justindbilyeu/Resonance-Engine/commit/1eba07650ba69359ae9d56ecd30420994c15b401) — PR-3: Integration Surfaces (Adapters + Docs, No Imports Yet)
-- 2025-12-26 · [e1faf33](https://github.com/justindbilyeu/Resonance-Engine/commit/e1faf33de91598b14f89a7bdc6af3f1811fa41e0) — Merge pull request #3 from justindbilyeu/claude/pr2-templates-bundle-generator-aOE69
-- 2025-12-26 · [1bdb92f](https://github.com/justindbilyeu/Resonance-Engine/commit/1bdb92fa6a09417f3efe6d2bac140c3f1e539c4a) — PR-2: Templates + Bundle Generator (Dumb Copier + Gate Enforced)
-- 2025-12-26 · [983a285](https://github.com/justindbilyeu/Resonance-Engine/commit/983a2856f7d86f60abd64ee3674bd39676d326e6) — Merge pull request #2 from justindbilyeu/claude/pr1-null-gate-aOE69
-- 2025-12-26 · [6b24023](https://github.com/justindbilyeu/Resonance-Engine/commit/6b24023739540541f7364275dcdc897ee5c811a5) — PR-1: Hard gate - Numeric null completeness (≥2 thresholds)
