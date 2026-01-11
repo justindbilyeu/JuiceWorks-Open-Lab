@@ -1,9 +1,15 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-10 15:10 UTC._
+_Window: last 14 days; generated 2026-01-11 15:10 UTC._
+
+## Horse-Thieves-Hang
+
+- 2026-01-11 · [6fd5071](https://github.com/justindbilyeu/Horse-Thieves-Hang/commit/6fd50716f6b6fb96cda193213c0ca9f314dd2038) — Initial commit
 
 ## eMSSC-squared
 
+- 2026-01-11 · [1f7e8fb](https://github.com/justindbilyeu/eMSSC-squared/commit/1f7e8fba9330e62384ee69bae4bb22e2b5b034ba) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-11 · [c52f786](https://github.com/justindbilyeu/eMSSC-squared/commit/c52f786af0ab03af5a56e6fae320cdddcff2dcd2) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-10 · [5e05939](https://github.com/justindbilyeu/eMSSC-squared/commit/5e0593918c70406e2dbcb248aad4a9b1717353f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-10 · [b988205](https://github.com/justindbilyeu/eMSSC-squared/commit/b988205365ec596affded3fe7a1d02e6b972a2f1) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-09 · [702e030](https://github.com/justindbilyeu/eMSSC-squared/commit/702e0300ad5f02d6e488ec0201b62fbbf4ef1de3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +28,6 @@ _Window: last 14 days; generated 2026-01-10 15:10 UTC._
 - 2026-01-03 · [c94fb4b](https://github.com/justindbilyeu/eMSSC-squared/commit/c94fb4b955c285ed82b26d3d7a66babf4ff807c3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-02 · [e6022ea](https://github.com/justindbilyeu/eMSSC-squared/commit/e6022ea24361e2e05dd250c3e2383b070dcc3654) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-02 · [0abcb46](https://github.com/justindbilyeu/eMSSC-squared/commit/0abcb462e1ddbdc7d84afae7e0e1c0c01be34b0e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-01-01 · [7fa1e99](https://github.com/justindbilyeu/eMSSC-squared/commit/7fa1e9986fbea21547dce6758a12f10bd849fe35) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-01-01 · [1b4cc76](https://github.com/justindbilyeu/eMSSC-squared/commit/1b4cc76dd51f8ae54487976dde5706547d6b013a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## EdgeLab
 
@@ -60,13 +64,3 @@ _Window: last 14 days; generated 2026-01-10 15:10 UTC._
 
 - 2025-12-29 · [f3a282a](https://github.com/justindbilyeu/Resonance-Engine/commit/f3a282a561dc99d71c79f654544e1f1f992a2ee4) — fix: Bundle 0001 infrastructure improvements - semantic naming and error preservation
 - 2025-12-29 · [22f0f9d](https://github.com/justindbilyeu/Resonance-Engine/commit/22f0f9dddbec1fc3433eddba1d947bf89a862200) — fix: Make Bundle 0001 executable - fixes rep parameter bug, adds forcing test
-- 2025-12-28 · [24b6105](https://github.com/justindbilyeu/Resonance-Engine/commit/24b6105f1aa8724eb940fb8aa037029546bf067d) — Add files via upload
-- 2025-12-28 · [d93fe37](https://github.com/justindbilyeu/Resonance-Engine/commit/d93fe37a68e28415198e580348dcac82dc2af756) — Merge pull request #7 from justindbilyeu/claude/cleanup-organize-aOE69
-- 2025-12-27 · [8d470f4](https://github.com/justindbilyeu/Resonance-Engine/commit/8d470f4c0d65c996b1de4dac9044f3cae91930f5) — docs: Update README to reflect organized repository structure
-- 2025-12-27 · [a9eb1ae](https://github.com/justindbilyeu/Resonance-Engine/commit/a9eb1ae288eb71340bc7bcf8c7f64ec0bccae506) — Merge pull request #6 from justindbilyeu/claude/cleanup-organize-aOE69
-- 2025-12-27 · [47fe7a6](https://github.com/justindbilyeu/Resonance-Engine/commit/47fe7a6d840a077d794c2720ef69e18f267cc3a7) — Refactor: Organize repository structure
-- 2025-12-27 · [9f20e49](https://github.com/justindbilyeu/Resonance-Engine/commit/9f20e49fb45d009de8ec876e6d4d886f05545d0f) — Clean up README introductory content
-- 2025-12-27 · [359f18b](https://github.com/justindbilyeu/Resonance-Engine/commit/359f18b80cf33f67f3bf7269968f62484b1567bb) — Create detailed README for Resonance Engine
-- 2025-12-27 · [5fc5d78](https://github.com/justindbilyeu/Resonance-Engine/commit/5fc5d780de8b4d0ddbd7efb52a11415b37c517f8) — Delete project overview from README.md
-- 2025-12-27 · [9b61805](https://github.com/justindbilyeu/Resonance-Engine/commit/9b61805a399f6957152e0840b18186dbb1d18258) — Add files via upload
-- 2025-12-27 · [fcdbf7d](https://github.com/justindbilyeu/Resonance-Engine/commit/fcdbf7d40030239c2f83b3dfc757209bfc48e2d6) — Add files via upload
