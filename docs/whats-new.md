@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-16 15:13 UTC._
+_Window: last 14 days; generated 2026-01-17 15:10 UTC._
 
 ## eMSSC-squared
 
+- 2026-01-17 · [a621ff1](https://github.com/justindbilyeu/eMSSC-squared/commit/a621ff198156c8ac78a862efe235206dcbfc6860) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-17 · [52aabcb](https://github.com/justindbilyeu/eMSSC-squared/commit/52aabcb1b1a44fce5516612815723323eb7937cb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-16 · [68365ff](https://github.com/justindbilyeu/eMSSC-squared/commit/68365ff0cfbb0935c4fab31e939e963a35d83be5) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-16 · [4b220c4](https://github.com/justindbilyeu/eMSSC-squared/commit/4b220c44cd2f41c0d8db2721e12b170c274e350f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-15 · [c8bba9c](https://github.com/justindbilyeu/eMSSC-squared/commit/c8bba9c1ec4186ac29abffa6357fa8741c32fd25) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-01-16 15:13 UTC._
 - 2026-01-09 · [f65595a](https://github.com/justindbilyeu/eMSSC-squared/commit/f65595abada199b0777abfdd9ba2901a3b6121e9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-08 · [f663326](https://github.com/justindbilyeu/eMSSC-squared/commit/f6633260363856211f446a78b6bd913762728315) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-08 · [016598e](https://github.com/justindbilyeu/eMSSC-squared/commit/016598ea22483a1b106c79aa2ec18f166f5d976c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-01-07 · [0be3ff3](https://github.com/justindbilyeu/eMSSC-squared/commit/0be3ff3a9c49af524c00189a72254fe144870d5b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-01-07 · [d6071c7](https://github.com/justindbilyeu/eMSSC-squared/commit/d6071c7f50277f3f63d3e4a395862dce06bf214a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Horse-Thieves-Hang
 
@@ -60,4 +60,3 @@ _Window: last 14 days; generated 2026-01-16 15:13 UTC._
 - 2026-01-05 · [e77a3da](https://github.com/justindbilyeu/iTCR/commit/e77a3da1f9450a68ddf59b141a23a68724786f95) — Add quote engine shell from SCSRRS (client-side, privacy-first)
 - 2026-01-03 · [73e83f1](https://github.com/justindbilyeu/iTCR/commit/73e83f130daf62940837fdffc766ca141ec88436) — Merge pull request #1 from justindbilyeu/claude/build-itcr-repository-QSe8W
 - 2026-01-03 · [4d5b804](https://github.com/justindbilyeu/iTCR/commit/4d5b804c523580e5eef5bba4294d48fb9b946749) — Initial iTCR repository structure and documentation
-- 2026-01-03 · [e7c3f95](https://github.com/justindbilyeu/iTCR/commit/e7c3f95e5ba0665f028bf5152c5c969df0a9311d) — Initial commit
