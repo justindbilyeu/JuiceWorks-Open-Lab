@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-01-21 15:20 UTC._
+_Window: last 14 days; generated 2026-01-22 15:19 UTC._
 
 ## eMSSC-squared
 
+- 2026-01-22 · [2f8493a](https://github.com/justindbilyeu/eMSSC-squared/commit/2f8493aa706a4cc81e5de54a644e0b44d4ee9b94) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-01-22 · [0e24f0c](https://github.com/justindbilyeu/eMSSC-squared/commit/0e24f0c99649f7eca1a0a773826b46b10b37f2d4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-21 · [e31450b](https://github.com/justindbilyeu/eMSSC-squared/commit/e31450b8179f33535b0e9174ce4f2e99580e8ba4) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-21 · [1aeb5ad](https://github.com/justindbilyeu/eMSSC-squared/commit/1aeb5adde3df32099e416a4fa220947fd7d5bd93) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-20 · [d428130](https://github.com/justindbilyeu/eMSSC-squared/commit/d42813093857a2c5fab42d09a693177aa6fc8031) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-01-21 15:20 UTC._
 - 2026-01-14 · [53edc91](https://github.com/justindbilyeu/eMSSC-squared/commit/53edc91d68c2480417ea087fc1f64075630a9862) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-01-13 · [2a172a7](https://github.com/justindbilyeu/eMSSC-squared/commit/2a172a7c397a1890de7ea3cf788f974e0b12a33d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-01-13 · [539fb90](https://github.com/justindbilyeu/eMSSC-squared/commit/539fb906709f12f4c1477b0d969e4567988cf013) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-01-12 · [95507ce](https://github.com/justindbilyeu/eMSSC-squared/commit/95507ce65594acf142c5e3f3c5077afb833ccedb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-01-12 · [034e64a](https://github.com/justindbilyeu/eMSSC-squared/commit/034e64a417001bef270a224f0acc342cc2ed0529) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Horse-Thieves-Hang
 
@@ -34,20 +34,3 @@ _Window: last 14 days; generated 2026-01-21 15:20 UTC._
 ## EdgeLab
 
 - 2026-01-08 · [dc80ae5](https://github.com/justindbilyeu/EdgeLab/commit/dc80ae5049007ce80ccd8315fa252f4913db280c) — Initial commit
-
-## iQueue
-
-- 2026-01-08 · [ac5b09b](https://github.com/justindbilyeu/iQueue/commit/ac5b09b09600aa1609226971b04071cc093ad88d) — Revise MVP specification document for clarity
-- 2026-01-08 · [daee116](https://github.com/justindbilyeu/iQueue/commit/daee11624b928f643e8e6505cc1bf7b063f22e15) — Revise README to clarify iQueue's mission and features
-- 2026-01-08 · [74d8834](https://github.com/justindbilyeu/iQueue/commit/74d88344bfa61ae509a41ec379743fd5dfa32945) — Create contributing.md with contribution guidelines
-- 2026-01-08 · [a82a06b](https://github.com/justindbilyeu/iQueue/commit/a82a06b3ec593c87e852cb8b16c38dd7da78e372) — Create MVP specification document for iQueue
-- 2026-01-08 · [64343cc](https://github.com/justindbilyeu/iQueue/commit/64343ccee23d2429cdd37b379329d276ce4ba3fe) — Create iQueue development roadmap document
-- 2026-01-08 · [d1d88be](https://github.com/justindbilyeu/iQueue/commit/d1d88be26a4e6211d8706b320905721b63713e7e) — Add architecture documentation for iQueue platform
-- 2026-01-08 · [88c849e](https://github.com/justindbilyeu/iQueue/commit/88c849e6fb606827efb15a7cba3d6c2de0216051) — Revamp README with comprehensive project details
-- 2026-01-08 · [921502d](https://github.com/justindbilyeu/iQueue/commit/921502d1fc447057a37afd536fb8d1c281158641) — Initial commit
-
-## Fold-Engine-Intrinsics
-
-- 2026-01-08 · [99c9301](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/99c9301d3c313aa74c5ceab32a4b364912351cbd) — Merge pull request #1 from justindbilyeu/claude/implement-intrinsics-suite-fdtyo
-- 2026-01-08 · [c38628c](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/c38628c6f442f6c1b1f106dea5451526ccb93ccf) — Implement complete Intrinsic LLM Test Suite v0.1.0
-- 2026-01-07 · [8e62182](https://github.com/justindbilyeu/Fold-Engine-Intrinsics/commit/8e621829ba41abdc46277c596e7edd99c7ad6809) — Initial commit
