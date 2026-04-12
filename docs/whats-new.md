@@ -1,16 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-11 15:22 UTC._
-
-## Resonance_Geometry
-
-- 2026-04-11 · [24c2ef0](https://github.com/justindbilyeu/Resonance_Geometry/commit/24c2ef0ff111eb43d21a7a1dd7ab6f6e05ace621) — Merge pull request #135 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
-- 2026-04-11 · [127f07e](https://github.com/justindbilyeu/Resonance_Geometry/commit/127f07e6f421079025804f9992f0924631475016) — Phase 2: Root-level declutter - organize repository structure
-- 2026-04-11 · [15ea971](https://github.com/justindbilyeu/Resonance_Geometry/commit/15ea971e24192e914a1529386d4a8326896b7372) — Consolidate .gitignore and remove .gitnore typo file
-- 2026-04-11 · [d4d006f](https://github.com/justindbilyeu/Resonance_Geometry/commit/d4d006f9ee38297e96bcfa1b2c982a11137e3cb8) — Remove .venv from tracking (already in .gitignore)
+_Window: last 14 days; generated 2026-04-12 15:26 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-12 · [bd56ccb](https://github.com/justindbilyeu/eMSSC-squared/commit/bd56ccbade62eb2eef261dd51c1f9eb96dd6dc6e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-12 · [c236a20](https://github.com/justindbilyeu/eMSSC-squared/commit/c236a20945b78fac7db86f99e5d60e7e9e71b0f7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-11 · [099491c](https://github.com/justindbilyeu/eMSSC-squared/commit/099491cb96436d1e28ed1f2a4baa31feeae4b842) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-11 · [aca717e](https://github.com/justindbilyeu/eMSSC-squared/commit/aca717e84e188812df3244f62a8bdcc89c7d840d) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-10 · [17ebd49](https://github.com/justindbilyeu/eMSSC-squared/commit/17ebd490528a4ee751f375fc5ab84b9c31217be1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -29,5 +24,19 @@ _Window: last 14 days; generated 2026-04-11 15:22 UTC._
 - 2026-04-04 · [1e1a7bb](https://github.com/justindbilyeu/eMSSC-squared/commit/1e1a7bb6028abe54a68e24615cb0af2bdf0cf52a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-03 · [3feab99](https://github.com/justindbilyeu/eMSSC-squared/commit/3feab99140d44edd6ab8bc9b49f31b2d4093f873) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-03 · [39c999d](https://github.com/justindbilyeu/eMSSC-squared/commit/39c999d84f1b7b161ab0db6d5374d02d2271dd45) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-02 · [c37cce1](https://github.com/justindbilyeu/eMSSC-squared/commit/c37cce14c701b498c98bfb14f859b7df5f4e57d9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-02 · [0d50db0](https://github.com/justindbilyeu/eMSSC-squared/commit/0d50db07dcaa208669f6e4c26a1fe2ca4545f390) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## CarrierCalc
+
+- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
+
+## Resonance_Geometry
+
+- 2026-04-11 · [0832dde](https://github.com/justindbilyeu/Resonance_Geometry/commit/0832ddee83a5059ab0928ceb2bb299ee0c1f60ec) — Merge pull request #136 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
+- 2026-04-11 · [352577e](https://github.com/justindbilyeu/Resonance_Geometry/commit/352577edc464f63c4bd84e98c2f64c0922a012ad) — Update core/__init__.py to export consolidated modules
+- 2026-04-11 · [c9be9c7](https://github.com/justindbilyeu/Resonance_Geometry/commit/c9be9c72c5df7602e8b6f2cb4e6df48c96c1325b) — Phase 3.1: Code package consolidation - unified src/ package root
+- 2026-04-11 · [48022ff](https://github.com/justindbilyeu/Resonance_Geometry/commit/48022ff463e57e6377e62ddc32c5997f39587eb0) — Add code consolidation analysis and plan
+- 2026-04-11 · [25b7fdf](https://github.com/justindbilyeu/Resonance_Geometry/commit/25b7fdf8f54cb625f02f3906f1873d2d20dc309c) — Phase 3 (Part 1): Consolidate duplicate directories - low-risk items
+- 2026-04-11 · [24c2ef0](https://github.com/justindbilyeu/Resonance_Geometry/commit/24c2ef0ff111eb43d21a7a1dd7ab6f6e05ace621) — Merge pull request #135 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
+- 2026-04-11 · [127f07e](https://github.com/justindbilyeu/Resonance_Geometry/commit/127f07e6f421079025804f9992f0924631475016) — Phase 2: Root-level declutter - organize repository structure
+- 2026-04-11 · [15ea971](https://github.com/justindbilyeu/Resonance_Geometry/commit/15ea971e24192e914a1529386d4a8326896b7372) — Consolidate .gitignore and remove .gitnore typo file
+- 2026-04-11 · [d4d006f](https://github.com/justindbilyeu/Resonance_Geometry/commit/d4d006f9ee38297e96bcfa1b2c982a11137e3cb8) — Remove .venv from tracking (already in .gitignore)
