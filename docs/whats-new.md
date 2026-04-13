@@ -1,9 +1,17 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-12 15:26 UTC._
+_Window: last 14 days; generated 2026-04-13 16:04 UTC._
+
+## CarrierCalc
+
+- 2026-04-13 · [f4232e7](https://github.com/justindbilyeu/CarrierCalc/commit/f4232e7420df72aca431c79b81391053baccdc53) — Merge pull request #1 from justindbilyeu/claude/houston-savings-calculator-dBPKU
+- 2026-04-13 · [9aa6ffe](https://github.com/justindbilyeu/CarrierCalc/commit/9aa6ffebc5dfcafdf8a111b39dac4c45dd9e5d9b) — Build Houston Roof Savings Calculator — Texas Choice Roofing
+- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
 
 ## eMSSC-squared
 
+- 2026-04-13 · [893dba7](https://github.com/justindbilyeu/eMSSC-squared/commit/893dba718ace32b8f2b5a4abac13bc55d757070c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-13 · [16a4bad](https://github.com/justindbilyeu/eMSSC-squared/commit/16a4bad449583a5be0b995edfa2c5cd2834ac320) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-12 · [bd56ccb](https://github.com/justindbilyeu/eMSSC-squared/commit/bd56ccbade62eb2eef261dd51c1f9eb96dd6dc6e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-12 · [c236a20](https://github.com/justindbilyeu/eMSSC-squared/commit/c236a20945b78fac7db86f99e5d60e7e9e71b0f7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-11 · [099491c](https://github.com/justindbilyeu/eMSSC-squared/commit/099491cb96436d1e28ed1f2a4baa31feeae4b842) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,12 +30,6 @@ _Window: last 14 days; generated 2026-04-12 15:26 UTC._
 - 2026-04-05 · [fcc06cf](https://github.com/justindbilyeu/eMSSC-squared/commit/fcc06cfbd79b2fb702b68e99617eff9e393cc9e8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-04 · [d40049f](https://github.com/justindbilyeu/eMSSC-squared/commit/d40049fa890463da027ecd0e9d27c328949355a1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-04 · [1e1a7bb](https://github.com/justindbilyeu/eMSSC-squared/commit/1e1a7bb6028abe54a68e24615cb0af2bdf0cf52a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-03 · [3feab99](https://github.com/justindbilyeu/eMSSC-squared/commit/3feab99140d44edd6ab8bc9b49f31b2d4093f873) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-03 · [39c999d](https://github.com/justindbilyeu/eMSSC-squared/commit/39c999d84f1b7b161ab0db6d5374d02d2271dd45) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## CarrierCalc
-
-- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
 
 ## Resonance_Geometry
 
