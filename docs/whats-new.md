@@ -1,15 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-13 16:04 UTC._
-
-## CarrierCalc
-
-- 2026-04-13 · [f4232e7](https://github.com/justindbilyeu/CarrierCalc/commit/f4232e7420df72aca431c79b81391053baccdc53) — Merge pull request #1 from justindbilyeu/claude/houston-savings-calculator-dBPKU
-- 2026-04-13 · [9aa6ffe](https://github.com/justindbilyeu/CarrierCalc/commit/9aa6ffebc5dfcafdf8a111b39dac4c45dd9e5d9b) — Build Houston Roof Savings Calculator — Texas Choice Roofing
-- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
+_Window: last 14 days; generated 2026-04-14 16:00 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-14 · [a4c1511](https://github.com/justindbilyeu/eMSSC-squared/commit/a4c15115479c8fa45f4e38eb734208336b7446eb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-14 · [fcd0208](https://github.com/justindbilyeu/eMSSC-squared/commit/fcd020812549d2a6bea00e16c05b3deb72aedab5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-13 · [893dba7](https://github.com/justindbilyeu/eMSSC-squared/commit/893dba718ace32b8f2b5a4abac13bc55d757070c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-13 · [16a4bad](https://github.com/justindbilyeu/eMSSC-squared/commit/16a4bad449583a5be0b995edfa2c5cd2834ac320) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-12 · [bd56ccb](https://github.com/justindbilyeu/eMSSC-squared/commit/bd56ccbade62eb2eef261dd51c1f9eb96dd6dc6e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -28,8 +24,16 @@ _Window: last 14 days; generated 2026-04-13 16:04 UTC._
 - 2026-04-06 · [ca376a2](https://github.com/justindbilyeu/eMSSC-squared/commit/ca376a2ab34c046efa534ad489cea159a5299b20) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-05 · [6645932](https://github.com/justindbilyeu/eMSSC-squared/commit/664593213b529433717883dbaed689956b23fd4b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-05 · [fcc06cf](https://github.com/justindbilyeu/eMSSC-squared/commit/fcc06cfbd79b2fb702b68e99617eff9e393cc9e8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-04 · [d40049f](https://github.com/justindbilyeu/eMSSC-squared/commit/d40049fa890463da027ecd0e9d27c328949355a1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-04 · [1e1a7bb](https://github.com/justindbilyeu/eMSSC-squared/commit/1e1a7bb6028abe54a68e24615cb0af2bdf0cf52a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## CarrierCalc
+
+- 2026-04-13 · [dc8e1c8](https://github.com/justindbilyeu/CarrierCalc/commit/dc8e1c89ad1769f85cc2342756fb9a138d085c47) — Add root index.html redirect to docs/
+- 2026-04-13 · [2ef16af](https://github.com/justindbilyeu/CarrierCalc/commit/2ef16af9e6dc09d92cada91ae75bc7f8e7688b88) — Merge branch 'main' of http://127.0.0.1:25604/git/justindbilyeu/CarrierCalc
+- 2026-04-13 · [a1ea919](https://github.com/justindbilyeu/CarrierCalc/commit/a1ea9193fff7b864fa21dc532dd10f6b8714282c) — Merge houston-savings-calculator: launch CarrierCalc docs site
+- 2026-04-13 · [458cc45](https://github.com/justindbilyeu/CarrierCalc/commit/458cc458037913926affc863e9e5086a799efc51) — Fix ZIP validation null-bypass and ACV age label accuracy
+- 2026-04-13 · [f4232e7](https://github.com/justindbilyeu/CarrierCalc/commit/f4232e7420df72aca431c79b81391053baccdc53) — Merge pull request #1 from justindbilyeu/claude/houston-savings-calculator-dBPKU
+- 2026-04-13 · [9aa6ffe](https://github.com/justindbilyeu/CarrierCalc/commit/9aa6ffebc5dfcafdf8a111b39dac4c45dd9e5d9b) — Build Houston Roof Savings Calculator — Texas Choice Roofing
+- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
 
 ## Resonance_Geometry
 
