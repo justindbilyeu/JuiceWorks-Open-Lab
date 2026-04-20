@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-19 15:27 UTC._
+_Window: last 14 days; generated 2026-04-20 16:01 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-20 · [67b8d91](https://github.com/justindbilyeu/eMSSC-squared/commit/67b8d91e9adacf586d816a750e56692f47ce1d70) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-20 · [00dac3f](https://github.com/justindbilyeu/eMSSC-squared/commit/00dac3f39fcb4b06f603f2288d1d4f8407ac2308) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-19 · [e1e924a](https://github.com/justindbilyeu/eMSSC-squared/commit/e1e924abb35b0b1d271a5433b9c0670740aae753) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-19 · [4e94a4b](https://github.com/justindbilyeu/eMSSC-squared/commit/4e94a4b7edfc544dfc6bdb20455a936d53f2366f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-18 · [727dbc2](https://github.com/justindbilyeu/eMSSC-squared/commit/727dbc27c124be7244256754efe1cacaf6706103) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,20 @@ _Window: last 14 days; generated 2026-04-19 15:27 UTC._
 - 2026-04-12 · [c236a20](https://github.com/justindbilyeu/eMSSC-squared/commit/c236a20945b78fac7db86f99e5d60e7e9e71b0f7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-11 · [099491c](https://github.com/justindbilyeu/eMSSC-squared/commit/099491cb96436d1e28ed1f2a4baa31feeae4b842) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-11 · [aca717e](https://github.com/justindbilyeu/eMSSC-squared/commit/aca717e84e188812df3244f62a8bdcc89c7d840d) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-10 · [17ebd49](https://github.com/justindbilyeu/eMSSC-squared/commit/17ebd490528a4ee751f375fc5ab84b9c31217be1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-10 · [d333df9](https://github.com/justindbilyeu/eMSSC-squared/commit/d333df97d72ac0856d6fe606f7ac884e101d9d68) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## ITPU
+
+- 2026-04-20 · [73cc236](https://github.com/justindbilyeu/ITPU/commit/73cc236a36c3ef8aed16c584d3d393234da6dd95) — Merge pull request #10 from justindbilyeu/claude/surrogate-validation-tests-EJRFW
+- 2026-04-20 · [0d1de48](https://github.com/justindbilyeu/ITPU/commit/0d1de488750761ea7d070a0e71ddaf2b809f3910) — Add locked calibration and power tests for surrogate_test()
+- 2026-04-20 · [c052eaa](https://github.com/justindbilyeu/ITPU/commit/c052eaae00bf638bbf564641417b464bb7191c37) — Merge pull request #9 from justindbilyeu/claude/bh-multiple-testing-EJRFW
+- 2026-04-20 · [775966f](https://github.com/justindbilyeu/ITPU/commit/775966f3752c4e2baaa46b18c24798a9009a1bb9) — Implement Benjamini-Hochberg FDR correction with tests
+- 2026-04-20 · [35e6efb](https://github.com/justindbilyeu/ITPU/commit/35e6efb29a5abd67fcde7c04a9b6fa7c43b3db18) — Merge pull request #8 from justindbilyeu/claude/stats-module-scaffold-EJRFW
+- 2026-04-20 · [a203eb8](https://github.com/justindbilyeu/ITPU/commit/a203eb809be10fe224fbd7db698d71d47f6c6343) — Implement shuffle and block bootstrap surrogates with tests
+- 2026-04-20 · [fe616d1](https://github.com/justindbilyeu/ITPU/commit/fe616d18073764e639a06c3a2319ee557713d70a) — Merge pull request #7 from justindbilyeu/claude/stats-module-scaffold-EJRFW
+- 2026-04-20 · [5e3081c](https://github.com/justindbilyeu/ITPU/commit/5e3081cf308faaa1e1dfc3a24bca7cc5de222501) — Scaffold itpu/stats/ module with stub implementations
+- 2026-04-20 · [9cb25c2](https://github.com/justindbilyeu/ITPU/commit/9cb25c252df9857d5812f4da01f1692356e69846) — Merge pull request #6 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
+- 2026-04-20 · [a0ef82c](https://github.com/justindbilyeu/ITPU/commit/a0ef82c398945b315514ac2c4fed766878daae64) — Derive joint dimension d from data shape instead of hardcoding
+- 2026-04-20 · [4210895](https://github.com/justindbilyeu/ITPU/commit/4210895105bc624237d3c8ce2fd880499ba7495b) — Add warning escalations in ksg_mi_estimate()
 
 ## CarrierCalc
 
