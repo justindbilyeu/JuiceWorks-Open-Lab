@@ -1,9 +1,34 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-21 16:02 UTC._
+_Window: last 14 days; generated 2026-04-22 16:00 UTC._
+
+## ITPU
+
+- 2026-04-22 · [b613453](https://github.com/justindbilyeu/ITPU/commit/b613453b68cede6547a8a9d1f9de6be406278612) — Add files via upload
+- 2026-04-22 · [8f963ff](https://github.com/justindbilyeu/ITPU/commit/8f963fff6542a35a3610e1fac3d45289845ddb6a) — Delete examples/Pics
+- 2026-04-22 · [156a0e6](https://github.com/justindbilyeu/ITPU/commit/156a0e689bd57ec7221e9e2ec41ebeee2435915a) — Create Pics
+- 2026-04-22 · [ad681ec](https://github.com/justindbilyeu/ITPU/commit/ad681ecc17cce0fe8441c450719dab22e6f911e0) — Add profile_results.txt to .gitignore
+- 2026-04-22 · [6cb5f71](https://github.com/justindbilyeu/ITPU/commit/6cb5f71cae9d5cfb0eb14e23920099be40b0b776) — Add BCI workload profiler and workflow
+- 2026-04-22 · [c362039](https://github.com/justindbilyeu/ITPU/commit/c3620399ef6614590f45da76728f3a366d5ca06b) — Add docs/estimator_guide.md — estimator and surrogate selection guide
+- 2026-04-22 · [a160299](https://github.com/justindbilyeu/ITPU/commit/a1602995106280618e079e2fc8381437c7dc8cba) — Merge claude/ksg-warning-escalations-EJRFW — IAAFT implementation + CONTRIBUTING.md
+- 2026-04-22 · [802718d](https://github.com/justindbilyeu/ITPU/commit/802718d2b3ff5f04391d45e222692a56dcc8d350) — Add CONTRIBUTING.md — Research Assistant Charter v2.0
+- 2026-04-22 · [738a072](https://github.com/justindbilyeu/ITPU/commit/738a07211ea8c5331d15bdf11c03de79a622dcbb) — Wire surrogate_type='iaaft' into surrogate_test(); add wiring test
+- 2026-04-22 · [293f03e](https://github.com/justindbilyeu/ITPU/commit/293f03e62cfd0eaac114c56b66c6e376671e4e64) — Fix test_iaaft_values_in_domain: check finite and in-range, not rank-match
+- 2026-04-22 · [6f6d7db](https://github.com/justindbilyeu/ITPU/commit/6f6d7db67882adbaeb49c8ed0990ce9453e6a705) — Fix test_iaaft_breaks_phase_correlation: assert autocorr preserved, not broken
+- 2026-04-22 · [c9df973](https://github.com/justindbilyeu/ITPU/commit/c9df9737dc94469160d8a681089fcc17e15dab5b) — Implement iaaft_surrogate() in itpu/stats/surrogates.py
+- 2026-04-22 · [ee44a1b](https://github.com/justindbilyeu/ITPU/commit/ee44a1bfe50b3b8fde21625c712bd84c70e25603) — Add IAAFT test specification (5 tests, intentionally failing)
+- 2026-04-22 · [f223850](https://github.com/justindbilyeu/ITPU/commit/f22385075974d23da666fc6f7bb2669c8680d3c1) — Fix CI: delete setup.py, install package, drop unused deps
+- 2026-04-22 · [e082314](https://github.com/justindbilyeu/ITPU/commit/e082314182650748f7a780b910a03303724d85c5) — Merge pull request #18 from justindbilyeu/pre-r1
+- 2026-04-22 · [8a8c58c](https://github.com/justindbilyeu/ITPU/commit/8a8c58c9c73944b5ce399e5f7d7ddbce8a2bda55) — Merge pull request #17 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
+- 2026-04-20 · [fffffb0](https://github.com/justindbilyeu/ITPU/commit/fffffb05deac9a226382ee5843ee674c056711c2) — Rewrite README: accurate status, working examples, estimator notes
+- 2026-04-20 · [c9fd8aa](https://github.com/justindbilyeu/ITPU/commit/c9fd8aa14cc6b8f8bf2e64b8e7940f0a3536b210) — Close R1: update CHANGELOG with issue numbers and R2 gate conditions
+- 2026-04-20 · [d262db8](https://github.com/justindbilyeu/ITPU/commit/d262db827b59dcac51d29b9ab8490235979453fc) — Merge pull request #12 from justindbilyeu/claude/ci-cleanup-EJRFW
+- 2026-04-20 · [24110ea](https://github.com/justindbilyeu/ITPU/commit/24110ea9122ad43a07fc7f436385f23bf2423719) — Fix CI: valid TOML, ubuntu-only matrix, drop dead tests, fix thresholds
 
 ## eMSSC-squared
 
+- 2026-04-22 · [fe5f14d](https://github.com/justindbilyeu/eMSSC-squared/commit/fe5f14d1ea06ace3ae7a43b0d9d217c28d17e9d4) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-22 · [1aa2347](https://github.com/justindbilyeu/eMSSC-squared/commit/1aa2347bc25b184612ae46eaf8baf5e5f341de77) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-21 · [470fa26](https://github.com/justindbilyeu/eMSSC-squared/commit/470fa26780ca2918f30858c88f91e70d76883109) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-21 · [006dd97](https://github.com/justindbilyeu/eMSSC-squared/commit/006dd97351a7b69c96884f5e7d01972ec4bc0816) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-20 · [67b8d91](https://github.com/justindbilyeu/eMSSC-squared/commit/67b8d91e9adacf586d816a750e56692f47ce1d70) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,31 +47,6 @@ _Window: last 14 days; generated 2026-04-21 16:02 UTC._
 - 2026-04-14 · [fcd0208](https://github.com/justindbilyeu/eMSSC-squared/commit/fcd020812549d2a6bea00e16c05b3deb72aedab5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-13 · [893dba7](https://github.com/justindbilyeu/eMSSC-squared/commit/893dba718ace32b8f2b5a4abac13bc55d757070c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-13 · [16a4bad](https://github.com/justindbilyeu/eMSSC-squared/commit/16a4bad449583a5be0b995edfa2c5cd2834ac320) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-12 · [bd56ccb](https://github.com/justindbilyeu/eMSSC-squared/commit/bd56ccbade62eb2eef261dd51c1f9eb96dd6dc6e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-12 · [c236a20](https://github.com/justindbilyeu/eMSSC-squared/commit/c236a20945b78fac7db86f99e5d60e7e9e71b0f7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## ITPU
-
-- 2026-04-20 · [fffffb0](https://github.com/justindbilyeu/ITPU/commit/fffffb05deac9a226382ee5843ee674c056711c2) — Rewrite README: accurate status, working examples, estimator notes
-- 2026-04-20 · [c9fd8aa](https://github.com/justindbilyeu/ITPU/commit/c9fd8aa14cc6b8f8bf2e64b8e7940f0a3536b210) — Close R1: update CHANGELOG with issue numbers and R2 gate conditions
-- 2026-04-20 · [d262db8](https://github.com/justindbilyeu/ITPU/commit/d262db827b59dcac51d29b9ab8490235979453fc) — Merge pull request #12 from justindbilyeu/claude/ci-cleanup-EJRFW
-- 2026-04-20 · [24110ea](https://github.com/justindbilyeu/ITPU/commit/24110ea9122ad43a07fc7f436385f23bf2423719) — Fix CI: valid TOML, ubuntu-only matrix, drop dead tests, fix thresholds
-- 2026-04-20 · [57c827d](https://github.com/justindbilyeu/ITPU/commit/57c827d7f506839fcf5336b2eae8c42974da4e53) — Fix pyproject.toml: replace curly quotes, em-dashes, correct paths
-- 2026-04-20 · [3244b8a](https://github.com/justindbilyeu/ITPU/commit/3244b8ac403ce3abeb68bcfd74f5539aaca7dc4a) — Merge pull request #11 from justindbilyeu/claude/surrogate-validation-tests-EJRFW
-- 2026-04-20 · [b108945](https://github.com/justindbilyeu/ITPU/commit/b108945f81a8b0f489e15d88a260ef9eed105707) — Update CHANGELOG with R1 surrogate framework completion
-- 2026-04-20 · [6eab4e1](https://github.com/justindbilyeu/ITPU/commit/6eab4e118e3aa1b5e865aefc40f57dcf820e18ba) — Add clip_zero param to ksg_mi_estimate; SDK uses clip_zero=False
-- 2026-04-20 · [acb1f98](https://github.com/justindbilyeu/ITPU/commit/acb1f989ab7031c1f8e41d940f20aee531384bbc) — Wire ITPU.mutual_info(method="ksg") to ksg_mi_estimate
-- 2026-04-20 · [c98686a](https://github.com/justindbilyeu/ITPU/commit/c98686aeb67cbebb184667742dc86c68b6d67336) — Implement surrogate_test()
-- 2026-04-20 · [73cc236](https://github.com/justindbilyeu/ITPU/commit/73cc236a36c3ef8aed16c584d3d393234da6dd95) — Merge pull request #10 from justindbilyeu/claude/surrogate-validation-tests-EJRFW
-- 2026-04-20 · [0d1de48](https://github.com/justindbilyeu/ITPU/commit/0d1de488750761ea7d070a0e71ddaf2b809f3910) — Add locked calibration and power tests for surrogate_test()
-- 2026-04-20 · [c052eaa](https://github.com/justindbilyeu/ITPU/commit/c052eaae00bf638bbf564641417b464bb7191c37) — Merge pull request #9 from justindbilyeu/claude/bh-multiple-testing-EJRFW
-- 2026-04-20 · [775966f](https://github.com/justindbilyeu/ITPU/commit/775966f3752c4e2baaa46b18c24798a9009a1bb9) — Implement Benjamini-Hochberg FDR correction with tests
-- 2026-04-20 · [35e6efb](https://github.com/justindbilyeu/ITPU/commit/35e6efb29a5abd67fcde7c04a9b6fa7c43b3db18) — Merge pull request #8 from justindbilyeu/claude/stats-module-scaffold-EJRFW
-- 2026-04-20 · [a203eb8](https://github.com/justindbilyeu/ITPU/commit/a203eb809be10fe224fbd7db698d71d47f6c6343) — Implement shuffle and block bootstrap surrogates with tests
-- 2026-04-20 · [fe616d1](https://github.com/justindbilyeu/ITPU/commit/fe616d18073764e639a06c3a2319ee557713d70a) — Merge pull request #7 from justindbilyeu/claude/stats-module-scaffold-EJRFW
-- 2026-04-20 · [5e3081c](https://github.com/justindbilyeu/ITPU/commit/5e3081cf308faaa1e1dfc3a24bca7cc5de222501) — Scaffold itpu/stats/ module with stub implementations
-- 2026-04-20 · [9cb25c2](https://github.com/justindbilyeu/ITPU/commit/9cb25c252df9857d5812f4da01f1692356e69846) — Merge pull request #6 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
-- 2026-04-20 · [a0ef82c](https://github.com/justindbilyeu/ITPU/commit/a0ef82c398945b315514ac2c4fed766878daae64) — Derive joint dimension d from data shape instead of hardcoding
 
 ## CarrierCalc
 
