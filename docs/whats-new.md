@@ -1,9 +1,13 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-23 16:23 UTC._
+_Window: last 14 days; generated 2026-04-25 15:30 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-25 · [da313b1](https://github.com/justindbilyeu/eMSSC-squared/commit/da313b18cbf7541abbe5ba0712b17f00e1afbd14) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-25 · [4679577](https://github.com/justindbilyeu/eMSSC-squared/commit/467957777ce5232abf8ca59bf499b2a56dc4fb9d) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-04-24 · [665b998](https://github.com/justindbilyeu/eMSSC-squared/commit/665b998846f2ad67e83929490683ff2181c6e4c3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-24 · [060bc6a](https://github.com/justindbilyeu/eMSSC-squared/commit/060bc6a71534beef901888407f447931bef914f6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-23 · [d7a81b3](https://github.com/justindbilyeu/eMSSC-squared/commit/d7a81b35edc297703aa68c13dfabd6ad5966f631) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-23 · [3f6b90f](https://github.com/justindbilyeu/eMSSC-squared/commit/3f6b90f87a0ab5c7804497e5a35bf18b66247572) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-22 · [fe5f14d](https://github.com/justindbilyeu/eMSSC-squared/commit/fe5f14d1ea06ace3ae7a43b0d9d217c28d17e9d4) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -20,13 +24,13 @@ _Window: last 14 days; generated 2026-04-23 16:23 UTC._
 - 2026-04-17 · [efc9791](https://github.com/justindbilyeu/eMSSC-squared/commit/efc9791a799f520c8a18eb695e97dd17a2ccd62e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-16 · [dc79aae](https://github.com/justindbilyeu/eMSSC-squared/commit/dc79aaeabcb612fb71fa222ab1661acae4ba3150) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-16 · [815ff56](https://github.com/justindbilyeu/eMSSC-squared/commit/815ff56a856cd0a5356f147747d06b5f6ae13c56) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-15 · [0903fa5](https://github.com/justindbilyeu/eMSSC-squared/commit/0903fa51d90b7486a12ef673f680587438bcb46d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-15 · [8ebe89b](https://github.com/justindbilyeu/eMSSC-squared/commit/8ebe89bc7572b07ac5a4da02af51c1595717804b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-14 · [a4c1511](https://github.com/justindbilyeu/eMSSC-squared/commit/a4c15115479c8fa45f4e38eb734208336b7446eb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-14 · [fcd0208](https://github.com/justindbilyeu/eMSSC-squared/commit/fcd020812549d2a6bea00e16c05b3deb72aedab5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## ITPU
 
+- 2026-04-23 · [02772ed](https://github.com/justindbilyeu/ITPU/commit/02772ed40afd29ba300f632a874608de1fbe9e18) — Merge pull request #19 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
+- 2026-04-23 · [a3d05fb](https://github.com/justindbilyeu/ITPU/commit/a3d05fb960fa525d7f8815285a8e5a39c1c971d5) — Fix README: pytest -m slow flag and add estimator_guide.md to layout
+- 2026-04-23 · [76aa87b](https://github.com/justindbilyeu/ITPU/commit/76aa87b47ef25fea1bca32ea8defd9dfb3768b8a) — Add ask_claude.py — Claude Opus 4.7 FPGA schematic analysis script
+- 2026-04-23 · [c318d38](https://github.com/justindbilyeu/ITPU/commit/c318d38429dc8a153ed1f9802d481c5ec325b65c) — Fix stale surface documentation (priorities 1, 2, 5 from review)
 - 2026-04-22 · [b613453](https://github.com/justindbilyeu/ITPU/commit/b613453b68cede6547a8a9d1f9de6be406278612) — Add files via upload
 - 2026-04-22 · [8f963ff](https://github.com/justindbilyeu/ITPU/commit/8f963fff6542a35a3610e1fac3d45289845ddb6a) — Delete examples/Pics
 - 2026-04-22 · [156a0e6](https://github.com/justindbilyeu/ITPU/commit/156a0e689bd57ec7221e9e2ec41ebeee2435915a) — Create Pics
@@ -43,10 +47,6 @@ _Window: last 14 days; generated 2026-04-23 16:23 UTC._
 - 2026-04-22 · [f223850](https://github.com/justindbilyeu/ITPU/commit/f22385075974d23da666fc6f7bb2669c8680d3c1) — Fix CI: delete setup.py, install package, drop unused deps
 - 2026-04-22 · [e082314](https://github.com/justindbilyeu/ITPU/commit/e082314182650748f7a780b910a03303724d85c5) — Merge pull request #18 from justindbilyeu/pre-r1
 - 2026-04-22 · [8a8c58c](https://github.com/justindbilyeu/ITPU/commit/8a8c58c9c73944b5ce399e5f7d7ddbce8a2bda55) — Merge pull request #17 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
-- 2026-04-20 · [fffffb0](https://github.com/justindbilyeu/ITPU/commit/fffffb05deac9a226382ee5843ee674c056711c2) — Rewrite README: accurate status, working examples, estimator notes
-- 2026-04-20 · [c9fd8aa](https://github.com/justindbilyeu/ITPU/commit/c9fd8aa14cc6b8f8bf2e64b8e7940f0a3536b210) — Close R1: update CHANGELOG with issue numbers and R2 gate conditions
-- 2026-04-20 · [d262db8](https://github.com/justindbilyeu/ITPU/commit/d262db827b59dcac51d29b9ab8490235979453fc) — Merge pull request #12 from justindbilyeu/claude/ci-cleanup-EJRFW
-- 2026-04-20 · [24110ea](https://github.com/justindbilyeu/ITPU/commit/24110ea9122ad43a07fc7f436385f23bf2423719) — Fix CI: valid TOML, ubuntu-only matrix, drop dead tests, fix thresholds
 
 ## CarrierCalc
 
@@ -61,11 +61,3 @@ _Window: last 14 days; generated 2026-04-23 16:23 UTC._
 ## Resonance_Geometry
 
 - 2026-04-11 · [0832dde](https://github.com/justindbilyeu/Resonance_Geometry/commit/0832ddee83a5059ab0928ceb2bb299ee0c1f60ec) — Merge pull request #136 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
-- 2026-04-11 · [352577e](https://github.com/justindbilyeu/Resonance_Geometry/commit/352577edc464f63c4bd84e98c2f64c0922a012ad) — Update core/__init__.py to export consolidated modules
-- 2026-04-11 · [c9be9c7](https://github.com/justindbilyeu/Resonance_Geometry/commit/c9be9c72c5df7602e8b6f2cb4e6df48c96c1325b) — Phase 3.1: Code package consolidation - unified src/ package root
-- 2026-04-11 · [48022ff](https://github.com/justindbilyeu/Resonance_Geometry/commit/48022ff463e57e6377e62ddc32c5997f39587eb0) — Add code consolidation analysis and plan
-- 2026-04-11 · [25b7fdf](https://github.com/justindbilyeu/Resonance_Geometry/commit/25b7fdf8f54cb625f02f3906f1873d2d20dc309c) — Phase 3 (Part 1): Consolidate duplicate directories - low-risk items
-- 2026-04-11 · [24c2ef0](https://github.com/justindbilyeu/Resonance_Geometry/commit/24c2ef0ff111eb43d21a7a1dd7ab6f6e05ace621) — Merge pull request #135 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
-- 2026-04-11 · [127f07e](https://github.com/justindbilyeu/Resonance_Geometry/commit/127f07e6f421079025804f9992f0924631475016) — Phase 2: Root-level declutter - organize repository structure
-- 2026-04-11 · [15ea971](https://github.com/justindbilyeu/Resonance_Geometry/commit/15ea971e24192e914a1529386d4a8326896b7372) — Consolidate .gitignore and remove .gitnore typo file
-- 2026-04-11 · [d4d006f](https://github.com/justindbilyeu/Resonance_Geometry/commit/d4d006f9ee38297e96bcfa1b2c982a11137e3cb8) — Remove .venv from tracking (already in .gitignore)
