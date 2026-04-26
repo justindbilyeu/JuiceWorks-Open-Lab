@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-25 15:30 UTC._
+_Window: last 14 days; generated 2026-04-26 15:32 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-26 · [9e7ffa0](https://github.com/justindbilyeu/eMSSC-squared/commit/9e7ffa04764252d1951c078f8f473e01568ebed0) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-26 · [4eda7f1](https://github.com/justindbilyeu/eMSSC-squared/commit/4eda7f11e72535b6c6f2513d2f1691959a64997f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-25 · [da313b1](https://github.com/justindbilyeu/eMSSC-squared/commit/da313b18cbf7541abbe5ba0712b17f00e1afbd14) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-25 · [4679577](https://github.com/justindbilyeu/eMSSC-squared/commit/467957777ce5232abf8ca59bf499b2a56dc4fb9d) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-24 · [665b998](https://github.com/justindbilyeu/eMSSC-squared/commit/665b998846f2ad67e83929490683ff2181c6e4c3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-04-25 15:30 UTC._
 - 2026-04-18 · [30f24b9](https://github.com/justindbilyeu/eMSSC-squared/commit/30f24b9f6c36d74153036feacf182d492d6d3357) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-17 · [5bc5d5a](https://github.com/justindbilyeu/eMSSC-squared/commit/5bc5d5a953d795cbcae2f6b3cd49dbf30c0940da) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-17 · [efc9791](https://github.com/justindbilyeu/eMSSC-squared/commit/efc9791a799f520c8a18eb695e97dd17a2ccd62e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-16 · [dc79aae](https://github.com/justindbilyeu/eMSSC-squared/commit/dc79aaeabcb612fb71fa222ab1661acae4ba3150) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-16 · [815ff56](https://github.com/justindbilyeu/eMSSC-squared/commit/815ff56a856cd0a5356f147747d06b5f6ae13c56) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## ITPU
 
@@ -56,8 +56,3 @@ _Window: last 14 days; generated 2026-04-25 15:30 UTC._
 - 2026-04-13 · [458cc45](https://github.com/justindbilyeu/CarrierCalc/commit/458cc458037913926affc863e9e5086a799efc51) — Fix ZIP validation null-bypass and ACV age label accuracy
 - 2026-04-13 · [f4232e7](https://github.com/justindbilyeu/CarrierCalc/commit/f4232e7420df72aca431c79b81391053baccdc53) — Merge pull request #1 from justindbilyeu/claude/houston-savings-calculator-dBPKU
 - 2026-04-13 · [9aa6ffe](https://github.com/justindbilyeu/CarrierCalc/commit/9aa6ffebc5dfcafdf8a111b39dac4c45dd9e5d9b) — Build Houston Roof Savings Calculator — Texas Choice Roofing
-- 2026-04-11 · [365ae85](https://github.com/justindbilyeu/CarrierCalc/commit/365ae8589f29b949f840190b6f517763dc64e999) — Initial commit
-
-## Resonance_Geometry
-
-- 2026-04-11 · [0832dde](https://github.com/justindbilyeu/Resonance_Geometry/commit/0832ddee83a5059ab0928ceb2bb299ee0c1f60ec) — Merge pull request #136 from justindbilyeu/claude/repo-cleanup-phase1-0xBtO
