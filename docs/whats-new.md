@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-04-27 16:18 UTC._
+_Window: last 14 days; generated 2026-04-28 16:30 UTC._
 
 ## eMSSC-squared
 
+- 2026-04-28 · [a25db50](https://github.com/justindbilyeu/eMSSC-squared/commit/a25db5054ce642f3228f85ab1128a76ee5e4d9ac) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-04-28 · [b760fe3](https://github.com/justindbilyeu/eMSSC-squared/commit/b760fe32b7396b6e2cdca3a49b1dd9fb7849abac) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-27 · [c09ecc6](https://github.com/justindbilyeu/eMSSC-squared/commit/c09ecc6497c80378d611b9d0a772a76beadf0612) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-27 · [da52c9e](https://github.com/justindbilyeu/eMSSC-squared/commit/da52c9ed4dc9982c43db73ccbfebd14df7fa78ea) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-26 · [9e7ffa0](https://github.com/justindbilyeu/eMSSC-squared/commit/9e7ffa04764252d1951c078f8f473e01568ebed0) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-04-27 16:18 UTC._
 - 2026-04-20 · [00dac3f](https://github.com/justindbilyeu/eMSSC-squared/commit/00dac3f39fcb4b06f603f2288d1d4f8407ac2308) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-19 · [e1e924a](https://github.com/justindbilyeu/eMSSC-squared/commit/e1e924abb35b0b1d271a5433b9c0670740aae753) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-19 · [4e94a4b](https://github.com/justindbilyeu/eMSSC-squared/commit/4e94a4b7edfc544dfc6bdb20455a936d53f2366f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-18 · [727dbc2](https://github.com/justindbilyeu/eMSSC-squared/commit/727dbc27c124be7244256754efe1cacaf6706103) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-18 · [30f24b9](https://github.com/justindbilyeu/eMSSC-squared/commit/30f24b9f6c36d74153036feacf182d492d6d3357) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## ITPU
 
@@ -47,9 +47,3 @@ _Window: last 14 days; generated 2026-04-27 16:18 UTC._
 - 2026-04-22 · [f223850](https://github.com/justindbilyeu/ITPU/commit/f22385075974d23da666fc6f7bb2669c8680d3c1) — Fix CI: delete setup.py, install package, drop unused deps
 - 2026-04-22 · [e082314](https://github.com/justindbilyeu/ITPU/commit/e082314182650748f7a780b910a03303724d85c5) — Merge pull request #18 from justindbilyeu/pre-r1
 - 2026-04-22 · [8a8c58c](https://github.com/justindbilyeu/ITPU/commit/8a8c58c9c73944b5ce399e5f7d7ddbce8a2bda55) — Merge pull request #17 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
-
-## CarrierCalc
-
-- 2026-04-13 · [dc8e1c8](https://github.com/justindbilyeu/CarrierCalc/commit/dc8e1c89ad1769f85cc2342756fb9a138d085c47) — Add root index.html redirect to docs/
-- 2026-04-13 · [2ef16af](https://github.com/justindbilyeu/CarrierCalc/commit/2ef16af9e6dc09d92cada91ae75bc7f8e7688b88) — Merge branch 'main' of http://127.0.0.1:25604/git/justindbilyeu/CarrierCalc
-- 2026-04-13 · [a1ea919](https://github.com/justindbilyeu/CarrierCalc/commit/a1ea9193fff7b864fa21dc532dd10f6b8714282c) — Merge houston-savings-calculator: launch CarrierCalc docs site
