@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-05-05 16:16 UTC._
+_Window: last 14 days; generated 2026-05-06 16:22 UTC._
 
 ## eMSSC-squared
 
+- 2026-05-06 · [e497bcf](https://github.com/justindbilyeu/eMSSC-squared/commit/e497bcf7d8dee35e642843d647831d663dd541e5) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-05-06 · [dd9294f](https://github.com/justindbilyeu/eMSSC-squared/commit/dd9294f3ce0285d7e72ccaf7b78cdccbb8b8445b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-05 · [40dca0b](https://github.com/justindbilyeu/eMSSC-squared/commit/40dca0b8b21d1b89bc66bc9a71893fbccd4146d4) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-05 · [1359060](https://github.com/justindbilyeu/eMSSC-squared/commit/1359060a539086c0cf4210d54491e73873e97413) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-04 · [2415a2a](https://github.com/justindbilyeu/eMSSC-squared/commit/2415a2a25c15eab3e83909e48ffa022dfca67144) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-05-05 16:16 UTC._
 - 2026-04-28 · [b760fe3](https://github.com/justindbilyeu/eMSSC-squared/commit/b760fe32b7396b6e2cdca3a49b1dd9fb7849abac) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-27 · [c09ecc6](https://github.com/justindbilyeu/eMSSC-squared/commit/c09ecc6497c80378d611b9d0a772a76beadf0612) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-27 · [da52c9e](https://github.com/justindbilyeu/eMSSC-squared/commit/da52c9ed4dc9982c43db73ccbfebd14df7fa78ea) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-26 · [9e7ffa0](https://github.com/justindbilyeu/eMSSC-squared/commit/9e7ffa04764252d1951c078f8f473e01568ebed0) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-26 · [4eda7f1](https://github.com/justindbilyeu/eMSSC-squared/commit/4eda7f11e72535b6c6f2513d2f1691959a64997f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## ITPU
 
@@ -31,19 +31,3 @@ _Window: last 14 days; generated 2026-05-05 16:16 UTC._
 - 2026-04-23 · [a3d05fb](https://github.com/justindbilyeu/ITPU/commit/a3d05fb960fa525d7f8815285a8e5a39c1c971d5) — Fix README: pytest -m slow flag and add estimator_guide.md to layout
 - 2026-04-23 · [76aa87b](https://github.com/justindbilyeu/ITPU/commit/76aa87b47ef25fea1bca32ea8defd9dfb3768b8a) — Add ask_claude.py — Claude Opus 4.7 FPGA schematic analysis script
 - 2026-04-23 · [c318d38](https://github.com/justindbilyeu/ITPU/commit/c318d38429dc8a153ed1f9802d481c5ec325b65c) — Fix stale surface documentation (priorities 1, 2, 5 from review)
-- 2026-04-22 · [b613453](https://github.com/justindbilyeu/ITPU/commit/b613453b68cede6547a8a9d1f9de6be406278612) — Add files via upload
-- 2026-04-22 · [8f963ff](https://github.com/justindbilyeu/ITPU/commit/8f963fff6542a35a3610e1fac3d45289845ddb6a) — Delete examples/Pics
-- 2026-04-22 · [156a0e6](https://github.com/justindbilyeu/ITPU/commit/156a0e689bd57ec7221e9e2ec41ebeee2435915a) — Create Pics
-- 2026-04-22 · [ad681ec](https://github.com/justindbilyeu/ITPU/commit/ad681ecc17cce0fe8441c450719dab22e6f911e0) — Add profile_results.txt to .gitignore
-- 2026-04-22 · [6cb5f71](https://github.com/justindbilyeu/ITPU/commit/6cb5f71cae9d5cfb0eb14e23920099be40b0b776) — Add BCI workload profiler and workflow
-- 2026-04-22 · [c362039](https://github.com/justindbilyeu/ITPU/commit/c3620399ef6614590f45da76728f3a366d5ca06b) — Add docs/estimator_guide.md — estimator and surrogate selection guide
-- 2026-04-22 · [a160299](https://github.com/justindbilyeu/ITPU/commit/a1602995106280618e079e2fc8381437c7dc8cba) — Merge claude/ksg-warning-escalations-EJRFW — IAAFT implementation + CONTRIBUTING.md
-- 2026-04-22 · [802718d](https://github.com/justindbilyeu/ITPU/commit/802718d2b3ff5f04391d45e222692a56dcc8d350) — Add CONTRIBUTING.md — Research Assistant Charter v2.0
-- 2026-04-22 · [738a072](https://github.com/justindbilyeu/ITPU/commit/738a07211ea8c5331d15bdf11c03de79a622dcbb) — Wire surrogate_type='iaaft' into surrogate_test(); add wiring test
-- 2026-04-22 · [293f03e](https://github.com/justindbilyeu/ITPU/commit/293f03e62cfd0eaac114c56b66c6e376671e4e64) — Fix test_iaaft_values_in_domain: check finite and in-range, not rank-match
-- 2026-04-22 · [6f6d7db](https://github.com/justindbilyeu/ITPU/commit/6f6d7db67882adbaeb49c8ed0990ce9453e6a705) — Fix test_iaaft_breaks_phase_correlation: assert autocorr preserved, not broken
-- 2026-04-22 · [c9df973](https://github.com/justindbilyeu/ITPU/commit/c9df9737dc94469160d8a681089fcc17e15dab5b) — Implement iaaft_surrogate() in itpu/stats/surrogates.py
-- 2026-04-22 · [ee44a1b](https://github.com/justindbilyeu/ITPU/commit/ee44a1bfe50b3b8fde21625c712bd84c70e25603) — Add IAAFT test specification (5 tests, intentionally failing)
-- 2026-04-22 · [f223850](https://github.com/justindbilyeu/ITPU/commit/f22385075974d23da666fc6f7bb2669c8680d3c1) — Fix CI: delete setup.py, install package, drop unused deps
-- 2026-04-22 · [e082314](https://github.com/justindbilyeu/ITPU/commit/e082314182650748f7a780b910a03303724d85c5) — Merge pull request #18 from justindbilyeu/pre-r1
-- 2026-04-22 · [8a8c58c](https://github.com/justindbilyeu/ITPU/commit/8a8c58c9c73944b5ce399e5f7d7ddbce8a2bda55) — Merge pull request #17 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
