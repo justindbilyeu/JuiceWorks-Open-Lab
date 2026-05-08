@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-05-07 16:42 UTC._
+_Window: last 14 days; generated 2026-05-08 16:07 UTC._
 
 ## eMSSC-squared
 
+- 2026-05-08 · [775a3d2](https://github.com/justindbilyeu/eMSSC-squared/commit/775a3d25c2c4cfe9bfff63cbb3c27e6d071ad373) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-05-08 · [9569b61](https://github.com/justindbilyeu/eMSSC-squared/commit/9569b61557c7cfdc4988323cd86b5d66e4fe47fd) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-07 · [756398d](https://github.com/justindbilyeu/eMSSC-squared/commit/756398d92c2b7c762eb3db6b51bb8f7d1bd52f46) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-07 · [8ddfaf5](https://github.com/justindbilyeu/eMSSC-squared/commit/8ddfaf54278cf3c16433f87b69816eb5b89d8489) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-06 · [e497bcf](https://github.com/justindbilyeu/eMSSC-squared/commit/e497bcf7d8dee35e642843d647831d663dd541e5) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,12 +24,3 @@ _Window: last 14 days; generated 2026-05-07 16:42 UTC._
 - 2026-04-30 · [0f52ca2](https://github.com/justindbilyeu/eMSSC-squared/commit/0f52ca27f042cd28d7bdcde060362ba1486fb3db) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-04-29 · [8f1f3ac](https://github.com/justindbilyeu/eMSSC-squared/commit/8f1f3ac193aa22f359577b028774017e629346dd) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-04-29 · [0580b84](https://github.com/justindbilyeu/eMSSC-squared/commit/0580b84ff0ec2082f4d8866fcfeb487a2fabde75) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-04-28 · [a25db50](https://github.com/justindbilyeu/eMSSC-squared/commit/a25db5054ce642f3228f85ab1128a76ee5e4d9ac) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-04-28 · [b760fe3](https://github.com/justindbilyeu/eMSSC-squared/commit/b760fe32b7396b6e2cdca3a49b1dd9fb7849abac) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## ITPU
-
-- 2026-04-23 · [02772ed](https://github.com/justindbilyeu/ITPU/commit/02772ed40afd29ba300f632a874608de1fbe9e18) — Merge pull request #19 from justindbilyeu/claude/ksg-warning-escalations-EJRFW
-- 2026-04-23 · [a3d05fb](https://github.com/justindbilyeu/ITPU/commit/a3d05fb960fa525d7f8815285a8e5a39c1c971d5) — Fix README: pytest -m slow flag and add estimator_guide.md to layout
-- 2026-04-23 · [76aa87b](https://github.com/justindbilyeu/ITPU/commit/76aa87b47ef25fea1bca32ea8defd9dfb3768b8a) — Add ask_claude.py — Claude Opus 4.7 FPGA schematic analysis script
-- 2026-04-23 · [c318d38](https://github.com/justindbilyeu/ITPU/commit/c318d38429dc8a153ed1f9802d481c5ec325b65c) — Fix stale surface documentation (priorities 1, 2, 5 from review)
