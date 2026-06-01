@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-05-31 15:58 UTC._
+_Window: last 14 days; generated 2026-06-01 19:49 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-01 · [cb1fadc](https://github.com/justindbilyeu/eMSSC-squared/commit/cb1fadcaf033c37459c17fb4d4f374b14f7b8da2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-01 · [96f4e13](https://github.com/justindbilyeu/eMSSC-squared/commit/96f4e1373c7cde5a6001b33313715679f43b6746) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-31 · [d24f914](https://github.com/justindbilyeu/eMSSC-squared/commit/d24f914eda035152b5c8455bfe46ed7271768c3b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-31 · [be489c8](https://github.com/justindbilyeu/eMSSC-squared/commit/be489c82f00f346486a1b3ab975c785685e8f6cf) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-30 · [67f81e5](https://github.com/justindbilyeu/eMSSC-squared/commit/67f81e506cb13f60154c0a29b35bfff58d6246bc) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,17 @@ _Window: last 14 days; generated 2026-05-31 15:58 UTC._
 - 2026-05-24 · [bdaf727](https://github.com/justindbilyeu/eMSSC-squared/commit/bdaf727cf3ffad20787dce4c54951f8d04fe8802) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-23 · [b76e8e8](https://github.com/justindbilyeu/eMSSC-squared/commit/b76e8e818b705d6a5dd546a7fee62a98414c156f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-23 · [f797ab3](https://github.com/justindbilyeu/eMSSC-squared/commit/f797ab37509a3220d6e8c889bdafbaf0c0039a4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-05-22 · [2a8b720](https://github.com/justindbilyeu/eMSSC-squared/commit/2a8b72034e2f8a29de63083aa2959b07b440338f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-05-22 · [b0edf85](https://github.com/justindbilyeu/eMSSC-squared/commit/b0edf8573dcde68e862d8a79f73b362337ac9603) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## Justinitforlife.com
+
+- 2026-05-31 · [f80937b](https://github.com/justindbilyeu/Justinitforlife.com/commit/f80937b8869005365c519913be7a6afb82f89812) — Update index.html
+- 2026-05-31 · [b28ce38](https://github.com/justindbilyeu/Justinitforlife.com/commit/b28ce38128a8ec70bc6b1723895f0ebae60648a4) — Delete CNAME
+- 2026-05-31 · [267bd73](https://github.com/justindbilyeu/Justinitforlife.com/commit/267bd73c94cb4c9dd51f00e3c1c84f73662a3aaa) — Create CNAME
+- 2026-05-31 · [0e2d9f9](https://github.com/justindbilyeu/Justinitforlife.com/commit/0e2d9f90b5c7ee428fd0755ab9937ef32cc43ba8) — Update index.html
+- 2026-05-31 · [42a77f5](https://github.com/justindbilyeu/Justinitforlife.com/commit/42a77f5abfeb072600c103ff7855bf8e51adb1a3) — Update index.html
+- 2026-05-31 · [fd94152](https://github.com/justindbilyeu/Justinitforlife.com/commit/fd941527de528e534e9910b69c7eacfdfe912633) — Rename index.html to docs/index.html
+- 2026-05-31 · [4a9165a](https://github.com/justindbilyeu/Justinitforlife.com/commit/4a9165aa0a2f119911f83075ca4b1fab48a9f562) — Create index.html
+- 2026-05-31 · [d99c7b6](https://github.com/justindbilyeu/Justinitforlife.com/commit/d99c7b6fb02d0d632c87c92ee6d19b301aec9dfd) — Update README with roofing services and website
 
 ## CarrierCalc
 
