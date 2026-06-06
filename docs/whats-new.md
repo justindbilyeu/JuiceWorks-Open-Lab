@@ -1,31 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-05 17:06 UTC._
-
-## The-Charter
-
-- 2026-06-05 · [2f5ac6d](https://github.com/justindbilyeu/The-Charter/commit/2f5ac6ddbc4f6108745adcdb9c65a2dd6fcdf97e) — Add initial HTML structure for the Charter spec
-- 2026-06-05 · [b696bfc](https://github.com/justindbilyeu/The-Charter/commit/b696bfcf6f642fff3134fde160b787563a4e7796) — Revise Evidence Hierarchy to include empirical anchoring
-- 2026-06-05 · [74b44d1](https://github.com/justindbilyeu/The-Charter/commit/74b44d1306920df889bcb2da52a3f9273cd6d4b4) — Add files via upload
-- 2026-06-05 · [6583c7e](https://github.com/justindbilyeu/The-Charter/commit/6583c7e5908e7fa6c526533f5df417cd08f7c864) — Add files via upload
-- 2026-06-05 · [6539a13](https://github.com/justindbilyeu/The-Charter/commit/6539a13b2a2d2c48ebb6b181a253bf05274f9a7d) — Tidy repo: proposal status table and for-humans index
-- 2026-06-05 · [6de06a2](https://github.com/justindbilyeu/The-Charter/commit/6de06a2b308a59453a5c7ecc1471db2ac20f8821) — Set up Review Cycle 2 — open questions and targeted prompts
-- 2026-06-05 · [360ec13](https://github.com/justindbilyeu/The-Charter/commit/360ec13bde821c066fbcc7ed82ec9ec4af2e9e5d) — Add Kimi proposals — G4 escape hatch, §9 complexity, evidence hierarchy axes
-- 2026-06-05 · [444586c](https://github.com/justindbilyeu/The-Charter/commit/444586c9d546aa834aea725682e41370ceb2a233) — Release v2.2 — Review Cycle 1 incorporated
-- 2026-06-05 · [a55a475](https://github.com/justindbilyeu/The-Charter/commit/a55a4751af44710a40ecab7409a5aa2d44539edd) — Add Session Continuity Protocol to Research Assistant Charter
-- 2026-06-05 · [7e8763f](https://github.com/justindbilyeu/The-Charter/commit/7e8763fd055321f1b9027bbc4a8f54cdb78a47c5) — First review cycle: proposals from Sage and Kimi, standardized review tooling
-- 2026-06-05 · [37f750c](https://github.com/justindbilyeu/The-Charter/commit/37f750c88a6c4e0887d1790ddeddb8325eea9e19) — Merge pull request #3 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-05 · [7cfeaba](https://github.com/justindbilyeu/The-Charter/commit/7cfeaba5f90b610484624b1846fc342f0cbd2fe1) — Merge pull request #2 from justindbilyeu/main
-- 2026-06-05 · [9fade34](https://github.com/justindbilyeu/The-Charter/commit/9fade34a7ebd70db7fbf9fd43f19e684861e3659) — Add for-humans/ section with platform-specific charter versions
-- 2026-06-05 · [a097f50](https://github.com/justindbilyeu/The-Charter/commit/a097f50814c00d31c5f4280b57f9a16106d7c77c) — Merge pull request #1 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-05 · [bf31b4d](https://github.com/justindbilyeu/The-Charter/commit/bf31b4d4144402a7e39b85d908f11c1cea7806d6) — Redesign repo for LLM-to-LLM collaboration
-- 2026-06-05 · [853703d](https://github.com/justindbilyeu/The-Charter/commit/853703d5d1ce680a05730fb0c0db60cce60cf080) — Improve repo for LLM readability and usability
-- 2026-06-05 · [57a08cf](https://github.com/justindbilyeu/The-Charter/commit/57a08cfee42341825248f051d10f8e83aab13a7a) — Add Research Assistant Charter v2.0 document
-- 2026-06-05 · [b5bc610](https://github.com/justindbilyeu/The-Charter/commit/b5bc610048f928aaf5a4ca63ff1c2379d96e54e1) — Introduce Session Continuity Protocol and State Compression
-- 2026-06-05 · [45b73f9](https://github.com/justindbilyeu/The-Charter/commit/45b73f9330b102656028ee56e194615a0877d7fa) — Initial commit
+_Window: last 14 days; generated 2026-06-06 16:00 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-06 · [9580e5b](https://github.com/justindbilyeu/eMSSC-squared/commit/9580e5b4a644bc51da7ee94d866ff53c0e28a950) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-05 · [c85614b](https://github.com/justindbilyeu/eMSSC-squared/commit/c85614b4df80177f09602d8f544617f654f4ffd8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -44,8 +24,41 @@ _Window: last 14 days; generated 2026-06-05 17:06 UTC._
 - 2026-05-29 · [943f83c](https://github.com/justindbilyeu/eMSSC-squared/commit/943f83cb71548a0a7fbf5b7c7a51de9b27eee9f8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-28 · [38a29f9](https://github.com/justindbilyeu/eMSSC-squared/commit/38a29f96d753d3f9f013b5b954f996db8e2b1e60) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-28 · [e4e8c0f](https://github.com/justindbilyeu/eMSSC-squared/commit/e4e8c0f222661ce9ff48e1861136ea565ffb100a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-05-27 · [2a3f014](https://github.com/justindbilyeu/eMSSC-squared/commit/2a3f0149dd1451ff5b812b237e29c992a04bfb61) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-05-27 · [1ea53f6](https://github.com/justindbilyeu/eMSSC-squared/commit/1ea53f6ef3bb36fe666a205358f8b4f85822727c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## The-Charter
+
+- 2026-06-06 · [004ed58](https://github.com/justindbilyeu/The-Charter/commit/004ed588571459ec0ad1eae868260fda2252fa52) — Release v2.5–v2.7: Kimi proposals, Q1 and Q2 closed, MACHINE_SPEC updated
+- 2026-06-06 · [a620db6](https://github.com/justindbilyeu/The-Charter/commit/a620db613547b3eabed2d45e6908b26dae679636) — Update MACHINE_SPEC to v0.2: reflect v2.5–v2.7 charter changes
+- 2026-06-06 · [b3a296a](https://github.com/justindbilyeu/The-Charter/commit/b3a296a50d03160799070e7ffa87b4aa49540e68) — Release v2.7: E2 operational fix — closes Q1; defers Kimi structural concern as Q5
+- 2026-06-06 · [7d224da](https://github.com/justindbilyeu/The-Charter/commit/7d224dac7c7598a3ab71f304e5cd35b46630cbfb) — Merge pull request #11 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-06 · [4165d0d](https://github.com/justindbilyeu/The-Charter/commit/4165d0d47b598388e88c54f5ebb5807b8478d676) — Add Q1 resolution prompt for Review Cycle 2
+- 2026-06-06 · [73e9be9](https://github.com/justindbilyeu/The-Charter/commit/73e9be98bbefaa9d7bc2c9bcc0d93f0b72277763) — Release v2.6: Structural DIVERSIFY Triggers — closes Q2
+- 2026-06-06 · [5fc3b20](https://github.com/justindbilyeu/The-Charter/commit/5fc3b2051e4cd9c28070c41d3efe749f4933a438) — Release v2.5: applicable gates removed, DIVERSIFY exit criterion, degraded handoff resolved
+- 2026-06-06 · [c6bca88](https://github.com/justindbilyeu/The-Charter/commit/c6bca885e335cb8aa35f317e8f74742c1dddbfbf) — Merge remote-tracking branch 'origin/main' into claude/charter-review-1He86
+- 2026-06-06 · [22bb448](https://github.com/justindbilyeu/The-Charter/commit/22bb4484f5141c9ea81a06a9ebb68101e32b88da) — File three Kimi v2.4 proposals: applicable gates bypass, degraded handoff contradiction, DIVERSIFY exit criterion
+- 2026-06-06 · [706c712](https://github.com/justindbilyeu/The-Charter/commit/706c712baf8023c8cdb2ba99b6115065af7cf972) — Release v2.4: gate sequencing, Convergence Watchdog, init, deserialization
+- 2026-06-06 · [1c36f68](https://github.com/justindbilyeu/The-Charter/commit/1c36f688df5eb768a71b96af88297065ed85838c) — Release v2.3: observable conditions replace constraint health; fix DIVERSIFY routing
+- 2026-06-06 · [e6a210c](https://github.com/justindbilyeu/The-Charter/commit/e6a210cb5a15a52f0b355c78de1b62fd693bd076) — Add Phase 2 simulation harness — three archetype transcripts
+- 2026-06-06 · [3f390f6](https://github.com/justindbilyeu/The-Charter/commit/3f390f6e2e11ce000956270d476697e4e61db39a) — Add two Grok proposals: competing G-08 metric and State Compression integration
+- 2026-06-06 · [5c6fa24](https://github.com/justindbilyeu/The-Charter/commit/5c6fa24b137225e8cf655cc9299351358c6ab93d) — Add Gemini proposal: DIVERSIFY → GATE_CHECK routing loophole
+- 2026-06-06 · [96b0e70](https://github.com/justindbilyeu/The-Charter/commit/96b0e70b4630a6e14b3e5591deb987ce401d4245) — Strengthen G-03 watchdog from detection-only to intervention mechanism
+- 2026-06-06 · [c12b220](https://github.com/justindbilyeu/The-Charter/commit/c12b220efbd23926717323a557480463c584db35) — Add MACHINE_SPEC.md and LLM fetch URLs to README
+- 2026-06-06 · [dddf9f6](https://github.com/justindbilyeu/The-Charter/commit/dddf9f6c353c413c17beb644e3a01a4ae3d60c8b) — Add six proposals closing machine spec gaps G-01, G-03, G-04, G-06, G-07, G-08
+- 2026-06-05 · [b2409a7](https://github.com/justindbilyeu/The-Charter/commit/b2409a7596150c6d544cfa190dc9384b30828f91) — Merge pull request #10 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-05 · [1e04608](https://github.com/justindbilyeu/The-Charter/commit/1e04608600ca6ced5939a291a8eebdab5021ff5e) — Add machine spec wiki — charter as engineering notation
+- 2026-06-05 · [f1978bc](https://github.com/justindbilyeu/The-Charter/commit/f1978bc4014d0ffe94abe6cfeaf9e4f838056c10) — Update README: draft status, versioned history table
+
+## CarrierCalc-Austin
+
+- 2026-06-05 · [1368c1d](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/1368c1de2d45c162fec76179b9b4468540251825) — Update print statement from 'Hello' to 'Goodbye'
+- 2026-06-05 · [2c0f39c](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/2c0f39cde798000dc67ca7aea1478984be14fd7b) — Initial commit
+
+## CarrierCalc
+
+- 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
+- 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
+- 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
+- 2026-05-24 · [c045227](https://github.com/justindbilyeu/CarrierCalc/commit/c04522733c76bb7984eff1839e09fa279f3af816) — Update index.html
 
 ## geometric-unity-gate1
 
@@ -66,7 +79,3 @@ _Window: last 14 days; generated 2026-06-05 17:06 UTC._
 - 2026-05-31 · [fd94152](https://github.com/justindbilyeu/Justinitforlife.com/commit/fd941527de528e534e9910b69c7eacfdfe912633) — Rename index.html to docs/index.html
 - 2026-05-31 · [4a9165a](https://github.com/justindbilyeu/Justinitforlife.com/commit/4a9165aa0a2f119911f83075ca4b1fab48a9f562) — Create index.html
 - 2026-05-31 · [d99c7b6](https://github.com/justindbilyeu/Justinitforlife.com/commit/d99c7b6fb02d0d632c87c92ee6d19b301aec9dfd) — Update README with roofing services and website
-
-## CarrierCalc
-
-- 2026-05-24 · [c045227](https://github.com/justindbilyeu/CarrierCalc/commit/c04522733c76bb7984eff1839e09fa279f3af816) — Update index.html
