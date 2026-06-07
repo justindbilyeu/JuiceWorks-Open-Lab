@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-06 16:00 UTC._
+_Window: last 14 days; generated 2026-06-07 16:04 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-07 · [ccce63b](https://github.com/justindbilyeu/eMSSC-squared/commit/ccce63b714fd29abb32f911c911cb73cf52378e3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-06 · [9580e5b](https://github.com/justindbilyeu/eMSSC-squared/commit/9580e5b4a644bc51da7ee94d866ff53c0e28a950) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-06-06 16:00 UTC._
 - 2026-05-30 · [167b1d4](https://github.com/justindbilyeu/eMSSC-squared/commit/167b1d4d231d5694f5ed762970c9140417860a35) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-29 · [2c8564d](https://github.com/justindbilyeu/eMSSC-squared/commit/2c8564d2a6c0957b94a7b1626d65fbfa3c3c6a1d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-05-29 · [943f83c](https://github.com/justindbilyeu/eMSSC-squared/commit/943f83cb71548a0a7fbf5b7c7a51de9b27eee9f8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-05-28 · [38a29f9](https://github.com/justindbilyeu/eMSSC-squared/commit/38a29f96d753d3f9f013b5b954f996db8e2b1e60) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-05-28 · [e4e8c0f](https://github.com/justindbilyeu/eMSSC-squared/commit/e4e8c0f222661ce9ff48e1861136ea565ffb100a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## The-Charter
 
@@ -58,7 +58,6 @@ _Window: last 14 days; generated 2026-06-06 16:00 UTC._
 - 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
 - 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
 - 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
-- 2026-05-24 · [c045227](https://github.com/justindbilyeu/CarrierCalc/commit/c04522733c76bb7984eff1839e09fa279f3af816) — Update index.html
 
 ## geometric-unity-gate1
 
