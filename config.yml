@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: JuiceWorks Open Lab — Live Site
+    url: https://justindbilyeu.github.io/JuiceWorks-Open-Lab/
+    about: Read the full lab overview and research stack before submitting.
+  - name: The Research Assistant Charter
+    url: https://github.com/justindbilyeu/The-Charter
+    about: The methodology that governs how ideas get evaluated here.
