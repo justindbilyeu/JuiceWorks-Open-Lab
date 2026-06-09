@@ -1,32 +1,38 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-08 17:41 UTC._
+_Window: last 14 days; generated 2026-06-09 17:16 UTC._
 
-## The-Charter
+## AutKompute
 
-- 2026-06-08 · [a5c9158](https://github.com/justindbilyeu/The-Charter/commit/a5c915811e9529fe16eb23ffcae2a801fa6dba16) — Merge pull request #15 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [5b3e05d](https://github.com/justindbilyeu/The-Charter/commit/5b3e05da20cdaa8c5baeaaf3fc0eafd127121950) — File G3 prompt contract; apply G5 DV anchoring fix; add canonical STATE.md
-- 2026-06-08 · [18bd5fb](https://github.com/justindbilyeu/The-Charter/commit/18bd5fb44620908fdaa53d81dd6def5ba747105e) — File G5 prompt contract (Claude Chat) — integration reference for evaluate_g5()
-- 2026-06-08 · [50630ad](https://github.com/justindbilyeu/The-Charter/commit/50630ad090857d5d9b7a22ae0ecbd3da190e2b03) — Add hypotheses_are_genuinely_distinct() to ILLMInterface (Trigger 1 semantic gap)
-- 2026-06-08 · [35e5c9c](https://github.com/justindbilyeu/The-Charter/commit/35e5c9c3745e60564dceb0da6d748b79bdf517e9) — K1 closed: replace flag with capability token (DiversifyExitToken)
-- 2026-06-08 · [9bcdf3c](https://github.com/justindbilyeu/The-Charter/commit/9bcdf3c42882e23542bcae579d843255e045db31) — Merge pull request #14 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [10df6eb](https://github.com/justindbilyeu/The-Charter/commit/10df6eb2d060d103c30ecd1821cb3d4d30a78588) — Cleanup: update K1 prompt URLs, CHANGELOG, OPEN_QUESTIONS, proposals README
-- 2026-06-08 · [2fcc4e7](https://github.com/justindbilyeu/The-Charter/commit/2fcc4e7c238622496b38486cead9dbbb85b2099f) — File Kimi K1 DIVERSIFY enforcement review
-- 2026-06-08 · [9ebe218](https://github.com/justindbilyeu/The-Charter/commit/9ebe218ba4c20cba6be759a3568ad154d6c07dc9) — File Gemini run-B cpp skeleton review
-- 2026-06-08 · [bd1b3c0](https://github.com/justindbilyeu/The-Charter/commit/bd1b3c0a17ec25edf2c6903be7d7ebab22c88b5e) — Apply unambiguous K1 fixes from Claude Chat + Grok reviews (Q3 + Q4)
-- 2026-06-08 · [7cd5a7a](https://github.com/justindbilyeu/The-Charter/commit/7cd5a7ae74a9a0f6ea77e20393154bd8a21867a2) — Add K1 DIVERSIFY enforcement review prompt for Cycle 3
-- 2026-06-08 · [598beda](https://github.com/justindbilyeu/The-Charter/commit/598beda00e9515a375bd6d4ec5d8e6d15f4071f1) — Implement K1 Option A: DIVERSIFY exit gate via declare_diversify_complete()
-- 2026-06-08 · [eecbcba](https://github.com/justindbilyeu/The-Charter/commit/eecbcbaf04a71aa2a6758728ea31c623e2f2638f) — Implement Kimi K2 and K3: Watchdog bypass prevention + G5 pre-check
-- 2026-06-08 · [ed7b842](https://github.com/justindbilyeu/The-Charter/commit/ed7b8428e1058e262942dd6c840ec1d07e247613) — File Cycle 2 cpp skeleton reviews: Claude Chat, Gemini, Grok, Kimi
-- 2026-06-08 · [c4517b5](https://github.com/justindbilyeu/The-Charter/commit/c4517b5e5348774d65a2e1a4ed78fb7e61c505cd) — Fix four bugs identified in Cycle 2 skeleton review
-- 2026-06-08 · [7cebbc5](https://github.com/justindbilyeu/The-Charter/commit/7cebbc5aee4b14a7a4dffacfe6dfb1e728a7bb9f) — File Cycle 2 reviews: move and rename skeleton review responses
-- 2026-06-08 · [78216a9](https://github.com/justindbilyeu/The-Charter/commit/78216a9fd69491be527046cddeaa84ac1fa55aae) — Merge remote-tracking branch 'origin/main' into claude/charter-review-1He86
-- 2026-06-08 · [7c26663](https://github.com/justindbilyeu/The-Charter/commit/7c26663b49381ccc18b377dc9c0e0021e0aa29e2) — Add files via upload
-- 2026-06-08 · [a7139b1](https://github.com/justindbilyeu/The-Charter/commit/a7139b1da2764be00f4275fc5fc6bde8594737ac) — Add cpp-skeleton-review-prompt for team review cycle
-- 2026-06-08 · [e66c83d](https://github.com/justindbilyeu/The-Charter/commit/e66c83d17cce2408c48f4cba9fd14f9d9a12bf39) — Charter Machine v0.1 — C++ skeleton
+- 2026-06-09 · [4c33e9a](https://github.com/justindbilyeu/AutKompute/commit/4c33e9a4c227bfd1d9feacb5ca967d47e1a92e18) — Add files via upload
+- 2026-06-09 · [1535ffe](https://github.com/justindbilyeu/AutKompute/commit/1535ffee2d685e6989e818cd876963e3873add97) — Delete FEDERATED.md
+- 2026-06-09 · [752eafb](https://github.com/justindbilyeu/AutKompute/commit/752eafb3ef1599b3a9254145822d21b098624fe8) — Add files via upload
+- 2026-06-09 · [037b237](https://github.com/justindbilyeu/AutKompute/commit/037b237e32e93b44b4651e82a9c33d148651ab54) — Add files via upload
+- 2026-06-09 · [1dac6c7](https://github.com/justindbilyeu/AutKompute/commit/1dac6c73a03415d8d1aecce79a7193b4c1b41ce5) — Enhance README with project overview and results
+- 2026-06-09 · [820b07e](https://github.com/justindbilyeu/AutKompute/commit/820b07e8868f4f9b5a171aadd89439ca518d70a1) — Initial commit
+
+## GUES
+
+- 2026-06-09 · [3a216c5](https://github.com/justindbilyeu/GUES/commit/3a216c5338b7bdb255a6ad047118451626e9b019) — Update M6 run status in FEDERATED.md
+- 2026-06-09 · [92d15e8](https://github.com/justindbilyeu/GUES/commit/92d15e8f8cec3c6a7638c1c81c258a4458c8eba4) — Add files via upload
+- 2026-06-09 · [1d3d7b3](https://github.com/justindbilyeu/GUES/commit/1d3d7b329e2ef6c7736e7243874501888c6c1f9c) — Revise README for GUES version 0.2
+- 2026-06-09 · [45780f1](https://github.com/justindbilyeu/GUES/commit/45780f12ceaf2c1187af83ef9ee302d67a316f71) — Rename GUES v0_2 addendum.md to paper/GUES v0_2 addendum.md
+- 2026-06-09 · [ff2040d](https://github.com/justindbilyeu/GUES/commit/ff2040d99370050d674fcd59a71923ad398a1328) — Rename GUES v0_2 section2.md to paper/GUES v0_2 section2.md
+- 2026-06-09 · [5199cd6](https://github.com/justindbilyeu/GUES/commit/5199cd6161eed6bf5258e23f934773c3401217ce) — Add GUES v0.2 paper with theoretical conjecture
+- 2026-06-09 · [d012cd4](https://github.com/justindbilyeu/GUES/commit/d012cd42a2a325db9b7140b6f1c13992fd84bba6) — Add files via upload
+- 2026-06-08 · [bb3b4e5](https://github.com/justindbilyeu/GUES/commit/bb3b4e558db271e6061b0d279f63c22c20ed6746) — Add files via upload
+- 2026-06-08 · [b616023](https://github.com/justindbilyeu/GUES/commit/b616023d636002a327dc5dc2b8d69d45fbb765a2) — Create LINKS.md for related repositories and literature
+- 2026-06-08 · [ebc4c6b](https://github.com/justindbilyeu/GUES/commit/ebc4c6bfbbf33efba9cb8b7bb9365d9d19f9051f) — Create GUES Compliance Document for Charter Gate 1
+- 2026-06-08 · [9f6963d](https://github.com/justindbilyeu/GUES/commit/9f6963d9295a50178745f1f6a611a6ad79acf448) — Rename GUES v0.1 to paper/GUES v0.1
+- 2026-06-08 · [a1a9a66](https://github.com/justindbilyeu/GUES/commit/a1a9a6685459b1fc40f9368a30c665fba17674c7) — Add files via upload
+- 2026-06-08 · [58cfee7](https://github.com/justindbilyeu/GUES/commit/58cfee745ddc64985fda6c0ba185bf225fdbfa93) — Revise README for GUES conjecture details
+- 2026-06-08 · [61f767b](https://github.com/justindbilyeu/GUES/commit/61f767b518608420c6f84c64f42996b59cb8e739) — Initial commit
 
 ## eMSSC-squared
 
+- 2026-06-09 · [d6bdb0b](https://github.com/justindbilyeu/eMSSC-squared/commit/d6bdb0b0d93a01a5a9e0ba4f7af55351a21ac2c1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-09 · [97abb4e](https://github.com/justindbilyeu/eMSSC-squared/commit/97abb4e8277cf6ea31535afe815401ecc25ba6a9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-08 · [d71c6ec](https://github.com/justindbilyeu/eMSSC-squared/commit/d71c6ec39c7938ab5f1d923ad8010c82e9e6d6e0) — Merge pull request #3 from justindbilyeu/codex/add-unist-partnership-brief-and-github-action
 - 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-08 · [518a7f6](https://github.com/justindbilyeu/eMSSC-squared/commit/518a7f6a0a164afb4cfdd90dd25a01f694dec3ca) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -44,9 +50,29 @@ _Window: last 14 days; generated 2026-06-08 17:41 UTC._
 - 2026-06-01 · [cb1fadc](https://github.com/justindbilyeu/eMSSC-squared/commit/cb1fadcaf033c37459c17fb4d4f374b14f7b8da2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-01 · [96f4e13](https://github.com/justindbilyeu/eMSSC-squared/commit/96f4e1373c7cde5a6001b33313715679f43b6746) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-05-31 · [d24f914](https://github.com/justindbilyeu/eMSSC-squared/commit/d24f914eda035152b5c8455bfe46ed7271768c3b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-05-31 · [be489c8](https://github.com/justindbilyeu/eMSSC-squared/commit/be489c82f00f346486a1b3ab975c785685e8f6cf) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-05-30 · [67f81e5](https://github.com/justindbilyeu/eMSSC-squared/commit/67f81e506cb13f60154c0a29b35bfff58d6246bc) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-05-30 · [167b1d4](https://github.com/justindbilyeu/eMSSC-squared/commit/167b1d4d231d5694f5ed762970c9140417860a35) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## The-Charter
+
+- 2026-06-08 · [e341e33](https://github.com/justindbilyeu/The-Charter/commit/e341e33b3be17d6dc04e869603f32be1f7a94cbb) — Merge pull request #18 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [19b1a52](https://github.com/justindbilyeu/The-Charter/commit/19b1a5247d436affe0e64c0fdbbe8af2385dc0a9) — Add Review Protocol + G3 edge case to Q4 proposal; add STATE.md validator
+- 2026-06-08 · [d5cba15](https://github.com/justindbilyeu/The-Charter/commit/d5cba15d6a42d078606cd817b76849282d744b34) — File Q4 resolution proposal — trigger-differentiated DIVERSIFY exit (Claude Chat)
+- 2026-06-08 · [cbe2611](https://github.com/justindbilyeu/The-Charter/commit/cbe2611a10ee4641874aa96303e660d2edbcb15f) — Merge pull request #17 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [f145b69](https://github.com/justindbilyeu/The-Charter/commit/f145b69104fe70d47cdf1f983999e68d7b61c696) — Rewrite README for cold readers — lead with the problem and vision
+- 2026-06-08 · [9cfbfc0](https://github.com/justindbilyeu/The-Charter/commit/9cfbfc0b41fa95f4cccda650021d2b59f9da5085) — Update README to reflect Charter Machine and today's work
+- 2026-06-08 · [b0a13ae](https://github.com/justindbilyeu/The-Charter/commit/b0a13ae0bd931788948c5e5611b09de58ba50f5c) — Merge pull request #16 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [47b806b](https://github.com/justindbilyeu/The-Charter/commit/47b806b62cbc6af293f2cd89de4351582f8df787) — File G2 prompt contract; update STATE.md with current state
+- 2026-06-08 · [a5c9158](https://github.com/justindbilyeu/The-Charter/commit/a5c915811e9529fe16eb23ffcae2a801fa6dba16) — Merge pull request #15 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [5b3e05d](https://github.com/justindbilyeu/The-Charter/commit/5b3e05da20cdaa8c5baeaaf3fc0eafd127121950) — File G3 prompt contract; apply G5 DV anchoring fix; add canonical STATE.md
+- 2026-06-08 · [18bd5fb](https://github.com/justindbilyeu/The-Charter/commit/18bd5fb44620908fdaa53d81dd6def5ba747105e) — File G5 prompt contract (Claude Chat) — integration reference for evaluate_g5()
+- 2026-06-08 · [50630ad](https://github.com/justindbilyeu/The-Charter/commit/50630ad090857d5d9b7a22ae0ecbd3da190e2b03) — Add hypotheses_are_genuinely_distinct() to ILLMInterface (Trigger 1 semantic gap)
+- 2026-06-08 · [35e5c9c](https://github.com/justindbilyeu/The-Charter/commit/35e5c9c3745e60564dceb0da6d748b79bdf517e9) — K1 closed: replace flag with capability token (DiversifyExitToken)
+- 2026-06-08 · [9bcdf3c](https://github.com/justindbilyeu/The-Charter/commit/9bcdf3c42882e23542bcae579d843255e045db31) — Merge pull request #14 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [10df6eb](https://github.com/justindbilyeu/The-Charter/commit/10df6eb2d060d103c30ecd1821cb3d4d30a78588) — Cleanup: update K1 prompt URLs, CHANGELOG, OPEN_QUESTIONS, proposals README
+- 2026-06-08 · [2fcc4e7](https://github.com/justindbilyeu/The-Charter/commit/2fcc4e7c238622496b38486cead9dbbb85b2099f) — File Kimi K1 DIVERSIFY enforcement review
+- 2026-06-08 · [9ebe218](https://github.com/justindbilyeu/The-Charter/commit/9ebe218ba4c20cba6be759a3568ad154d6c07dc9) — File Gemini run-B cpp skeleton review
+- 2026-06-08 · [bd1b3c0](https://github.com/justindbilyeu/The-Charter/commit/bd1b3c0a17ec25edf2c6903be7d7ebab22c88b5e) — Apply unambiguous K1 fixes from Claude Chat + Grok reviews (Q3 + Q4)
+- 2026-06-08 · [7cd5a7a](https://github.com/justindbilyeu/The-Charter/commit/7cd5a7ae74a9a0f6ea77e20393154bd8a21867a2) — Add K1 DIVERSIFY enforcement review prompt for Cycle 3
+- 2026-06-08 · [598beda](https://github.com/justindbilyeu/The-Charter/commit/598beda00e9515a375bd6d4ec5d8e6d15f4071f1) — Implement K1 Option A: DIVERSIFY exit gate via declare_diversify_complete()
 
 ## CarrierCalc-Austin
 
