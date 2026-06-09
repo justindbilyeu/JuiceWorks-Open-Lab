@@ -1,6 +1,7 @@
 # JuiceWorks — Open Lab by Justin Bilyeu
 
-*“I am the Juice, if it's flavor you seek, scroll.*
+*“I am the Juice, if it's flavor you seek, scroll.
+These are my toys. Come play. Let’s see what breaks.*
 
 -----
 
