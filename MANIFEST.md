@@ -1,6 +1,6 @@
 # Live Repo Manifest — JuiceWorks Open Lab
 
-## Active (≤5 repos)
+## Active (≤5 repos — provisional limit, revisit after 1 week)
 | Repo | Status | Last Commit | What Changed | Blocked On | Raw URLs Valid? |
 |------|--------|-------------|--------------|------------|-----------------|
 | The-Charter | v2.7, Q4/Q5 open | 2026-06-09 | Q4 proposal filed by Claude Chat | Multi-model review | [Yes](https://raw.githubusercontent.com/justindbilyeu/The-Charter/main/CHARTER.md) |
@@ -24,6 +24,8 @@
 | This manifest | https://raw.githubusercontent.com/justindbilyeu/JuiceWorks-Open-Lab/main/MANIFEST.md |
 | Handshake | https://raw.githubusercontent.com/justindbilyeu/JuiceWorks-Open-Lab/main/HANDSHAKE.md |
 | Charter canonical | https://raw.githubusercontent.com/justindbilyeu/The-Charter/main/CHARTER.md |
+| Charter open questions | https://raw.githubusercontent.com/justindbilyeu/The-Charter/main/OPEN_QUESTIONS.md |
+| Charter machine spec | https://raw.githubusercontent.com/justindbilyeu/The-Charter/main/MACHINE_SPEC.md |
 
 ## Last Updated
 2026-06-09 by Justin
