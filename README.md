@@ -20,6 +20,9 @@ Everything in this lab is evidence of that. Built from a phone. In public. Under
 The map is here. Each repo is territory.
 
 -----
+Got a radical idea? [Open an issue](https://github.com/justindbilyeu/JuiceWorks-Open-Lab/issues/new/choose). We run everything through the Charter. Let's find out what it's made of.
+
+------
 
 ## The Research Stack
 
