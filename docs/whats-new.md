@@ -1,6 +1,64 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-09 17:16 UTC._
+_Window: last 14 days; generated 2026-06-11 17:59 UTC._
+
+## L.O.V.E.
+
+- 2026-06-11 · [11ed324](https://github.com/justindbilyeu/L.O.V.E./commit/11ed3249042f0f42bdd323569d4f302de97d085f) — Remove duplicate title from README
+- 2026-06-11 · [0011792](https://github.com/justindbilyeu/L.O.V.E./commit/00117924d8e97f973a7d8051b58adaaed661cfe5) — Revise README to include project details and phases
+- 2026-06-11 · [533a1db](https://github.com/justindbilyeu/L.O.V.E./commit/533a1dbcc4c1c9f5d96474bbc0a874a581e87978) — Add files via upload
+- 2026-06-11 · [87f932a](https://github.com/justindbilyeu/L.O.V.E./commit/87f932ac354e3ca8d576487fe49e89ea813ed9b7) — Initial commit
+
+## eMSSC-squared
+
+- 2026-06-11 · [3d72da0](https://github.com/justindbilyeu/eMSSC-squared/commit/3d72da0bb41a26f00d657346b462eb0d9344b744) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-11 · [2d44e3f](https://github.com/justindbilyeu/eMSSC-squared/commit/2d44e3f2271dbddc1b2a153bfd7a2aecda313860) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-10 · [404926b](https://github.com/justindbilyeu/eMSSC-squared/commit/404926be366e7e75caf11b59c6a8ddd128ba419b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-10 · [9cd69c2](https://github.com/justindbilyeu/eMSSC-squared/commit/9cd69c22d6c704376aac70957daa7471729c9428) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-09 · [d6bdb0b](https://github.com/justindbilyeu/eMSSC-squared/commit/d6bdb0b0d93a01a5a9e0ba4f7af55351a21ac2c1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-09 · [97abb4e](https://github.com/justindbilyeu/eMSSC-squared/commit/97abb4e8277cf6ea31535afe815401ecc25ba6a9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-08 · [d71c6ec](https://github.com/justindbilyeu/eMSSC-squared/commit/d71c6ec39c7938ab5f1d923ad8010c82e9e6d6e0) — Merge pull request #3 from justindbilyeu/codex/add-unist-partnership-brief-and-github-action
+- 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-08 · [518a7f6](https://github.com/justindbilyeu/eMSSC-squared/commit/518a7f6a0a164afb4cfdd90dd25a01f694dec3ca) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-07 · [ccce63b](https://github.com/justindbilyeu/eMSSC-squared/commit/ccce63b714fd29abb32f911c911cb73cf52378e3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-06 · [9580e5b](https://github.com/justindbilyeu/eMSSC-squared/commit/9580e5b4a644bc51da7ee94d866ff53c0e28a950) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-05 · [c85614b](https://github.com/justindbilyeu/eMSSC-squared/commit/c85614b4df80177f09602d8f544617f654f4ffd8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-04 · [22b3572](https://github.com/justindbilyeu/eMSSC-squared/commit/22b3572c5c0b82c500a4247af9323a461a931097) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-03 · [2eebf62](https://github.com/justindbilyeu/eMSSC-squared/commit/2eebf62b90cfd7e75b0203583704132ef9f99a11) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-03 · [1767ff6](https://github.com/justindbilyeu/eMSSC-squared/commit/1767ff62bb831733938df5452a3275ac53cea2a6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-02 · [9ad531a](https://github.com/justindbilyeu/eMSSC-squared/commit/9ad531a5057a4a753431559d760d8784a8c8c29f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+
+## C3P-0
+
+- 2026-06-10 · [1e18135](https://github.com/justindbilyeu/C3P-0/commit/1e18135f6de5e926d66fcb9045401f153d8b0723) — Update project name in README
+- 2026-06-10 · [86c828d](https://github.com/justindbilyeu/C3P-0/commit/86c828d4a2242e753549d8f6a5ea7ca79860197f) — Initial commit
+
+## The-Charter
+
+- 2026-06-10 · [bffb379](https://github.com/justindbilyeu/The-Charter/commit/bffb37976ad06cf3483b4267f6a049877c1a0ede) — Add files via upload
+- 2026-06-10 · [dee95ae](https://github.com/justindbilyeu/The-Charter/commit/dee95aed0bd5329057de6d8c778c67ab3e899fac) — Add files via upload
+- 2026-06-09 · [39e2fde](https://github.com/justindbilyeu/The-Charter/commit/39e2fde1cb6795b5ddafc7e9b926a4ebe0f09e87) — [The-Charter] Move files to correct locations — ORIGIN, proposals, simulation summary
+- 2026-06-09 · [0e23b86](https://github.com/justindbilyeu/The-Charter/commit/0e23b8681b6e9ea1700381e1340cbb95d279fa71) — [The-Charter] Remove misplaced originals after move to correct paths
+- 2026-06-09 · [4eb936a](https://github.com/justindbilyeu/The-Charter/commit/4eb936a5808fd26a1892d4266e925c11d75a8901) — [The-Charter] Remove misplaced originals after move to correct paths
+- 2026-06-09 · [c9046f9](https://github.com/justindbilyeu/The-Charter/commit/c9046f945f608893ca9832f99ef8605fd93b1b80) — [The-Charter] Move files to correct locations — ORIGIN, proposals, simulation summary
+- 2026-06-09 · [1f93af3](https://github.com/justindbilyeu/The-Charter/commit/1f93af3f3909d2cc3f0cd2efb8540bf0b0c63652) — Add files via upload
+- 2026-06-09 · [04d85c4](https://github.com/justindbilyeu/The-Charter/commit/04d85c48081518906cac2c733931726e5de5a21b) — Add files via upload
+- 2026-06-09 · [21f950c](https://github.com/justindbilyeu/The-Charter/commit/21f950ceb9a11958a2fe97461e6ab78b12f0fdbb) — Add files via upload
+- 2026-06-08 · [e341e33](https://github.com/justindbilyeu/The-Charter/commit/e341e33b3be17d6dc04e869603f32be1f7a94cbb) — Merge pull request #18 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [19b1a52](https://github.com/justindbilyeu/The-Charter/commit/19b1a5247d436affe0e64c0fdbbe8af2385dc0a9) — Add Review Protocol + G3 edge case to Q4 proposal; add STATE.md validator
+- 2026-06-08 · [d5cba15](https://github.com/justindbilyeu/The-Charter/commit/d5cba15d6a42d078606cd817b76849282d744b34) — File Q4 resolution proposal — trigger-differentiated DIVERSIFY exit (Claude Chat)
+- 2026-06-08 · [cbe2611](https://github.com/justindbilyeu/The-Charter/commit/cbe2611a10ee4641874aa96303e660d2edbcb15f) — Merge pull request #17 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [f145b69](https://github.com/justindbilyeu/The-Charter/commit/f145b69104fe70d47cdf1f983999e68d7b61c696) — Rewrite README for cold readers — lead with the problem and vision
+- 2026-06-08 · [9cfbfc0](https://github.com/justindbilyeu/The-Charter/commit/9cfbfc0b41fa95f4cccda650021d2b59f9da5085) — Update README to reflect Charter Machine and today's work
+- 2026-06-08 · [b0a13ae](https://github.com/justindbilyeu/The-Charter/commit/b0a13ae0bd931788948c5e5611b09de58ba50f5c) — Merge pull request #16 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [47b806b](https://github.com/justindbilyeu/The-Charter/commit/47b806b62cbc6af293f2cd89de4351582f8df787) — File G2 prompt contract; update STATE.md with current state
+- 2026-06-08 · [a5c9158](https://github.com/justindbilyeu/The-Charter/commit/a5c915811e9529fe16eb23ffcae2a801fa6dba16) — Merge pull request #15 from justindbilyeu/claude/charter-review-1He86
+- 2026-06-08 · [5b3e05d](https://github.com/justindbilyeu/The-Charter/commit/5b3e05da20cdaa8c5baeaaf3fc0eafd127121950) — File G3 prompt contract; apply G5 DV anchoring fix; add canonical STATE.md
+- 2026-06-08 · [18bd5fb](https://github.com/justindbilyeu/The-Charter/commit/18bd5fb44620908fdaa53d81dd6def5ba747105e) — File G5 prompt contract (Claude Chat) — integration reference for evaluate_g5()
 
 ## AutKompute
 
@@ -27,52 +85,6 @@ _Window: last 14 days; generated 2026-06-09 17:16 UTC._
 - 2026-06-08 · [a1a9a66](https://github.com/justindbilyeu/GUES/commit/a1a9a6685459b1fc40f9368a30c665fba17674c7) — Add files via upload
 - 2026-06-08 · [58cfee7](https://github.com/justindbilyeu/GUES/commit/58cfee745ddc64985fda6c0ba185bf225fdbfa93) — Revise README for GUES conjecture details
 - 2026-06-08 · [61f767b](https://github.com/justindbilyeu/GUES/commit/61f767b518608420c6f84c64f42996b59cb8e739) — Initial commit
-
-## eMSSC-squared
-
-- 2026-06-09 · [d6bdb0b](https://github.com/justindbilyeu/eMSSC-squared/commit/d6bdb0b0d93a01a5a9e0ba4f7af55351a21ac2c1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-09 · [97abb4e](https://github.com/justindbilyeu/eMSSC-squared/commit/97abb4e8277cf6ea31535afe815401ecc25ba6a9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-08 · [d71c6ec](https://github.com/justindbilyeu/eMSSC-squared/commit/d71c6ec39c7938ab5f1d923ad8010c82e9e6d6e0) — Merge pull request #3 from justindbilyeu/codex/add-unist-partnership-brief-and-github-action
-- 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-08 · [518a7f6](https://github.com/justindbilyeu/eMSSC-squared/commit/518a7f6a0a164afb4cfdd90dd25a01f694dec3ca) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-07 · [ccce63b](https://github.com/justindbilyeu/eMSSC-squared/commit/ccce63b714fd29abb32f911c911cb73cf52378e3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-06 · [9580e5b](https://github.com/justindbilyeu/eMSSC-squared/commit/9580e5b4a644bc51da7ee94d866ff53c0e28a950) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-05 · [c85614b](https://github.com/justindbilyeu/eMSSC-squared/commit/c85614b4df80177f09602d8f544617f654f4ffd8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-04 · [22b3572](https://github.com/justindbilyeu/eMSSC-squared/commit/22b3572c5c0b82c500a4247af9323a461a931097) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-03 · [2eebf62](https://github.com/justindbilyeu/eMSSC-squared/commit/2eebf62b90cfd7e75b0203583704132ef9f99a11) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-03 · [1767ff6](https://github.com/justindbilyeu/eMSSC-squared/commit/1767ff62bb831733938df5452a3275ac53cea2a6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-02 · [9ad531a](https://github.com/justindbilyeu/eMSSC-squared/commit/9ad531a5057a4a753431559d760d8784a8c8c29f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-02 · [5439160](https://github.com/justindbilyeu/eMSSC-squared/commit/5439160e1d9dbe0e830d3adfe84b875d3a7f177f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-01 · [cb1fadc](https://github.com/justindbilyeu/eMSSC-squared/commit/cb1fadcaf033c37459c17fb4d4f374b14f7b8da2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-01 · [96f4e13](https://github.com/justindbilyeu/eMSSC-squared/commit/96f4e1373c7cde5a6001b33313715679f43b6746) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-05-31 · [d24f914](https://github.com/justindbilyeu/eMSSC-squared/commit/d24f914eda035152b5c8455bfe46ed7271768c3b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-
-## The-Charter
-
-- 2026-06-08 · [e341e33](https://github.com/justindbilyeu/The-Charter/commit/e341e33b3be17d6dc04e869603f32be1f7a94cbb) — Merge pull request #18 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [19b1a52](https://github.com/justindbilyeu/The-Charter/commit/19b1a5247d436affe0e64c0fdbbe8af2385dc0a9) — Add Review Protocol + G3 edge case to Q4 proposal; add STATE.md validator
-- 2026-06-08 · [d5cba15](https://github.com/justindbilyeu/The-Charter/commit/d5cba15d6a42d078606cd817b76849282d744b34) — File Q4 resolution proposal — trigger-differentiated DIVERSIFY exit (Claude Chat)
-- 2026-06-08 · [cbe2611](https://github.com/justindbilyeu/The-Charter/commit/cbe2611a10ee4641874aa96303e660d2edbcb15f) — Merge pull request #17 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [f145b69](https://github.com/justindbilyeu/The-Charter/commit/f145b69104fe70d47cdf1f983999e68d7b61c696) — Rewrite README for cold readers — lead with the problem and vision
-- 2026-06-08 · [9cfbfc0](https://github.com/justindbilyeu/The-Charter/commit/9cfbfc0b41fa95f4cccda650021d2b59f9da5085) — Update README to reflect Charter Machine and today's work
-- 2026-06-08 · [b0a13ae](https://github.com/justindbilyeu/The-Charter/commit/b0a13ae0bd931788948c5e5611b09de58ba50f5c) — Merge pull request #16 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [47b806b](https://github.com/justindbilyeu/The-Charter/commit/47b806b62cbc6af293f2cd89de4351582f8df787) — File G2 prompt contract; update STATE.md with current state
-- 2026-06-08 · [a5c9158](https://github.com/justindbilyeu/The-Charter/commit/a5c915811e9529fe16eb23ffcae2a801fa6dba16) — Merge pull request #15 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [5b3e05d](https://github.com/justindbilyeu/The-Charter/commit/5b3e05da20cdaa8c5baeaaf3fc0eafd127121950) — File G3 prompt contract; apply G5 DV anchoring fix; add canonical STATE.md
-- 2026-06-08 · [18bd5fb](https://github.com/justindbilyeu/The-Charter/commit/18bd5fb44620908fdaa53d81dd6def5ba747105e) — File G5 prompt contract (Claude Chat) — integration reference for evaluate_g5()
-- 2026-06-08 · [50630ad](https://github.com/justindbilyeu/The-Charter/commit/50630ad090857d5d9b7a22ae0ecbd3da190e2b03) — Add hypotheses_are_genuinely_distinct() to ILLMInterface (Trigger 1 semantic gap)
-- 2026-06-08 · [35e5c9c](https://github.com/justindbilyeu/The-Charter/commit/35e5c9c3745e60564dceb0da6d748b79bdf517e9) — K1 closed: replace flag with capability token (DiversifyExitToken)
-- 2026-06-08 · [9bcdf3c](https://github.com/justindbilyeu/The-Charter/commit/9bcdf3c42882e23542bcae579d843255e045db31) — Merge pull request #14 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [10df6eb](https://github.com/justindbilyeu/The-Charter/commit/10df6eb2d060d103c30ecd1821cb3d4d30a78588) — Cleanup: update K1 prompt URLs, CHANGELOG, OPEN_QUESTIONS, proposals README
-- 2026-06-08 · [2fcc4e7](https://github.com/justindbilyeu/The-Charter/commit/2fcc4e7c238622496b38486cead9dbbb85b2099f) — File Kimi K1 DIVERSIFY enforcement review
-- 2026-06-08 · [9ebe218](https://github.com/justindbilyeu/The-Charter/commit/9ebe218ba4c20cba6be759a3568ad154d6c07dc9) — File Gemini run-B cpp skeleton review
-- 2026-06-08 · [bd1b3c0](https://github.com/justindbilyeu/The-Charter/commit/bd1b3c0a17ec25edf2c6903be7d7ebab22c88b5e) — Apply unambiguous K1 fixes from Claude Chat + Grok reviews (Q3 + Q4)
-- 2026-06-08 · [7cd5a7a](https://github.com/justindbilyeu/The-Charter/commit/7cd5a7ae74a9a0f6ea77e20393154bd8a21867a2) — Add K1 DIVERSIFY enforcement review prompt for Cycle 3
-- 2026-06-08 · [598beda](https://github.com/justindbilyeu/The-Charter/commit/598beda00e9515a375bd6d4ec5d8e6d15f4071f1) — Implement K1 Option A: DIVERSIFY exit gate via declare_diversify_complete()
 
 ## CarrierCalc-Austin
 
