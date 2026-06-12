@@ -1,16 +1,18 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-11 17:59 UTC._
+_Window: last 14 days; generated 2026-06-12 17:29 UTC._
 
-## L.O.V.E.
+## CarrierCalc
 
-- 2026-06-11 · [11ed324](https://github.com/justindbilyeu/L.O.V.E./commit/11ed3249042f0f42bdd323569d4f302de97d085f) — Remove duplicate title from README
-- 2026-06-11 · [0011792](https://github.com/justindbilyeu/L.O.V.E./commit/00117924d8e97f973a7d8051b58adaaed661cfe5) — Revise README to include project details and phases
-- 2026-06-11 · [533a1db](https://github.com/justindbilyeu/L.O.V.E./commit/533a1dbcc4c1c9f5d96474bbc0a874a581e87978) — Add files via upload
-- 2026-06-11 · [87f932a](https://github.com/justindbilyeu/L.O.V.E./commit/87f932ac354e3ca8d576487fe49e89ea813ed9b7) — Initial commit
+- 2026-06-12 · [4686226](https://github.com/justindbilyeu/CarrierCalc/commit/46862269142c6a0e0b525246284a6c7e26d4aade) — Update print statement from 'Hello' to 'Goodbye'
+- 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
+- 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
+- 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
 
 ## eMSSC-squared
 
+- 2026-06-12 · [b09d336](https://github.com/justindbilyeu/eMSSC-squared/commit/b09d3368145015217dedddb93ecc561d17d4ad6c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-12 · [a207234](https://github.com/justindbilyeu/eMSSC-squared/commit/a207234a7e057d3f8af786feca59a18ef750247c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-11 · [3d72da0](https://github.com/justindbilyeu/eMSSC-squared/commit/3d72da0bb41a26f00d657346b462eb0d9344b744) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-11 · [2d44e3f](https://github.com/justindbilyeu/eMSSC-squared/commit/2d44e3f2271dbddc1b2a153bfd7a2aecda313860) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-10 · [404926b](https://github.com/justindbilyeu/eMSSC-squared/commit/404926be366e7e75caf11b59c6a8ddd128ba419b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -29,8 +31,20 @@ _Window: last 14 days; generated 2026-06-11 17:59 UTC._
 - 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-04 · [22b3572](https://github.com/justindbilyeu/eMSSC-squared/commit/22b3572c5c0b82c500a4247af9323a461a931097) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-03 · [2eebf62](https://github.com/justindbilyeu/eMSSC-squared/commit/2eebf62b90cfd7e75b0203583704132ef9f99a11) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-03 · [1767ff6](https://github.com/justindbilyeu/eMSSC-squared/commit/1767ff62bb831733938df5452a3275ac53cea2a6) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-02 · [9ad531a](https://github.com/justindbilyeu/eMSSC-squared/commit/9ad531a5057a4a753431559d760d8784a8c8c29f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+
+## L.O.V.E.
+
+- 2026-06-11 · [4e64329](https://github.com/justindbilyeu/L.O.V.E./commit/4e64329d1a3da66758d414b95a55eb6ebef32def) — Extract Hopi concepts of love from scholarly sources
+- 2026-06-11 · [cf5dbc6](https://github.com/justindbilyeu/L.O.V.E./commit/cf5dbc6df7c85b3db32be0aeaa4a7728f440dbd5) — Add files via upload
+- 2026-06-11 · [6aeec1a](https://github.com/justindbilyeu/L.O.V.E./commit/6aeec1a601714bc164b5de9634876e448f705822) — Add files via upload
+- 2026-06-11 · [dd58389](https://github.com/justindbilyeu/L.O.V.E./commit/dd583892130752aa26c98d3424266fe0f58e3248) — Compile Navajo love concept extraction findings
+- 2026-06-11 · [c997af7](https://github.com/justindbilyeu/L.O.V.E./commit/c997af7436796168f34eb88a46f95a4562b96bc8) — Add extraction of Hebrew love concepts and analysis
+- 2026-06-11 · [a9ab0a0](https://github.com/justindbilyeu/L.O.V.E./commit/a9ab0a01b58ac7451fb173b1d4ac4a3f4e5f1f94) — Document love concepts in Early Chinese philosophy
+- 2026-06-11 · [14330e0](https://github.com/justindbilyeu/L.O.V.E./commit/14330e0cf4d69c0eb1c0a572309d74a5ca098afb) — Add Sanskrit love concepts extraction documentation
+- 2026-06-11 · [11ed324](https://github.com/justindbilyeu/L.O.V.E./commit/11ed3249042f0f42bdd323569d4f302de97d085f) — Remove duplicate title from README
+- 2026-06-11 · [0011792](https://github.com/justindbilyeu/L.O.V.E./commit/00117924d8e97f973a7d8051b58adaaed661cfe5) — Revise README to include project details and phases
+- 2026-06-11 · [533a1db](https://github.com/justindbilyeu/L.O.V.E./commit/533a1dbcc4c1c9f5d96474bbc0a874a581e87978) — Add files via upload
+- 2026-06-11 · [87f932a](https://github.com/justindbilyeu/L.O.V.E./commit/87f932ac354e3ca8d576487fe49e89ea813ed9b7) — Initial commit
 
 ## C3P-0
 
@@ -90,12 +104,6 @@ _Window: last 14 days; generated 2026-06-11 17:59 UTC._
 
 - 2026-06-05 · [1368c1d](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/1368c1de2d45c162fec76179b9b4468540251825) — Update print statement from 'Hello' to 'Goodbye'
 - 2026-06-05 · [2c0f39c](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/2c0f39cde798000dc67ca7aea1478984be14fd7b) — Initial commit
-
-## CarrierCalc
-
-- 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
-- 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
-- 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
 
 ## geometric-unity-gate1
 
