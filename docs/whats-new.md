@@ -1,16 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-12 17:29 UTC._
-
-## CarrierCalc
-
-- 2026-06-12 · [4686226](https://github.com/justindbilyeu/CarrierCalc/commit/46862269142c6a0e0b525246284a6c7e26d4aade) — Update print statement from 'Hello' to 'Goodbye'
-- 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
-- 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
-- 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
+_Window: last 14 days; generated 2026-06-13 16:07 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-13 · [81d3123](https://github.com/justindbilyeu/eMSSC-squared/commit/81d312356d291ada1415cc3a5d6694d469da4517) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-13 · [79f5679](https://github.com/justindbilyeu/eMSSC-squared/commit/79f56791d63d7bee0c9df6a70786b3f74eacefea) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-12 · [b09d336](https://github.com/justindbilyeu/eMSSC-squared/commit/b09d3368145015217dedddb93ecc561d17d4ad6c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-12 · [a207234](https://github.com/justindbilyeu/eMSSC-squared/commit/a207234a7e057d3f8af786feca59a18ef750247c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-11 · [3d72da0](https://github.com/justindbilyeu/eMSSC-squared/commit/3d72da0bb41a26f00d657346b462eb0d9344b744) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -29,8 +24,13 @@ _Window: last 14 days; generated 2026-06-12 17:29 UTC._
 - 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-05 · [c85614b](https://github.com/justindbilyeu/eMSSC-squared/commit/c85614b4df80177f09602d8f544617f654f4ffd8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-04 · [22b3572](https://github.com/justindbilyeu/eMSSC-squared/commit/22b3572c5c0b82c500a4247af9323a461a931097) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-03 · [2eebf62](https://github.com/justindbilyeu/eMSSC-squared/commit/2eebf62b90cfd7e75b0203583704132ef9f99a11) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+
+## CarrierCalc
+
+- 2026-06-12 · [4686226](https://github.com/justindbilyeu/CarrierCalc/commit/46862269142c6a0e0b525246284a6c7e26d4aade) — Update print statement from 'Hello' to 'Goodbye'
+- 2026-06-05 · [a5827a3](https://github.com/justindbilyeu/CarrierCalc/commit/a5827a35682b65b4e969f1f766c3b6866e25aa7c) — Merge feature branch — take combined design as canonical
+- 2026-06-05 · [612100a](https://github.com/justindbilyeu/CarrierCalc/commit/612100af78f87cac221fb49675663489b2eac4ea) — Combine both designs: editorial style + carrier discounts + full analytics
+- 2026-06-05 · [6481de7](https://github.com/justindbilyeu/CarrierCalc/commit/6481de7ab662dacf34b4905cd7af4ee0ce13ba62) — Overhaul calculator: carrier discounts, live results, range display
 
 ## L.O.V.E.
 
