@@ -1,9 +1,21 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-13 16:07 UTC._
+_Window: last 14 days; generated 2026-06-15 18:58 UTC._
+
+## ITPU
+
+- 2026-06-15 · [15a75f2](https://github.com/justindbilyeu/ITPU/commit/15a75f27798ca375a14743d4a61c2bb88fade1ea) — Merge R1 KSG validation + estimator-aware type system
+- 2026-06-15 · [a054354](https://github.com/justindbilyeu/ITPU/commit/a054354daf4f7d6b5a0086171835c5c08954608d) — docs: update README and CHANGELOG for KSG validation, type system, bench audit
+- 2026-06-15 · [34916dc](https://github.com/justindbilyeu/ITPU/commit/34916dc759a1a97dfee34d400c91e6d44a2e57c2) — docs: REPORT.md with all gate numbers + fix τ_var pilot design and T2a criterion
+- 2026-06-15 · [f4e6d3c](https://github.com/justindbilyeu/ITPU/commit/f4e6d3c6cb674f494678a98da27292feb330ad4a) — feat: KSG R1 validation suite — T1–T9 battery, brute-force oracle, 26× bench audit
+- 2026-06-05 · [0ea73ef](https://github.com/justindbilyeu/ITPU/commit/0ea73efbe996b00d9d6ef164028e04e08edb8e2c) — feat: estimator-aware type system — prevent silent cross-estimator comparison
 
 ## eMSSC-squared
 
+- 2026-06-15 · [00db514](https://github.com/justindbilyeu/eMSSC-squared/commit/00db514ac12686d48b24dbf81f5826d88c5a477c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-15 · [e46949f](https://github.com/justindbilyeu/eMSSC-squared/commit/e46949f13f80d0426ed4c563766b22e8db01b36a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-14 · [a56f9bd](https://github.com/justindbilyeu/eMSSC-squared/commit/a56f9bd78bbce91cb6296db77d43db2e619f5ff2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-14 · [4c2904c](https://github.com/justindbilyeu/eMSSC-squared/commit/4c2904c6af047a978e89ac2866be04e9e5c78895) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-13 · [81d3123](https://github.com/justindbilyeu/eMSSC-squared/commit/81d312356d291ada1415cc3a5d6694d469da4517) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-13 · [79f5679](https://github.com/justindbilyeu/eMSSC-squared/commit/79f56791d63d7bee0c9df6a70786b3f74eacefea) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-12 · [b09d336](https://github.com/justindbilyeu/eMSSC-squared/commit/b09d3368145015217dedddb93ecc561d17d4ad6c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -20,10 +32,6 @@ _Window: last 14 days; generated 2026-06-13 16:07 UTC._
 - 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-07 · [ccce63b](https://github.com/justindbilyeu/eMSSC-squared/commit/ccce63b714fd29abb32f911c911cb73cf52378e3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-06 · [9580e5b](https://github.com/justindbilyeu/eMSSC-squared/commit/9580e5b4a644bc51da7ee94d866ff53c0e28a950) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-05 · [3b04335](https://github.com/justindbilyeu/eMSSC-squared/commit/3b04335bf3bea2b77841d5db2315bc9ed52e8940) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-05 · [c85614b](https://github.com/justindbilyeu/eMSSC-squared/commit/c85614b4df80177f09602d8f544617f654f4ffd8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-04 · [be0b2bf](https://github.com/justindbilyeu/eMSSC-squared/commit/be0b2bfb83f27575aba8c12c369238ec0688fdb3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 
 ## CarrierCalc
 
@@ -113,14 +121,3 @@ _Window: last 14 days; generated 2026-06-13 16:07 UTC._
 - 2026-06-04 · [6eb0acc](https://github.com/justindbilyeu/geometric-unity-gate1/commit/6eb0acccaace4dd4c874b76bd8d58f45e2ab5fb0) — Add description of Shiab operator derivation
 - 2026-06-04 · [37581ce](https://github.com/justindbilyeu/geometric-unity-gate1/commit/37581ce48df782f794535326379ca91f8fd2cb00) — Update README.md
 - 2026-06-04 · [253b134](https://github.com/justindbilyeu/geometric-unity-gate1/commit/253b134cca409271266cd971440f2ef551c14b8b) — Initial commit
-
-## Justinitforlife.com
-
-- 2026-05-31 · [f80937b](https://github.com/justindbilyeu/Justinitforlife.com/commit/f80937b8869005365c519913be7a6afb82f89812) — Update index.html
-- 2026-05-31 · [b28ce38](https://github.com/justindbilyeu/Justinitforlife.com/commit/b28ce38128a8ec70bc6b1723895f0ebae60648a4) — Delete CNAME
-- 2026-05-31 · [267bd73](https://github.com/justindbilyeu/Justinitforlife.com/commit/267bd73c94cb4c9dd51f00e3c1c84f73662a3aaa) — Create CNAME
-- 2026-05-31 · [0e2d9f9](https://github.com/justindbilyeu/Justinitforlife.com/commit/0e2d9f90b5c7ee428fd0755ab9937ef32cc43ba8) — Update index.html
-- 2026-05-31 · [42a77f5](https://github.com/justindbilyeu/Justinitforlife.com/commit/42a77f5abfeb072600c103ff7855bf8e51adb1a3) — Update index.html
-- 2026-05-31 · [fd94152](https://github.com/justindbilyeu/Justinitforlife.com/commit/fd941527de528e534e9910b69c7eacfdfe912633) — Rename index.html to docs/index.html
-- 2026-05-31 · [4a9165a](https://github.com/justindbilyeu/Justinitforlife.com/commit/4a9165aa0a2f119911f83075ca4b1fab48a9f562) — Create index.html
-- 2026-05-31 · [d99c7b6](https://github.com/justindbilyeu/Justinitforlife.com/commit/d99c7b6fb02d0d632c87c92ee6d19b301aec9dfd) — Update README with roofing services and website
