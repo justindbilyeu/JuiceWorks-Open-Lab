@@ -1,17 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-15 18:58 UTC._
-
-## ITPU
-
-- 2026-06-15 · [15a75f2](https://github.com/justindbilyeu/ITPU/commit/15a75f27798ca375a14743d4a61c2bb88fade1ea) — Merge R1 KSG validation + estimator-aware type system
-- 2026-06-15 · [a054354](https://github.com/justindbilyeu/ITPU/commit/a054354daf4f7d6b5a0086171835c5c08954608d) — docs: update README and CHANGELOG for KSG validation, type system, bench audit
-- 2026-06-15 · [34916dc](https://github.com/justindbilyeu/ITPU/commit/34916dc759a1a97dfee34d400c91e6d44a2e57c2) — docs: REPORT.md with all gate numbers + fix τ_var pilot design and T2a criterion
-- 2026-06-15 · [f4e6d3c](https://github.com/justindbilyeu/ITPU/commit/f4e6d3c6cb674f494678a98da27292feb330ad4a) — feat: KSG R1 validation suite — T1–T9 battery, brute-force oracle, 26× bench audit
-- 2026-06-05 · [0ea73ef](https://github.com/justindbilyeu/ITPU/commit/0ea73efbe996b00d9d6ef164028e04e08edb8e2c) — feat: estimator-aware type system — prevent silent cross-estimator comparison
+_Window: last 14 days; generated 2026-06-16 18:50 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-16 · [d3d4668](https://github.com/justindbilyeu/eMSSC-squared/commit/d3d46682d88548307f6501de7b0a0772893c65f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-16 · [a5f505d](https://github.com/justindbilyeu/eMSSC-squared/commit/a5f505de34f4448a72bb9590b8af314136b1cb4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-15 · [00db514](https://github.com/justindbilyeu/eMSSC-squared/commit/00db514ac12686d48b24dbf81f5826d88c5a477c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-15 · [e46949f](https://github.com/justindbilyeu/eMSSC-squared/commit/e46949f13f80d0426ed4c563766b22e8db01b36a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-14 · [a56f9bd](https://github.com/justindbilyeu/eMSSC-squared/commit/a56f9bd78bbce91cb6296db77d43db2e619f5ff2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -30,8 +24,14 @@ _Window: last 14 days; generated 2026-06-15 18:58 UTC._
 - 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-08 · [518a7f6](https://github.com/justindbilyeu/eMSSC-squared/commit/518a7f6a0a164afb4cfdd90dd25a01f694dec3ca) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-07 · [ccce63b](https://github.com/justindbilyeu/eMSSC-squared/commit/ccce63b714fd29abb32f911c911cb73cf52378e3) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-06 · [8d4afdf](https://github.com/justindbilyeu/eMSSC-squared/commit/8d4afdf7a0eab55cc4bf9d5908529145b3b0f6d3) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+
+## ITPU
+
+- 2026-06-15 · [15a75f2](https://github.com/justindbilyeu/ITPU/commit/15a75f27798ca375a14743d4a61c2bb88fade1ea) — Merge R1 KSG validation + estimator-aware type system
+- 2026-06-15 · [a054354](https://github.com/justindbilyeu/ITPU/commit/a054354daf4f7d6b5a0086171835c5c08954608d) — docs: update README and CHANGELOG for KSG validation, type system, bench audit
+- 2026-06-15 · [34916dc](https://github.com/justindbilyeu/ITPU/commit/34916dc759a1a97dfee34d400c91e6d44a2e57c2) — docs: REPORT.md with all gate numbers + fix τ_var pilot design and T2a criterion
+- 2026-06-15 · [f4e6d3c](https://github.com/justindbilyeu/ITPU/commit/f4e6d3c6cb674f494678a98da27292feb330ad4a) — feat: KSG R1 validation suite — T1–T9 battery, brute-force oracle, 26× bench audit
+- 2026-06-05 · [0ea73ef](https://github.com/justindbilyeu/ITPU/commit/0ea73efbe996b00d9d6ef164028e04e08edb8e2c) — feat: estimator-aware type system — prevent silent cross-estimator comparison
 
 ## CarrierCalc
 
