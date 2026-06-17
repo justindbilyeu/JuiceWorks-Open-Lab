@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-16 18:50 UTC._
+_Window: last 14 days; generated 2026-06-17 17:42 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-17 · [d025c41](https://github.com/justindbilyeu/eMSSC-squared/commit/d025c4120878f39e09bd70d326e84bbf6754f7e7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-17 · [ef2e69a](https://github.com/justindbilyeu/eMSSC-squared/commit/ef2e69a7d72aa1e019ce8147e6d942be6ab95fb5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-16 · [d3d4668](https://github.com/justindbilyeu/eMSSC-squared/commit/d3d46682d88548307f6501de7b0a0772893c65f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-16 · [a5f505d](https://github.com/justindbilyeu/eMSSC-squared/commit/a5f505de34f4448a72bb9590b8af314136b1cb4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-15 · [00db514](https://github.com/justindbilyeu/eMSSC-squared/commit/00db514ac12686d48b24dbf81f5826d88c5a477c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-06-16 18:50 UTC._
 - 2026-06-09 · [97abb4e](https://github.com/justindbilyeu/eMSSC-squared/commit/97abb4e8277cf6ea31535afe815401ecc25ba6a9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-08 · [d71c6ec](https://github.com/justindbilyeu/eMSSC-squared/commit/d71c6ec39c7938ab5f1d923ad8010c82e9e6d6e0) — Merge pull request #3 from justindbilyeu/codex/add-unist-partnership-brief-and-github-action
 - 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-08 · [518a7f6](https://github.com/justindbilyeu/eMSSC-squared/commit/518a7f6a0a164afb4cfdd90dd25a01f694dec3ca) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-07 · [0d73529](https://github.com/justindbilyeu/eMSSC-squared/commit/0d735291af8aa7ba61ac7b6d64ddba124db945d2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 
 ## ITPU
 
