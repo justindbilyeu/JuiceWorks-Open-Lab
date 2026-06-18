@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-17 17:42 UTC._
+_Window: last 14 days; generated 2026-06-18 17:52 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-18 · [97c5ce9](https://github.com/justindbilyeu/eMSSC-squared/commit/97c5ce926cace5fd88c2aa35c7a0c345ae30dbde) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-18 · [fc918bb](https://github.com/justindbilyeu/eMSSC-squared/commit/fc918bb753c3fbca1f4581aa1c9aee1db8fad118) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-17 · [d025c41](https://github.com/justindbilyeu/eMSSC-squared/commit/d025c4120878f39e09bd70d326e84bbf6754f7e7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-17 · [ef2e69a](https://github.com/justindbilyeu/eMSSC-squared/commit/ef2e69a7d72aa1e019ce8147e6d942be6ab95fb5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-16 · [d3d4668](https://github.com/justindbilyeu/eMSSC-squared/commit/d3d46682d88548307f6501de7b0a0772893c65f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-06-17 17:42 UTC._
 - 2026-06-10 · [9cd69c2](https://github.com/justindbilyeu/eMSSC-squared/commit/9cd69c22d6c704376aac70957daa7471729c9428) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-09 · [d6bdb0b](https://github.com/justindbilyeu/eMSSC-squared/commit/d6bdb0b0d93a01a5a9e0ba4f7af55351a21ac2c1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-09 · [97abb4e](https://github.com/justindbilyeu/eMSSC-squared/commit/97abb4e8277cf6ea31535afe815401ecc25ba6a9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-08 · [d71c6ec](https://github.com/justindbilyeu/eMSSC-squared/commit/d71c6ec39c7938ab5f1d923ad8010c82e9e6d6e0) — Merge pull request #3 from justindbilyeu/codex/add-unist-partnership-brief-and-github-action
-- 2026-06-08 · [f4b8e2c](https://github.com/justindbilyeu/eMSSC-squared/commit/f4b8e2c9bae3772b4afa76aebcde6da5c4d7b22d) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 
 ## ITPU
 
@@ -112,12 +112,3 @@ _Window: last 14 days; generated 2026-06-17 17:42 UTC._
 
 - 2026-06-05 · [1368c1d](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/1368c1de2d45c162fec76179b9b4468540251825) — Update print statement from 'Hello' to 'Goodbye'
 - 2026-06-05 · [2c0f39c](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/2c0f39cde798000dc67ca7aea1478984be14fd7b) — Initial commit
-
-## geometric-unity-gate1
-
-- 2026-06-04 · [2fcaf71](https://github.com/justindbilyeu/geometric-unity-gate1/commit/2fcaf716ccd3323c39f8901862a58385507b6662) — Merge pull request #1 from justindbilyeu/claude/geometric-unity-gate1-repo-3Ss05
-- 2026-06-04 · [ebc8daa](https://github.com/justindbilyeu/geometric-unity-gate1/commit/ebc8daac4b5f20ac6aa8e27378b49f011143d736) — Add JRE #2503 transcript excerpt
-- 2026-06-04 · [62a03b3](https://github.com/justindbilyeu/geometric-unity-gate1/commit/62a03b334e1f988a485c4786a60cbb5fc850140b) — Initial commit: Gate 1 Shiab operator uniqueness derivation
-- 2026-06-04 · [6eb0acc](https://github.com/justindbilyeu/geometric-unity-gate1/commit/6eb0acccaace4dd4c874b76bd8d58f45e2ab5fb0) — Add description of Shiab operator derivation
-- 2026-06-04 · [37581ce](https://github.com/justindbilyeu/geometric-unity-gate1/commit/37581ce48df782f794535326379ca91f8fd2cb00) — Update README.md
-- 2026-06-04 · [253b134](https://github.com/justindbilyeu/geometric-unity-gate1/commit/253b134cca409271266cd971440f2ef551c14b8b) — Initial commit
