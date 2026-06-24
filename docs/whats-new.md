@@ -1,9 +1,13 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-22 18:38 UTC._
+_Window: last 14 days; generated 2026-06-24 16:58 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-24 · [1de7431](https://github.com/justindbilyeu/eMSSC-squared/commit/1de7431927a5c6ea1f45309888e395f2cc3bd6ff) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-24 · [46789e4](https://github.com/justindbilyeu/eMSSC-squared/commit/46789e4bca7709598d00120835363de96e599ada) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-23 · [69239bb](https://github.com/justindbilyeu/eMSSC-squared/commit/69239bbb963140c0ea49c80790cf74b7407d8ab8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-23 · [4274d32](https://github.com/justindbilyeu/eMSSC-squared/commit/4274d32d77f5b475557d0e1f64b659f15b3b7b3e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-22 · [860d6ea](https://github.com/justindbilyeu/eMSSC-squared/commit/860d6eab6978e2c783a4377e1ff7edbaa970b2ad) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-22 · [9dfc76b](https://github.com/justindbilyeu/eMSSC-squared/commit/9dfc76bf1ab281dc23b5601f7f0d159a3887c6c4) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-21 · [81e48f2](https://github.com/justindbilyeu/eMSSC-squared/commit/81e48f219dcbf02cd0dff23ee796c8be4e5d780b) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -20,10 +24,6 @@ _Window: last 14 days; generated 2026-06-22 18:38 UTC._
 - 2026-06-16 · [a5f505d](https://github.com/justindbilyeu/eMSSC-squared/commit/a5f505de34f4448a72bb9590b8af314136b1cb4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-15 · [00db514](https://github.com/justindbilyeu/eMSSC-squared/commit/00db514ac12686d48b24dbf81f5826d88c5a477c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-15 · [e46949f](https://github.com/justindbilyeu/eMSSC-squared/commit/e46949f13f80d0426ed4c563766b22e8db01b36a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-14 · [a56f9bd](https://github.com/justindbilyeu/eMSSC-squared/commit/a56f9bd78bbce91cb6296db77d43db2e619f5ff2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-14 · [4c2904c](https://github.com/justindbilyeu/eMSSC-squared/commit/4c2904c6af047a978e89ac2866be04e9e5c78895) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-13 · [81d3123](https://github.com/justindbilyeu/eMSSC-squared/commit/81d312356d291ada1415cc3a5d6694d469da4517) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-13 · [79f5679](https://github.com/justindbilyeu/eMSSC-squared/commit/79f56791d63d7bee0c9df6a70786b3f74eacefea) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## DoubtEngine
 
@@ -68,39 +68,3 @@ _Window: last 14 days; generated 2026-06-22 18:38 UTC._
 
 - 2026-06-10 · [bffb379](https://github.com/justindbilyeu/The-Charter/commit/bffb37976ad06cf3483b4267f6a049877c1a0ede) — Add files via upload
 - 2026-06-10 · [dee95ae](https://github.com/justindbilyeu/The-Charter/commit/dee95aed0bd5329057de6d8c778c67ab3e899fac) — Add files via upload
-- 2026-06-09 · [39e2fde](https://github.com/justindbilyeu/The-Charter/commit/39e2fde1cb6795b5ddafc7e9b926a4ebe0f09e87) — [The-Charter] Move files to correct locations — ORIGIN, proposals, simulation summary
-- 2026-06-09 · [0e23b86](https://github.com/justindbilyeu/The-Charter/commit/0e23b8681b6e9ea1700381e1340cbb95d279fa71) — [The-Charter] Remove misplaced originals after move to correct paths
-- 2026-06-09 · [4eb936a](https://github.com/justindbilyeu/The-Charter/commit/4eb936a5808fd26a1892d4266e925c11d75a8901) — [The-Charter] Remove misplaced originals after move to correct paths
-- 2026-06-09 · [c9046f9](https://github.com/justindbilyeu/The-Charter/commit/c9046f945f608893ca9832f99ef8605fd93b1b80) — [The-Charter] Move files to correct locations — ORIGIN, proposals, simulation summary
-- 2026-06-09 · [1f93af3](https://github.com/justindbilyeu/The-Charter/commit/1f93af3f3909d2cc3f0cd2efb8540bf0b0c63652) — Add files via upload
-- 2026-06-09 · [04d85c4](https://github.com/justindbilyeu/The-Charter/commit/04d85c48081518906cac2c733931726e5de5a21b) — Add files via upload
-- 2026-06-09 · [21f950c](https://github.com/justindbilyeu/The-Charter/commit/21f950ceb9a11958a2fe97461e6ab78b12f0fdbb) — Add files via upload
-- 2026-06-08 · [e341e33](https://github.com/justindbilyeu/The-Charter/commit/e341e33b3be17d6dc04e869603f32be1f7a94cbb) — Merge pull request #18 from justindbilyeu/claude/charter-review-1He86
-- 2026-06-08 · [19b1a52](https://github.com/justindbilyeu/The-Charter/commit/19b1a5247d436affe0e64c0fdbbe8af2385dc0a9) — Add Review Protocol + G3 edge case to Q4 proposal; add STATE.md validator
-- 2026-06-08 · [d5cba15](https://github.com/justindbilyeu/The-Charter/commit/d5cba15d6a42d078606cd817b76849282d744b34) — File Q4 resolution proposal — trigger-differentiated DIVERSIFY exit (Claude Chat)
-
-## AutKompute
-
-- 2026-06-09 · [4c33e9a](https://github.com/justindbilyeu/AutKompute/commit/4c33e9a4c227bfd1d9feacb5ca967d47e1a92e18) — Add files via upload
-- 2026-06-09 · [1535ffe](https://github.com/justindbilyeu/AutKompute/commit/1535ffee2d685e6989e818cd876963e3873add97) — Delete FEDERATED.md
-- 2026-06-09 · [752eafb](https://github.com/justindbilyeu/AutKompute/commit/752eafb3ef1599b3a9254145822d21b098624fe8) — Add files via upload
-- 2026-06-09 · [037b237](https://github.com/justindbilyeu/AutKompute/commit/037b237e32e93b44b4651e82a9c33d148651ab54) — Add files via upload
-- 2026-06-09 · [1dac6c7](https://github.com/justindbilyeu/AutKompute/commit/1dac6c73a03415d8d1aecce79a7193b4c1b41ce5) — Enhance README with project overview and results
-- 2026-06-09 · [820b07e](https://github.com/justindbilyeu/AutKompute/commit/820b07e8868f4f9b5a171aadd89439ca518d70a1) — Initial commit
-
-## GUES
-
-- 2026-06-09 · [3a216c5](https://github.com/justindbilyeu/GUES/commit/3a216c5338b7bdb255a6ad047118451626e9b019) — Update M6 run status in FEDERATED.md
-- 2026-06-09 · [92d15e8](https://github.com/justindbilyeu/GUES/commit/92d15e8f8cec3c6a7638c1c81c258a4458c8eba4) — Add files via upload
-- 2026-06-09 · [1d3d7b3](https://github.com/justindbilyeu/GUES/commit/1d3d7b329e2ef6c7736e7243874501888c6c1f9c) — Revise README for GUES version 0.2
-- 2026-06-09 · [45780f1](https://github.com/justindbilyeu/GUES/commit/45780f12ceaf2c1187af83ef9ee302d67a316f71) — Rename GUES v0_2 addendum.md to paper/GUES v0_2 addendum.md
-- 2026-06-09 · [ff2040d](https://github.com/justindbilyeu/GUES/commit/ff2040d99370050d674fcd59a71923ad398a1328) — Rename GUES v0_2 section2.md to paper/GUES v0_2 section2.md
-- 2026-06-09 · [5199cd6](https://github.com/justindbilyeu/GUES/commit/5199cd6161eed6bf5258e23f934773c3401217ce) — Add GUES v0.2 paper with theoretical conjecture
-- 2026-06-09 · [d012cd4](https://github.com/justindbilyeu/GUES/commit/d012cd42a2a325db9b7140b6f1c13992fd84bba6) — Add files via upload
-- 2026-06-08 · [bb3b4e5](https://github.com/justindbilyeu/GUES/commit/bb3b4e558db271e6061b0d279f63c22c20ed6746) — Add files via upload
-- 2026-06-08 · [b616023](https://github.com/justindbilyeu/GUES/commit/b616023d636002a327dc5dc2b8d69d45fbb765a2) — Create LINKS.md for related repositories and literature
-- 2026-06-08 · [ebc4c6b](https://github.com/justindbilyeu/GUES/commit/ebc4c6bfbbf33efba9cb8b7bb9365d9d19f9051f) — Create GUES Compliance Document for Charter Gate 1
-- 2026-06-08 · [9f6963d](https://github.com/justindbilyeu/GUES/commit/9f6963d9295a50178745f1f6a611a6ad79acf448) — Rename GUES v0.1 to paper/GUES v0.1
-- 2026-06-08 · [a1a9a66](https://github.com/justindbilyeu/GUES/commit/a1a9a6685459b1fc40f9368a30c665fba17674c7) — Add files via upload
-- 2026-06-08 · [58cfee7](https://github.com/justindbilyeu/GUES/commit/58cfee745ddc64985fda6c0ba185bf225fdbfa93) — Revise README for GUES conjecture details
-- 2026-06-08 · [61f767b](https://github.com/justindbilyeu/GUES/commit/61f767b518608420c6f84c64f42996b59cb8e739) — Initial commit
