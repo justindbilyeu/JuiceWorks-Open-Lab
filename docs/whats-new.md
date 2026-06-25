@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-24 16:58 UTC._
+_Window: last 14 days; generated 2026-06-25 17:02 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-25 · [1eb74de](https://github.com/justindbilyeu/eMSSC-squared/commit/1eb74dec35a9a049c39962616053bb19f7827415) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-25 · [4c7f2c4](https://github.com/justindbilyeu/eMSSC-squared/commit/4c7f2c4013b1270a992d02c5a3ffda12227dcaa0) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-24 · [1de7431](https://github.com/justindbilyeu/eMSSC-squared/commit/1de7431927a5c6ea1f45309888e395f2cc3bd6ff) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-24 · [46789e4](https://github.com/justindbilyeu/eMSSC-squared/commit/46789e4bca7709598d00120835363de96e599ada) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-23 · [69239bb](https://github.com/justindbilyeu/eMSSC-squared/commit/69239bbb963140c0ea49c80790cf74b7407d8ab8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-06-24 16:58 UTC._
 - 2026-06-17 · [ef2e69a](https://github.com/justindbilyeu/eMSSC-squared/commit/ef2e69a7d72aa1e019ce8147e6d942be6ab95fb5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-16 · [d3d4668](https://github.com/justindbilyeu/eMSSC-squared/commit/d3d46682d88548307f6501de7b0a0772893c65f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-16 · [a5f505d](https://github.com/justindbilyeu/eMSSC-squared/commit/a5f505de34f4448a72bb9590b8af314136b1cb4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-15 · [00db514](https://github.com/justindbilyeu/eMSSC-squared/commit/00db514ac12686d48b24dbf81f5826d88c5a477c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-15 · [e46949f](https://github.com/justindbilyeu/eMSSC-squared/commit/e46949f13f80d0426ed4c563766b22e8db01b36a) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## DoubtEngine
 
@@ -57,14 +57,3 @@ _Window: last 14 days; generated 2026-06-24 16:58 UTC._
 - 2026-06-11 · [11ed324](https://github.com/justindbilyeu/L.O.V.E./commit/11ed3249042f0f42bdd323569d4f302de97d085f) — Remove duplicate title from README
 - 2026-06-11 · [0011792](https://github.com/justindbilyeu/L.O.V.E./commit/00117924d8e97f973a7d8051b58adaaed661cfe5) — Revise README to include project details and phases
 - 2026-06-11 · [533a1db](https://github.com/justindbilyeu/L.O.V.E./commit/533a1dbcc4c1c9f5d96474bbc0a874a581e87978) — Add files via upload
-- 2026-06-11 · [87f932a](https://github.com/justindbilyeu/L.O.V.E./commit/87f932ac354e3ca8d576487fe49e89ea813ed9b7) — Initial commit
-
-## C3P-0
-
-- 2026-06-10 · [1e18135](https://github.com/justindbilyeu/C3P-0/commit/1e18135f6de5e926d66fcb9045401f153d8b0723) — Update project name in README
-- 2026-06-10 · [86c828d](https://github.com/justindbilyeu/C3P-0/commit/86c828d4a2242e753549d8f6a5ea7ca79860197f) — Initial commit
-
-## The-Charter
-
-- 2026-06-10 · [bffb379](https://github.com/justindbilyeu/The-Charter/commit/bffb37976ad06cf3483b4267f6a049877c1a0ede) — Add files via upload
-- 2026-06-10 · [dee95ae](https://github.com/justindbilyeu/The-Charter/commit/dee95aed0bd5329057de6d8c778c67ab3e899fac) — Add files via upload
