@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-25 17:02 UTC._
+_Window: last 14 days; generated 2026-06-26 16:53 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-26 · [7b606b0](https://github.com/justindbilyeu/eMSSC-squared/commit/7b606b0dbbd9482ae5fde5d8dade999628f2f2a1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-26 · [c4051ea](https://github.com/justindbilyeu/eMSSC-squared/commit/c4051ea711c6cefc0df30af583a47aee27684c61) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-25 · [1eb74de](https://github.com/justindbilyeu/eMSSC-squared/commit/1eb74dec35a9a049c39962616053bb19f7827415) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-25 · [4c7f2c4](https://github.com/justindbilyeu/eMSSC-squared/commit/4c7f2c4013b1270a992d02c5a3ffda12227dcaa0) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-24 · [1de7431](https://github.com/justindbilyeu/eMSSC-squared/commit/1de7431927a5c6ea1f45309888e395f2cc3bd6ff) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-06-25 17:02 UTC._
 - 2026-06-18 · [fc918bb](https://github.com/justindbilyeu/eMSSC-squared/commit/fc918bb753c3fbca1f4581aa1c9aee1db8fad118) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-17 · [d025c41](https://github.com/justindbilyeu/eMSSC-squared/commit/d025c4120878f39e09bd70d326e84bbf6754f7e7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-17 · [ef2e69a](https://github.com/justindbilyeu/eMSSC-squared/commit/ef2e69a7d72aa1e019ce8147e6d942be6ab95fb5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-16 · [d3d4668](https://github.com/justindbilyeu/eMSSC-squared/commit/d3d46682d88548307f6501de7b0a0772893c65f2) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-16 · [a5f505d](https://github.com/justindbilyeu/eMSSC-squared/commit/a5f505de34f4448a72bb9590b8af314136b1cb4c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## DoubtEngine
 
@@ -40,20 +40,3 @@ _Window: last 14 days; generated 2026-06-25 17:02 UTC._
 - 2026-06-15 · [a054354](https://github.com/justindbilyeu/ITPU/commit/a054354daf4f7d6b5a0086171835c5c08954608d) — docs: update README and CHANGELOG for KSG validation, type system, bench audit
 - 2026-06-15 · [34916dc](https://github.com/justindbilyeu/ITPU/commit/34916dc759a1a97dfee34d400c91e6d44a2e57c2) — docs: REPORT.md with all gate numbers + fix τ_var pilot design and T2a criterion
 - 2026-06-15 · [f4e6d3c](https://github.com/justindbilyeu/ITPU/commit/f4e6d3c6cb674f494678a98da27292feb330ad4a) — feat: KSG R1 validation suite — T1–T9 battery, brute-force oracle, 26× bench audit
-
-## CarrierCalc
-
-- 2026-06-12 · [4686226](https://github.com/justindbilyeu/CarrierCalc/commit/46862269142c6a0e0b525246284a6c7e26d4aade) — Update print statement from 'Hello' to 'Goodbye'
-
-## L.O.V.E.
-
-- 2026-06-11 · [4e64329](https://github.com/justindbilyeu/L.O.V.E./commit/4e64329d1a3da66758d414b95a55eb6ebef32def) — Extract Hopi concepts of love from scholarly sources
-- 2026-06-11 · [cf5dbc6](https://github.com/justindbilyeu/L.O.V.E./commit/cf5dbc6df7c85b3db32be0aeaa4a7728f440dbd5) — Add files via upload
-- 2026-06-11 · [6aeec1a](https://github.com/justindbilyeu/L.O.V.E./commit/6aeec1a601714bc164b5de9634876e448f705822) — Add files via upload
-- 2026-06-11 · [dd58389](https://github.com/justindbilyeu/L.O.V.E./commit/dd583892130752aa26c98d3424266fe0f58e3248) — Compile Navajo love concept extraction findings
-- 2026-06-11 · [c997af7](https://github.com/justindbilyeu/L.O.V.E./commit/c997af7436796168f34eb88a46f95a4562b96bc8) — Add extraction of Hebrew love concepts and analysis
-- 2026-06-11 · [a9ab0a0](https://github.com/justindbilyeu/L.O.V.E./commit/a9ab0a01b58ac7451fb173b1d4ac4a3f4e5f1f94) — Document love concepts in Early Chinese philosophy
-- 2026-06-11 · [14330e0](https://github.com/justindbilyeu/L.O.V.E./commit/14330e0cf4d69c0eb1c0a572309d74a5ca098afb) — Add Sanskrit love concepts extraction documentation
-- 2026-06-11 · [11ed324](https://github.com/justindbilyeu/L.O.V.E./commit/11ed3249042f0f42bdd323569d4f302de97d085f) — Remove duplicate title from README
-- 2026-06-11 · [0011792](https://github.com/justindbilyeu/L.O.V.E./commit/00117924d8e97f973a7d8051b58adaaed661cfe5) — Revise README to include project details and phases
-- 2026-06-11 · [533a1db](https://github.com/justindbilyeu/L.O.V.E./commit/533a1dbcc4c1c9f5d96474bbc0a874a581e87978) — Add files via upload
