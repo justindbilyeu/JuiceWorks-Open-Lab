@@ -1,9 +1,13 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-06-27 15:57 UTC._
+_Window: last 14 days; generated 2026-06-29 17:26 UTC._
 
 ## eMSSC-squared
 
+- 2026-06-29 · [0cde873](https://github.com/justindbilyeu/eMSSC-squared/commit/0cde873a979f635bccd3f364646d99db5fa192c4) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-29 · [f0732fa](https://github.com/justindbilyeu/eMSSC-squared/commit/f0732fa16d6763589695617966dcb6f6c6ea6dac) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+- 2026-06-28 · [8369e9c](https://github.com/justindbilyeu/eMSSC-squared/commit/8369e9cb8d56eda4b7bb1f53002766fd25db5a7a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-06-28 · [843057e](https://github.com/justindbilyeu/eMSSC-squared/commit/843057ea5989d1c6a3d142c5994e1cd6ae1e256b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-27 · [9b60b8f](https://github.com/justindbilyeu/eMSSC-squared/commit/9b60b8f5d03c1ff1ea08c41be472d53085f42ad5) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-27 · [dc39342](https://github.com/justindbilyeu/eMSSC-squared/commit/dc39342dd84c9336de407f6ae574fe1cbf349ace) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-26 · [7b606b0](https://github.com/justindbilyeu/eMSSC-squared/commit/7b606b0dbbd9482ae5fde5d8dade999628f2f2a1) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -20,10 +24,6 @@ _Window: last 14 days; generated 2026-06-27 15:57 UTC._
 - 2026-06-21 · [810aae9](https://github.com/justindbilyeu/eMSSC-squared/commit/810aae954ecc2c87f3eb5bae8b8768dd5bfe1549) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-06-20 · [686b3ab](https://github.com/justindbilyeu/eMSSC-squared/commit/686b3abaa48273402b212a1ed1505562b0ff21b8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-06-20 · [bdda2ee](https://github.com/justindbilyeu/eMSSC-squared/commit/bdda2ee3d8c9e7d6d8943a920d624361e0c1b0ad) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-19 · [d41ff6c](https://github.com/justindbilyeu/eMSSC-squared/commit/d41ff6c8b95cc8a9e412e4db632742209b94a6e9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-19 · [59c6e63](https://github.com/justindbilyeu/eMSSC-squared/commit/59c6e639d72494d9fefbcf673328c769e3c8838b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-06-18 · [97c5ce9](https://github.com/justindbilyeu/eMSSC-squared/commit/97c5ce926cace5fd88c2aa35c7a0c345ae30dbde) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-06-18 · [fc918bb](https://github.com/justindbilyeu/eMSSC-squared/commit/fc918bb753c3fbca1f4581aa1c9aee1db8fad118) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## DoubtEngine
 
@@ -36,7 +36,3 @@ _Window: last 14 days; generated 2026-06-27 15:57 UTC._
 
 - 2026-06-21 · [730ec81](https://github.com/justindbilyeu/ITPU/commit/730ec818c241cdad7c1ac6a38b56195afebc34d2) — fix: C1 loc string legibility + C2 T1 docstring sign correction
 - 2026-06-21 · [9476ee5](https://github.com/justindbilyeu/ITPU/commit/9476ee50b5c03d6ab33d7299e26634a677fbe8b1) — fix: sync T2a docstring to code (N=1250) and relabel N=2500 ratio informational
-- 2026-06-15 · [15a75f2](https://github.com/justindbilyeu/ITPU/commit/15a75f27798ca375a14743d4a61c2bb88fade1ea) — Merge R1 KSG validation + estimator-aware type system
-- 2026-06-15 · [a054354](https://github.com/justindbilyeu/ITPU/commit/a054354daf4f7d6b5a0086171835c5c08954608d) — docs: update README and CHANGELOG for KSG validation, type system, bench audit
-- 2026-06-15 · [34916dc](https://github.com/justindbilyeu/ITPU/commit/34916dc759a1a97dfee34d400c91e6d44a2e57c2) — docs: REPORT.md with all gate numbers + fix τ_var pilot design and T2a criterion
-- 2026-06-15 · [f4e6d3c](https://github.com/justindbilyeu/ITPU/commit/f4e6d3c6cb674f494678a98da27292feb330ad4a) — feat: KSG R1 validation suite — T1–T9 battery, brute-force oracle, 26× bench audit
