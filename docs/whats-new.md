@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-07-17 16:06 UTC._
+_Window: last 14 days; generated 2026-07-18 15:42 UTC._
 
 ## eMSSC-squared
 
+- 2026-07-18 · [f8de30b](https://github.com/justindbilyeu/eMSSC-squared/commit/f8de30b6c2fc8b60527dfd405fef6a508d5aa452) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-07-18 · [022565b](https://github.com/justindbilyeu/eMSSC-squared/commit/022565b7fa66e679cce7aab9d65d24dc39f52953) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-17 · [66de7eb](https://github.com/justindbilyeu/eMSSC-squared/commit/66de7eba73a58f864feb1cfc63bfec32043f4162) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-07-17 · [c9e4b81](https://github.com/justindbilyeu/eMSSC-squared/commit/c9e4b81a0e9a6fbb4d9954962a096443e24d9266) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-16 · [1822462](https://github.com/justindbilyeu/eMSSC-squared/commit/182246236ebc1bd72a20e298697ed238659327f8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-07-17 16:06 UTC._
 - 2026-07-10 · [2459eda](https://github.com/justindbilyeu/eMSSC-squared/commit/2459edab227ac430a2f388b0c3e1a1b164f30bbe) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-09 · [9da4a13](https://github.com/justindbilyeu/eMSSC-squared/commit/9da4a139fe6e2e877e84c250f2edc546c379bbe0) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-07-09 · [c443b5e](https://github.com/justindbilyeu/eMSSC-squared/commit/c443b5ebd97e63c87318d457a4fcb0127485e896) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-07-08 · [a391a12](https://github.com/justindbilyeu/eMSSC-squared/commit/a391a121bee76a5b0f8d969de40869db8d1a91ed) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-07-08 · [767a34b](https://github.com/justindbilyeu/eMSSC-squared/commit/767a34b228d7770e90c367b0874c7cdfb17c5a05) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## BlackMirror
 
@@ -42,8 +42,3 @@ _Window: last 14 days; generated 2026-07-17 16:06 UTC._
 - 2026-07-11 · [cd525d4](https://github.com/justindbilyeu/BlackMirror/commit/cd525d4d30a28e093e644ed21902b5fd44c66e60) — Implement BlackMirror epistemic OS: scar layer, evidence web, CLI
 - 2026-07-11 · [57f7804](https://github.com/justindbilyeu/BlackMirror/commit/57f780477f95cf4159097ac59f6a2c6f2badb3d0) — Enhance README with project description and features
 - 2026-07-11 · [a332c3f](https://github.com/justindbilyeu/BlackMirror/commit/a332c3f4dc12e220dee6ae338368d3c98096b720) — Initial commit
-
-## CarrierCalc
-
-- 2026-07-04 · [e34262d](https://github.com/justindbilyeu/CarrierCalc/commit/e34262d31695391d7b6481a1656b49a8e08a8ee8) — Enhance roof options and update cost calculations
-- 2026-07-04 · [ae6c4e7](https://github.com/justindbilyeu/CarrierCalc/commit/ae6c4e773909401fce3b124787f920acd49341d0) — Delete docs/index.html
