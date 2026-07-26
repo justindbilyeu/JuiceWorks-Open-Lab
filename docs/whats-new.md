@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-07-25 15:54 UTC._
+_Window: last 14 days; generated 2026-07-26 15:52 UTC._
 
 ## eMSSC-squared
 
+- 2026-07-26 · [636fbbe](https://github.com/justindbilyeu/eMSSC-squared/commit/636fbbeeb16edb08490751c6d76afc142c703291) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-07-26 · [1aa957b](https://github.com/justindbilyeu/eMSSC-squared/commit/1aa957b335abcd6873b2af5ea40c54a5bced1b43) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-25 · [eb27d47](https://github.com/justindbilyeu/eMSSC-squared/commit/eb27d47fe8d434ead6072adbed43f98a75bdf7d8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-07-25 · [03f2761](https://github.com/justindbilyeu/eMSSC-squared/commit/03f2761001b4877c151f9704c29c41c9899e3b62) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-24 · [0990192](https://github.com/justindbilyeu/eMSSC-squared/commit/0990192706cce1b5ef1f34dde5cf60288ba28999) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,23 +24,3 @@ _Window: last 14 days; generated 2026-07-25 15:54 UTC._
 - 2026-07-18 · [022565b](https://github.com/justindbilyeu/eMSSC-squared/commit/022565b7fa66e679cce7aab9d65d24dc39f52953) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-07-17 · [66de7eb](https://github.com/justindbilyeu/eMSSC-squared/commit/66de7eba73a58f864feb1cfc63bfec32043f4162) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-07-17 · [c9e4b81](https://github.com/justindbilyeu/eMSSC-squared/commit/c9e4b81a0e9a6fbb4d9954962a096443e24d9266) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-07-16 · [1822462](https://github.com/justindbilyeu/eMSSC-squared/commit/182246236ebc1bd72a20e298697ed238659327f8) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-07-16 · [59224aa](https://github.com/justindbilyeu/eMSSC-squared/commit/59224aa8ed503e3ca69a439e6f9d9c5cfd226e16) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## BlackMirror
-
-- 2026-07-11 · [700f378](https://github.com/justindbilyeu/BlackMirror/commit/700f378015a35b8b9d10dc3fb09778ad6161e3c8) — Merge pull request #6 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [922ef02](https://github.com/justindbilyeu/BlackMirror/commit/922ef02fc2650905e3b61200d30da4798dc8ae18) — Close the falsifiability/anti-smoothing gaming vectors
-- 2026-07-11 · [ce29475](https://github.com/justindbilyeu/BlackMirror/commit/ce29475b25c40c5523a432318fb08a2a8933b6a6) — Merge pull request #5 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [bed3f34](https://github.com/justindbilyeu/BlackMirror/commit/bed3f34d1e96df3714a1d240b824945a861b45d4) — Fix README/CLI terminology mismatches found by an independent model read
-- 2026-07-11 · [d8bfaed](https://github.com/justindbilyeu/BlackMirror/commit/d8bfaed14231d53b16e72dec2003633ebd954e68) — Rewrite README as onboarding instructions addressed to the AI operating the tool
-- 2026-07-11 · [75338ab](https://github.com/justindbilyeu/BlackMirror/commit/75338ab25f433954e4b2fffd9c0b8fb46082417f) — Merge pull request #4 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [0f76c6c](https://github.com/justindbilyeu/BlackMirror/commit/0f76c6c44784857f252bb8d3d8c40d6cfdf507e9) — Add CI: run pytest on push/PR to main across Python 3.8-3.12
-- 2026-07-11 · [cda7c37](https://github.com/justindbilyeu/BlackMirror/commit/cda7c377e2e9cb9dabff82f785cc496466797d51) — Merge pull request #3 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [3312f17](https://github.com/justindbilyeu/BlackMirror/commit/3312f17c6f01bbb382d64d36f76a0b2237360c64) — Expose the evidence web as a standalone product; add cycle/path detection
-- 2026-07-11 · [c233fce](https://github.com/justindbilyeu/BlackMirror/commit/c233fce146aae648a142e673218b2c3ee0780672) — Merge pull request #2 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [cd10815](https://github.com/justindbilyeu/BlackMirror/commit/cd108151605e45e8349b2f7db52c41d6545a1673) — Fix reconciliation engine: reverse BFS direction, ground claims via observations
-- 2026-07-11 · [b4b0e70](https://github.com/justindbilyeu/BlackMirror/commit/b4b0e70edcd2fd21777f3adce102aa11455f6fd2) — Merge pull request #1 from justindbilyeu/claude/new-session-3ikxgk
-- 2026-07-11 · [cd525d4](https://github.com/justindbilyeu/BlackMirror/commit/cd525d4d30a28e093e644ed21902b5fd44c66e60) — Implement BlackMirror epistemic OS: scar layer, evidence web, CLI
-- 2026-07-11 · [57f7804](https://github.com/justindbilyeu/BlackMirror/commit/57f780477f95cf4159097ac59f6a2c6f2badb3d0) — Enhance README with project description and features
-- 2026-07-11 · [a332c3f](https://github.com/justindbilyeu/BlackMirror/commit/a332c3f4dc12e220dee6ae338368d3c98096b720) — Initial commit
