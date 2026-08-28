@@ -1,9 +1,28 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-08-26 16:07 UTC._
+_Window: last 14 days; generated 2026-08-28 00:08 UTC._
+
+## CarrierCalc-Austin
+
+- 2026-08-27 · [c08b136](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/c08b1367fc9f28e61dbfa398d82dbc7a214d10d7) — Cache the page offline; add Cody Kleeves
+- 2026-08-27 · [964bebf](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/964bebf66d549cebc2446079b4e3c923b9c33bc6) — Add Cody Kleeves as a rep
+- 2026-08-27 · [ec5d753](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ec5d753ca5901494b4529b77b9e61764b1771498) — Route reps by URL slug; /david/ becomes a redirect
+- 2026-08-27 · [12c6290](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/12c62905fae8efec2309a878fe71187d740d54eb) — Add David Johnson's rep page at docs/david/
+- 2026-08-27 · [808fbbe](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/808fbbe7475937b4910192360eb94ffa4ba530a8) — Deploy self-contained build: Chart.js inlined
+- 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
+- 2026-08-25 · [68519fd](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/68519fdb78c7f51f85aafd050ffa5f4aca003a7d) — Fix contact link formatting in index.html
+
+## CarrierCalc
+
+- 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
+- 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
+- 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
+- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
 
 ## eMSSC-squared
 
+- 2026-08-27 · [a1941f6](https://github.com/justindbilyeu/eMSSC-squared/commit/a1941f66fb5428654e797590b9c9d0084fe3fdec) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-08-27 · [2d6ba8f](https://github.com/justindbilyeu/eMSSC-squared/commit/2d6ba8f6ac1eacf679f7510cf37e4bc7eaf2f009) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-26 · [ea331c4](https://github.com/justindbilyeu/eMSSC-squared/commit/ea331c4c52cbb31ed2960c5df9f7150da0cf1235) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-26 · [007a9dc](https://github.com/justindbilyeu/eMSSC-squared/commit/007a9dcf52ca6c5eac65c8c5c1d5468b171cafb8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-25 · [8ed41be](https://github.com/justindbilyeu/eMSSC-squared/commit/8ed41beb43484abd2a1693626e627a0c4c22e556) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,9 +41,3 @@ _Window: last 14 days; generated 2026-08-26 16:07 UTC._
 - 2026-08-19 · [9fefc4c](https://github.com/justindbilyeu/eMSSC-squared/commit/9fefc4cdd36dacec2af334b6827608e849610f4b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-18 · [4ccfd42](https://github.com/justindbilyeu/eMSSC-squared/commit/4ccfd42f651e8e2bca5d61ed3b84aa70506d8fb7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-18 · [666aaa3](https://github.com/justindbilyeu/eMSSC-squared/commit/666aaa366ce239862f05c708910dd5fd55c0272e) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-17 · [a638525](https://github.com/justindbilyeu/eMSSC-squared/commit/a638525f03d1f7c4e81aab73bfe48443306c513f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-17 · [64e8c8d](https://github.com/justindbilyeu/eMSSC-squared/commit/64e8c8daaf83dd55623864918b2293b9307ba5d7) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-
-## CarrierCalc-Austin
-
-- 2026-08-25 · [68519fd](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/68519fdb78c7f51f85aafd050ffa5f4aca003a7d) — Fix contact link formatting in index.html
