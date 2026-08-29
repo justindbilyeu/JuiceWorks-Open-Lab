@@ -1,24 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-08-28 23:44 UTC._
-
-## justindbilyeu
-
-- 2026-08-28 · [78360ac](https://github.com/justindbilyeu/justindbilyeu/commit/78360acc30d4c0812cb19dabfd17584f38535e84) — Update description in README.md
-- 2026-08-28 · [d3db471](https://github.com/justindbilyeu/justindbilyeu/commit/d3db47177db877fb4eebfba1d3cff78923d8b290) — Revise job description in README
-- 2026-08-28 · [72bd1b9](https://github.com/justindbilyeu/justindbilyeu/commit/72bd1b9195b9187894989b4c2d7724a0cf12fdc9) — Revise README with project overview and work methodology
-- 2026-08-28 · [9c91ff5](https://github.com/justindbilyeu/justindbilyeu/commit/9c91ff568d4ae75a998c45535a01ef088625d74c) — Initial commit
-
-## CarrierCalc
-
-- 2026-08-28 · [0c1e3a4](https://github.com/justindbilyeu/CarrierCalc/commit/0c1e3a464201de6dc54d767137570d5611050c6a) — Texas Choice colours and company-line default contact
-- 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
-- 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
-- 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
-- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
+_Window: last 14 days; generated 2026-08-29 17:58 UTC._
 
 ## CarrierCalc-Austin
 
+- 2026-08-29 · [4f4d5ea](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/4f4d5ead6dd0c48cfdd9d9fff1d924472c2d0c5d) — Do not interpolate the homeowner name into innerHTML
+- 2026-08-29 · [e8e0735](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/e8e0735b8a86c977b9aee3a624e6e013b23ccc60) — Lead capture: a homeowner can raise a hand
 - 2026-08-28 · [cf66557](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/cf66557f819ccb8ecec2ac3eade4ed59bd59ee17) — Texas Choice colours and company-line default contact
 - 2026-08-27 · [c08b136](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/c08b1367fc9f28e61dbfa398d82dbc7a214d10d7) — Cache the page offline; add Cody Kleeves
 - 2026-08-27 · [964bebf](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/964bebf66d549cebc2446079b4e3c923b9c33bc6) — Add Cody Kleeves as a rep
@@ -28,8 +15,20 @@ _Window: last 14 days; generated 2026-08-28 23:44 UTC._
 - 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
 - 2026-08-25 · [68519fd](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/68519fdb78c7f51f85aafd050ffa5f4aca003a7d) — Fix contact link formatting in index.html
 
+## CarrierCalc
+
+- 2026-08-29 · [4eb53af](https://github.com/justindbilyeu/CarrierCalc/commit/4eb53afce653d85596a8b246d7936b04aba77a26) — Do not interpolate the homeowner name into innerHTML
+- 2026-08-29 · [d41c45c](https://github.com/justindbilyeu/CarrierCalc/commit/d41c45caeaaac6c49fd0d67f8b23abc06bc5a988) — Lead capture: a homeowner can raise a hand
+- 2026-08-28 · [0c1e3a4](https://github.com/justindbilyeu/CarrierCalc/commit/0c1e3a464201de6dc54d767137570d5611050c6a) — Texas Choice colours and company-line default contact
+- 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
+- 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
+- 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
+- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
+
 ## eMSSC-squared
 
+- 2026-08-29 · [ca3ddf1](https://github.com/justindbilyeu/eMSSC-squared/commit/ca3ddf10f6c23b8a136104c5784ce1a9b24c8db9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-08-29 · [afda4cf](https://github.com/justindbilyeu/eMSSC-squared/commit/afda4cf920ff25b61f807eb4c19f7128d3b6838c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-28 · [921affb](https://github.com/justindbilyeu/eMSSC-squared/commit/921affb68e573885d294403375cc2158d43030b7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-28 · [a8d55cf](https://github.com/justindbilyeu/eMSSC-squared/commit/a8d55cff12f746ad9ac68a7cddc18e64321d90fe) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-27 · [a1941f6](https://github.com/justindbilyeu/eMSSC-squared/commit/a1941f66fb5428654e797590b9c9d0084fe3fdec) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -48,5 +47,10 @@ _Window: last 14 days; generated 2026-08-28 23:44 UTC._
 - 2026-08-21 · [2686f2a](https://github.com/justindbilyeu/eMSSC-squared/commit/2686f2a183edf5485cc8584166f106dc0950f50c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-20 · [16d29d7](https://github.com/justindbilyeu/eMSSC-squared/commit/16d29d74ad4a13d1ce80e7706e5ba1aaf29c5b45) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-20 · [4595f11](https://github.com/justindbilyeu/eMSSC-squared/commit/4595f1160f6c6f5062d99a6e551e1662705401d1) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-19 · [026f033](https://github.com/justindbilyeu/eMSSC-squared/commit/026f033ada3c11a6aa901c45f0944618b043a260) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-19 · [9fefc4c](https://github.com/justindbilyeu/eMSSC-squared/commit/9fefc4cdd36dacec2af334b6827608e849610f4b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## justindbilyeu
+
+- 2026-08-28 · [78360ac](https://github.com/justindbilyeu/justindbilyeu/commit/78360acc30d4c0812cb19dabfd17584f38535e84) — Update description in README.md
+- 2026-08-28 · [d3db471](https://github.com/justindbilyeu/justindbilyeu/commit/d3db47177db877fb4eebfba1d3cff78923d8b290) — Revise job description in README
+- 2026-08-28 · [72bd1b9](https://github.com/justindbilyeu/justindbilyeu/commit/72bd1b9195b9187894989b4c2d7724a0cf12fdc9) — Revise README with project overview and work methodology
+- 2026-08-28 · [9c91ff5](https://github.com/justindbilyeu/justindbilyeu/commit/9c91ff568d4ae75a998c45535a01ef088625d74c) — Initial commit
