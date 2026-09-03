@@ -1,9 +1,18 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-02 18:12 UTC._
+_Window: last 14 days; generated 2026-09-03 18:10 UTC._
+
+## Tech-but-Verify
+
+- 2026-09-03 · [20f4c93](https://github.com/justindbilyeu/Tech-but-Verify/commit/20f4c93ccdb94049c4a4a881b80637145e3ff88d) — Move the endpoint to juiceworks-api, add optional crew boss PINs
+- 2026-09-03 · [18089e1](https://github.com/justindbilyeu/Tech-but-Verify/commit/18089e168c8d00da61585e01fed507c2935457d2) — Make the checklist iPad-ready and state ownership
+- 2026-09-03 · [cdb899e](https://github.com/justindbilyeu/Tech-but-Verify/commit/cdb899e93cd74d1b0e1a3b7367857b8648b73e26) — Add the real TCR logo and switch the mastheads to light
+- 2026-09-03 · [d1f91c8](https://github.com/justindbilyeu/Tech-but-Verify/commit/d1f91c861f481fac602ff49fafd1e9b438c5431f) — Add TCR crew boss pre-job checklist prototype
 
 ## eMSSC-squared
 
+- 2026-09-03 · [cd26848](https://github.com/justindbilyeu/eMSSC-squared/commit/cd26848e55605779201a15932a5b89c4d1a62cde) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-03 · [a1f0959](https://github.com/justindbilyeu/eMSSC-squared/commit/a1f0959b08b01346563ab2cee676fdc26a3bcc54) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-02 · [3ede843](https://github.com/justindbilyeu/eMSSC-squared/commit/3ede843532e80852917efc0153572e8596b47eeb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-02 · [ed662d3](https://github.com/justindbilyeu/eMSSC-squared/commit/ed662d351b1241a0eb9edbbcdafa536fe05ac880) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-01 · [d39761a](https://github.com/justindbilyeu/eMSSC-squared/commit/d39761a67af9d806774593b7d9c42712a39eb04a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +31,24 @@ _Window: last 14 days; generated 2026-09-02 18:12 UTC._
 - 2026-08-26 · [007a9dc](https://github.com/justindbilyeu/eMSSC-squared/commit/007a9dcf52ca6c5eac65c8c5c1d5468b171cafb8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-25 · [8ed41be](https://github.com/justindbilyeu/eMSSC-squared/commit/8ed41beb43484abd2a1693626e627a0c4c22e556) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-25 · [08958c0](https://github.com/justindbilyeu/eMSSC-squared/commit/08958c0bde90b80465b479054463782e393b81b9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-24 · [1c9265f](https://github.com/justindbilyeu/eMSSC-squared/commit/1c9265feef7eaaf7d5b6efab03dcf1ad36d8b2d9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-24 · [df2d38a](https://github.com/justindbilyeu/eMSSC-squared/commit/df2d38af51f679456ec525551b82be1d89fc0414) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## Resonance_Geometry
+
+- 2026-09-02 · [cb7f3de](https://github.com/justindbilyeu/Resonance_Geometry/commit/cb7f3dec73172d018864fe9ed51a5e7b11a7f94e) — CONTRIBUTORS.md: credit by contribution and commit, not by byline
+- 2026-09-02 · [ad5f1c1](https://github.com/justindbilyeu/Resonance_Geometry/commit/ad5f1c1ffe0fed544e90502f39938d2b308fe976) — README: name the collective, as method rather than as owner
+- 2026-09-02 · [ce4c175](https://github.com/justindbilyeu/Resonance_Geometry/commit/ce4c175cfe8a2913d08bffed02bc20e315747409) — LICENSE: Apache 2.0 for the code, CC BY 4.0 for the papers
+- 2026-09-02 · [f2a5744](https://github.com/justindbilyeu/Resonance_Geometry/commit/f2a5744f2ce2f645008e8994138c11bb76350e1f) — Merge pull request #137 from justindbilyeu/claude/ci-honesty-and-paper-paths
+- 2026-09-02 · [a884c3b](https://github.com/justindbilyeu/Resonance_Geometry/commit/a884c3bb5d80587b0bb3785ab84b5350453d8bf0) — Retract the RTP at alpha ~= 0.35; guard the retraction with a test
+- 2026-09-02 · [c10f099](https://github.com/justindbilyeu/Resonance_Geometry/commit/c10f0992a709cb0333c77b4572aec1a7d6a2990c) — README: sort every claim in the repo by how well it is supported
+- 2026-09-02 · [e682fe4](https://github.com/justindbilyeu/Resonance_Geometry/commit/e682fe4fb8636fe0024a93aa311605f779dd4cb6) — README: state the evidence status of each number
+- 2026-09-02 · [5e1c5f3](https://github.com/justindbilyeu/Resonance_Geometry/commit/5e1c5f35f8b0c845115daa108b857c2f2a183494) — Make CI able to fail, and make the hallucination paper reproducible
+
+## The-Charter
+
+- 2026-09-02 · [55e9a39](https://github.com/justindbilyeu/The-Charter/commit/55e9a39c52bd537c6366b033968dd37902ed8185) — Merge pull request #19 from justindbilyeu/claude/origin-forensics-and-attribution-gate
+- 2026-09-02 · [11f8626](https://github.com/justindbilyeu/The-Charter/commit/11f8626127f9193fead8f91a7ef622b34f53744b) — Case study 7b: the same failure propagated again while this was being written
+- 2026-09-02 · [c93fc28](https://github.com/justindbilyeu/The-Charter/commit/c93fc280645ba82dcdaae9e47b8e43fe063c184b) — Add the case study: a corroboration that never happened
+- 2026-09-02 · [fe03a41](https://github.com/justindbilyeu/The-Charter/commit/fe03a4160da505d7abb1773146d5152894764a55) — ORIGIN: correct the forensic account; file G6 for the failure it misses
 
 ## CarrierCalc-Austin
 
