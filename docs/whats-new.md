@@ -1,9 +1,19 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-03 18:10 UTC._
+_Window: last 14 days; generated 2026-09-04 17:52 UTC._
 
 ## Tech-but-Verify
 
+- 2026-09-04 · [519a362](https://github.com/justindbilyeu/Tech-but-Verify/commit/519a3621d2b97a1fac9141abb3a5b838ae33ba78) — Email the office when a checklist is filed
+- 2026-09-04 · [cd76eb2](https://github.com/justindbilyeu/Tech-but-Verify/commit/cd76eb202ce65e939b48e1c63865337aa774f539) — Teach the adapter and bundle suites about the signature
+- 2026-09-04 · [6585f44](https://github.com/justindbilyeu/Tech-but-Verify/commit/6585f44f7093afb939e91460479266468e4c9f70) — Add the crew boss acknowledgment, with a signature
+- 2026-09-04 · [c6ff46a](https://github.com/justindbilyeu/Tech-but-Verify/commit/c6ff46af6b2f2cbe438d5f5367109115731f9e6c) — Pin the names in PICKUP, without renaming anything
+- 2026-09-04 · [a65c1d0](https://github.com/justindbilyeu/Tech-but-Verify/commit/a65c1d0997ab5ccfa22b1f2a38240a542ea8a719) — Add CLAUDE.md
+- 2026-09-03 · [6ee1e6a](https://github.com/justindbilyeu/Tech-but-Verify/commit/6ee1e6af31b96814266f224bff50fac86b7f7c6c) — Tidy up, and leave a pickup file for a real screen
+- 2026-09-03 · [8acfca9](https://github.com/justindbilyeu/Tech-but-Verify/commit/8acfca94c5cafe58b901b0575df4ccb94ddfd836) — Point the checklist at the Cloudflare Worker
+- 2026-09-03 · [8881dbb](https://github.com/justindbilyeu/Tech-but-Verify/commit/8881dbb8b218b86b55af48a60aaab40eb9151373) — Merge the Cloudflare Worker adapter into main
+- 2026-09-03 · [f382024](https://github.com/justindbilyeu/Tech-but-Verify/commit/f382024acab009aeface82927921750244a9fae1) — A single pasteable file, so deploying needs no terminal
+- 2026-09-03 · [7d56dd7](https://github.com/justindbilyeu/Tech-but-Verify/commit/7d56dd767ecd2c06d6a26b7d038e16cc05f4e8f9) — Run the checklist handler on Cloudflare Workers without changing it
 - 2026-09-03 · [20f4c93](https://github.com/justindbilyeu/Tech-but-Verify/commit/20f4c93ccdb94049c4a4a881b80637145e3ff88d) — Move the endpoint to juiceworks-api, add optional crew boss PINs
 - 2026-09-03 · [18089e1](https://github.com/justindbilyeu/Tech-but-Verify/commit/18089e168c8d00da61585e01fed507c2935457d2) — Make the checklist iPad-ready and state ownership
 - 2026-09-03 · [cdb899e](https://github.com/justindbilyeu/Tech-but-Verify/commit/cdb899e93cd74d1b0e1a3b7367857b8648b73e26) — Add the real TCR logo and switch the mastheads to light
@@ -11,6 +21,8 @@ _Window: last 14 days; generated 2026-09-03 18:10 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-04 · [7e25447](https://github.com/justindbilyeu/eMSSC-squared/commit/7e25447a2fe0811364381c6b07ca2cb6c27f0f75) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-04 · [cd365dd](https://github.com/justindbilyeu/eMSSC-squared/commit/cd365dda0e5ff886e735ba5833a939bc4804586b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-03 · [cd26848](https://github.com/justindbilyeu/eMSSC-squared/commit/cd26848e55605779201a15932a5b89c4d1a62cde) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-03 · [a1f0959](https://github.com/justindbilyeu/eMSSC-squared/commit/a1f0959b08b01346563ab2cee676fdc26a3bcc54) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-02 · [3ede843](https://github.com/justindbilyeu/eMSSC-squared/commit/3ede843532e80852917efc0153572e8596b47eeb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -29,8 +41,6 @@ _Window: last 14 days; generated 2026-09-03 18:10 UTC._
 - 2026-08-27 · [2d6ba8f](https://github.com/justindbilyeu/eMSSC-squared/commit/2d6ba8f6ac1eacf679f7510cf37e4bc7eaf2f009) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-26 · [ea331c4](https://github.com/justindbilyeu/eMSSC-squared/commit/ea331c4c52cbb31ed2960c5df9f7150da0cf1235) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-26 · [007a9dc](https://github.com/justindbilyeu/eMSSC-squared/commit/007a9dcf52ca6c5eac65c8c5c1d5468b171cafb8) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-25 · [8ed41be](https://github.com/justindbilyeu/eMSSC-squared/commit/8ed41beb43484abd2a1693626e627a0c4c22e556) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-25 · [08958c0](https://github.com/justindbilyeu/eMSSC-squared/commit/08958c0bde90b80465b479054463782e393b81b9) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Resonance_Geometry
 
