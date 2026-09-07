@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-06 17:23 UTC._
+_Window: last 14 days; generated 2026-09-07 18:54 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-07 · [f5f3ad5](https://github.com/justindbilyeu/eMSSC-squared/commit/f5f3ad5e2d9f42428c7408c3d6efe9eda8b68a63) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-07 · [670c650](https://github.com/justindbilyeu/eMSSC-squared/commit/670c650d352e383f6fd28e7a0ba35d53a3065afb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-06 · [2ff1461](https://github.com/justindbilyeu/eMSSC-squared/commit/2ff1461bf8a241844ca5785dea6f30c9142fca10) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-06 · [d76e896](https://github.com/justindbilyeu/eMSSC-squared/commit/d76e896a2ab584b60cb31291ccdfeaf2e600487f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-05 · [4fe5ccd](https://github.com/justindbilyeu/eMSSC-squared/commit/4fe5ccdb9058d84c091e2727a2d38f2252daf507) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,11 +24,12 @@ _Window: last 14 days; generated 2026-09-06 17:23 UTC._
 - 2026-08-30 · [03036bd](https://github.com/justindbilyeu/eMSSC-squared/commit/03036bd8e21d9d664baa96afe089f73b8886b656) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-29 · [ca3ddf1](https://github.com/justindbilyeu/eMSSC-squared/commit/ca3ddf10f6c23b8a136104c5784ce1a9b24c8db9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-29 · [afda4cf](https://github.com/justindbilyeu/eMSSC-squared/commit/afda4cf920ff25b61f807eb4c19f7128d3b6838c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-28 · [921affb](https://github.com/justindbilyeu/eMSSC-squared/commit/921affb68e573885d294403375cc2158d43030b7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-28 · [a8d55cf](https://github.com/justindbilyeu/eMSSC-squared/commit/a8d55cff12f746ad9ac68a7cddc18e64321d90fe) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Tech-but-Verify
 
+- 2026-09-06 · [21e737f](https://github.com/justindbilyeu/Tech-but-Verify/commit/21e737ff6e8548e9d9764993e8eb6a2a39c9d638) — checklist: Test Crew at 123 Test St, Testville, TX
+- 2026-09-06 · [bc316ed](https://github.com/justindbilyeu/Tech-but-Verify/commit/bc316eddd6656be500cc6f8410ca244fdfedc0b4) — Put GITHUB_REPO in the file, where a deploy cannot wipe it
+- 2026-09-06 · [329eb91](https://github.com/justindbilyeu/Tech-but-Verify/commit/329eb91b733957e575e644f8cd4d586150b63a03) — Say what the server said, instead of blaming the signal
 - 2026-09-04 · [519a362](https://github.com/justindbilyeu/Tech-but-Verify/commit/519a3621d2b97a1fac9141abb3a5b838ae33ba78) — Email the office when a checklist is filed
 - 2026-09-04 · [cd76eb2](https://github.com/justindbilyeu/Tech-but-Verify/commit/cd76eb202ce65e939b48e1c63865337aa774f539) — Teach the adapter and bundle suites about the signature
 - 2026-09-04 · [6585f44](https://github.com/justindbilyeu/Tech-but-Verify/commit/6585f44f7093afb939e91460479266468e4c9f70) — Add the crew boss acknowledgment, with a signature
