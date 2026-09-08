@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-07 18:54 UTC._
+_Window: last 14 days; generated 2026-09-08 18:09 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-08 · [ee230f8](https://github.com/justindbilyeu/eMSSC-squared/commit/ee230f867277e131ef1e369f5a2db13895195e6f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-08 · [0a45a7f](https://github.com/justindbilyeu/eMSSC-squared/commit/0a45a7f9e3b20cc02f6a93a6a197aa311eed5fec) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-07 · [f5f3ad5](https://github.com/justindbilyeu/eMSSC-squared/commit/f5f3ad5e2d9f42428c7408c3d6efe9eda8b68a63) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-07 · [670c650](https://github.com/justindbilyeu/eMSSC-squared/commit/670c650d352e383f6fd28e7a0ba35d53a3065afb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-06 · [2ff1461](https://github.com/justindbilyeu/eMSSC-squared/commit/2ff1461bf8a241844ca5785dea6f30c9142fca10) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,11 +24,10 @@ _Window: last 14 days; generated 2026-09-07 18:54 UTC._
 - 2026-08-31 · [d5ec3ad](https://github.com/justindbilyeu/eMSSC-squared/commit/d5ec3ad170fc538a4214956ec263203cb4a98fa1) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-30 · [a5c488f](https://github.com/justindbilyeu/eMSSC-squared/commit/a5c488f3470a5a2beb840fc89d1992f5972890c7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-30 · [03036bd](https://github.com/justindbilyeu/eMSSC-squared/commit/03036bd8e21d9d664baa96afe089f73b8886b656) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-29 · [ca3ddf1](https://github.com/justindbilyeu/eMSSC-squared/commit/ca3ddf10f6c23b8a136104c5784ce1a9b24c8db9) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-29 · [afda4cf](https://github.com/justindbilyeu/eMSSC-squared/commit/afda4cf920ff25b61f807eb4c19f7128d3b6838c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## Tech-but-Verify
 
+- 2026-09-08 · [c98457f](https://github.com/justindbilyeu/Tech-but-Verify/commit/c98457fb3d26ede9f6bfc9c47430754b139e1255) — Say when a checklist was filed and nobody was told
 - 2026-09-06 · [21e737f](https://github.com/justindbilyeu/Tech-but-Verify/commit/21e737ff6e8548e9d9764993e8eb6a2a39c9d638) — checklist: Test Crew at 123 Test St, Testville, TX
 - 2026-09-06 · [bc316ed](https://github.com/justindbilyeu/Tech-but-Verify/commit/bc316eddd6656be500cc6f8410ca244fdfedc0b4) — Put GITHUB_REPO in the file, where a deploy cannot wipe it
 - 2026-09-06 · [329eb91](https://github.com/justindbilyeu/Tech-but-Verify/commit/329eb91b733957e575e644f8cd4d586150b63a03) — Say what the server said, instead of blaming the signal
@@ -76,7 +77,6 @@ _Window: last 14 days; generated 2026-09-07 18:54 UTC._
 - 2026-08-27 · [12c6290](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/12c62905fae8efec2309a878fe71187d740d54eb) — Add David Johnson's rep page at docs/david/
 - 2026-08-27 · [808fbbe](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/808fbbe7475937b4910192360eb94ffa4ba530a8) — Deploy self-contained build: Chart.js inlined
 - 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
-- 2026-08-25 · [68519fd](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/68519fdb78c7f51f85aafd050ffa5f4aca003a7d) — Fix contact link formatting in index.html
 
 ## CarrierCalc
 
