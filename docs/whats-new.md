@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-08 18:09 UTC._
+_Window: last 14 days; generated 2026-09-09 18:06 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-09 · [f58a3fd](https://github.com/justindbilyeu/eMSSC-squared/commit/f58a3fdd31714f3967d1c220bee8548370395c4e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-09 · [6ede460](https://github.com/justindbilyeu/eMSSC-squared/commit/6ede460752e9e832283d7c99eedec92bcb75d6a5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-08 · [ee230f8](https://github.com/justindbilyeu/eMSSC-squared/commit/ee230f867277e131ef1e369f5a2db13895195e6f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-08 · [0a45a7f](https://github.com/justindbilyeu/eMSSC-squared/commit/0a45a7f9e3b20cc02f6a93a6a197aa311eed5fec) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-07 · [f5f3ad5](https://github.com/justindbilyeu/eMSSC-squared/commit/f5f3ad5e2d9f42428c7408c3d6efe9eda8b68a63) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,33 @@ _Window: last 14 days; generated 2026-09-08 18:09 UTC._
 - 2026-09-01 · [e3192b0](https://github.com/justindbilyeu/eMSSC-squared/commit/e3192b0b70060eda9cd8498f257e3263d65283b2) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-08-31 · [98add87](https://github.com/justindbilyeu/eMSSC-squared/commit/98add87218a7c9562af7b5675409b971ae44b87a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-08-31 · [d5ec3ad](https://github.com/justindbilyeu/eMSSC-squared/commit/d5ec3ad170fc538a4214956ec263203cb4a98fa1) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-30 · [a5c488f](https://github.com/justindbilyeu/eMSSC-squared/commit/a5c488f3470a5a2beb840fc89d1992f5972890c7) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-30 · [03036bd](https://github.com/justindbilyeu/eMSSC-squared/commit/03036bd8e21d9d664baa96afe089f73b8886b656) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
+
+## CarrierCalc
+
+- 2026-09-08 · [1bbeb5a](https://github.com/justindbilyeu/CarrierCalc/commit/1bbeb5a348331880390fe69764ab8a81e5429492) — Deploy: storm share fixed at 50%, the slider removed
+- 2026-09-01 · [9b6ae31](https://github.com/justindbilyeu/CarrierCalc/commit/9b6ae313c8b0d380fda5fc8cb2d0898cfca43b8b) — Isolate the service worker cache from other pages on the same site
+- 2026-08-29 · [4eb53af](https://github.com/justindbilyeu/CarrierCalc/commit/4eb53afce653d85596a8b246d7936b04aba77a26) — Do not interpolate the homeowner name into innerHTML
+- 2026-08-29 · [d41c45c](https://github.com/justindbilyeu/CarrierCalc/commit/d41c45caeaaac6c49fd0d67f8b23abc06bc5a988) — Lead capture: a homeowner can raise a hand
+- 2026-08-28 · [0c1e3a4](https://github.com/justindbilyeu/CarrierCalc/commit/0c1e3a464201de6dc54d767137570d5611050c6a) — Texas Choice colours and company-line default contact
+- 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
+- 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
+- 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
+- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
+
+## CarrierCalc-Austin
+
+- 2026-09-08 · [7a0771a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/7a0771ad9deb4fdbeaffae007a74bf811b2df2fc) — Deploy: storm share fixed at 50%, the slider removed -- both pages
+- 2026-09-01 · [aababa1](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/aababa1d6145e86db740355bfd1f0e1e87ff2639) — Add the portfolio build at docs/portfolio/
+- 2026-09-01 · [ef14c6a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ef14c6a45a029a3fe602bf56001074cb08e2e4c4) — Isolate the service worker cache from other pages on the same site
+- 2026-08-29 · [4f4d5ea](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/4f4d5ead6dd0c48cfdd9d9fff1d924472c2d0c5d) — Do not interpolate the homeowner name into innerHTML
+- 2026-08-29 · [e8e0735](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/e8e0735b8a86c977b9aee3a624e6e013b23ccc60) — Lead capture: a homeowner can raise a hand
+- 2026-08-28 · [cf66557](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/cf66557f819ccb8ecec2ac3eade4ed59bd59ee17) — Texas Choice colours and company-line default contact
+- 2026-08-27 · [c08b136](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/c08b1367fc9f28e61dbfa398d82dbc7a214d10d7) — Cache the page offline; add Cody Kleeves
+- 2026-08-27 · [964bebf](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/964bebf66d549cebc2446079b4e3c923b9c33bc6) — Add Cody Kleeves as a rep
+- 2026-08-27 · [ec5d753](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ec5d753ca5901494b4529b77b9e61764b1771498) — Route reps by URL slug; /david/ becomes a redirect
+- 2026-08-27 · [12c6290](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/12c62905fae8efec2309a878fe71187d740d54eb) — Add David Johnson's rep page at docs/david/
+- 2026-08-27 · [808fbbe](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/808fbbe7475937b4910192360eb94ffa4ba530a8) — Deploy self-contained build: Chart.js inlined
+- 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
 
 ## Tech-but-Verify
 
@@ -63,31 +90,6 @@ _Window: last 14 days; generated 2026-09-08 18:09 UTC._
 - 2026-09-02 · [11f8626](https://github.com/justindbilyeu/The-Charter/commit/11f8626127f9193fead8f91a7ef622b34f53744b) — Case study 7b: the same failure propagated again while this was being written
 - 2026-09-02 · [c93fc28](https://github.com/justindbilyeu/The-Charter/commit/c93fc280645ba82dcdaae9e47b8e43fe063c184b) — Add the case study: a corroboration that never happened
 - 2026-09-02 · [fe03a41](https://github.com/justindbilyeu/The-Charter/commit/fe03a4160da505d7abb1773146d5152894764a55) — ORIGIN: correct the forensic account; file G6 for the failure it misses
-
-## CarrierCalc-Austin
-
-- 2026-09-01 · [aababa1](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/aababa1d6145e86db740355bfd1f0e1e87ff2639) — Add the portfolio build at docs/portfolio/
-- 2026-09-01 · [ef14c6a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ef14c6a45a029a3fe602bf56001074cb08e2e4c4) — Isolate the service worker cache from other pages on the same site
-- 2026-08-29 · [4f4d5ea](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/4f4d5ead6dd0c48cfdd9d9fff1d924472c2d0c5d) — Do not interpolate the homeowner name into innerHTML
-- 2026-08-29 · [e8e0735](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/e8e0735b8a86c977b9aee3a624e6e013b23ccc60) — Lead capture: a homeowner can raise a hand
-- 2026-08-28 · [cf66557](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/cf66557f819ccb8ecec2ac3eade4ed59bd59ee17) — Texas Choice colours and company-line default contact
-- 2026-08-27 · [c08b136](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/c08b1367fc9f28e61dbfa398d82dbc7a214d10d7) — Cache the page offline; add Cody Kleeves
-- 2026-08-27 · [964bebf](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/964bebf66d549cebc2446079b4e3c923b9c33bc6) — Add Cody Kleeves as a rep
-- 2026-08-27 · [ec5d753](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ec5d753ca5901494b4529b77b9e61764b1771498) — Route reps by URL slug; /david/ becomes a redirect
-- 2026-08-27 · [12c6290](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/12c62905fae8efec2309a878fe71187d740d54eb) — Add David Johnson's rep page at docs/david/
-- 2026-08-27 · [808fbbe](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/808fbbe7475937b4910192360eb94ffa4ba530a8) — Deploy self-contained build: Chart.js inlined
-- 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
-
-## CarrierCalc
-
-- 2026-09-01 · [9b6ae31](https://github.com/justindbilyeu/CarrierCalc/commit/9b6ae313c8b0d380fda5fc8cb2d0898cfca43b8b) — Isolate the service worker cache from other pages on the same site
-- 2026-08-29 · [4eb53af](https://github.com/justindbilyeu/CarrierCalc/commit/4eb53afce653d85596a8b246d7936b04aba77a26) — Do not interpolate the homeowner name into innerHTML
-- 2026-08-29 · [d41c45c](https://github.com/justindbilyeu/CarrierCalc/commit/d41c45caeaaac6c49fd0d67f8b23abc06bc5a988) — Lead capture: a homeowner can raise a hand
-- 2026-08-28 · [0c1e3a4](https://github.com/justindbilyeu/CarrierCalc/commit/0c1e3a464201de6dc54d767137570d5611050c6a) — Texas Choice colours and company-line default contact
-- 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
-- 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
-- 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
-- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
 
 ## justindbilyeu
 
