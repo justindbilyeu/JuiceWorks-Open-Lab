@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-09 18:06 UTC._
+_Window: last 14 days; generated 2026-09-10 17:55 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-10 · [012e284](https://github.com/justindbilyeu/eMSSC-squared/commit/012e284bbe0dd4bd22c4d76855882002b13ea97e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-10 · [a526136](https://github.com/justindbilyeu/eMSSC-squared/commit/a526136d39030615edbc10c7d0041a845a053053) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-09 · [f58a3fd](https://github.com/justindbilyeu/eMSSC-squared/commit/f58a3fdd31714f3967d1c220bee8548370395c4e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-09 · [6ede460](https://github.com/justindbilyeu/eMSSC-squared/commit/6ede460752e9e832283d7c99eedec92bcb75d6a5) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-08 · [ee230f8](https://github.com/justindbilyeu/eMSSC-squared/commit/ee230f867277e131ef1e369f5a2db13895195e6f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-09-09 18:06 UTC._
 - 2026-09-02 · [ed662d3](https://github.com/justindbilyeu/eMSSC-squared/commit/ed662d351b1241a0eb9edbbcdafa536fe05ac880) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-01 · [d39761a](https://github.com/justindbilyeu/eMSSC-squared/commit/d39761a67af9d806774593b7d9c42712a39eb04a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-01 · [e3192b0](https://github.com/justindbilyeu/eMSSC-squared/commit/e3192b0b70060eda9cd8498f257e3263d65283b2) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-08-31 · [98add87](https://github.com/justindbilyeu/eMSSC-squared/commit/98add87218a7c9562af7b5675409b971ae44b87a) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-08-31 · [d5ec3ad](https://github.com/justindbilyeu/eMSSC-squared/commit/d5ec3ad170fc538a4214956ec263203cb4a98fa1) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## CarrierCalc
 
@@ -35,7 +35,6 @@ _Window: last 14 days; generated 2026-09-09 18:06 UTC._
 - 2026-08-27 · [1125471](https://github.com/justindbilyeu/CarrierCalc/commit/112547120fc3c2fc19d8615e70135c5d638e4d45) — Cache the page offline
 - 2026-08-27 · [2294e8b](https://github.com/justindbilyeu/CarrierCalc/commit/2294e8b5a002e25ee966d5fc80064aa2f47126cb) — Route reps by URL slug
 - 2026-08-27 · [7efbb59](https://github.com/justindbilyeu/CarrierCalc/commit/7efbb599a2668d4ba894feba4017cc7c7413e7f6) — Deploy self-contained build: Chart.js inlined
-- 2026-08-27 · [46a286e](https://github.com/justindbilyeu/CarrierCalc/commit/46a286ee252c5e82baee65500594c6286f04e501) — Deploy Houston build from carriercalc-core
 
 ## CarrierCalc-Austin
 
@@ -50,7 +49,6 @@ _Window: last 14 days; generated 2026-09-09 18:06 UTC._
 - 2026-08-27 · [ec5d753](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ec5d753ca5901494b4529b77b9e61764b1771498) — Route reps by URL slug; /david/ becomes a redirect
 - 2026-08-27 · [12c6290](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/12c62905fae8efec2309a878fe71187d740d54eb) — Add David Johnson's rep page at docs/david/
 - 2026-08-27 · [808fbbe](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/808fbbe7475937b4910192360eb94ffa4ba530a8) — Deploy self-contained build: Chart.js inlined
-- 2026-08-27 · [67044f9](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/67044f9dab38373a996c9ee7c9ee11ef13cc8503) — Deploy audited Austin build from carriercalc-core
 
 ## Tech-but-Verify
 
