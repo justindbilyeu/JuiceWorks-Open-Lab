@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-11 17:58 UTC._
+_Window: last 14 days; generated 2026-09-12 17:30 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-12 · [fccbae6](https://github.com/justindbilyeu/eMSSC-squared/commit/fccbae6ae648edcd2713401f8808596dceb6c5fc) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-12 · [6668e71](https://github.com/justindbilyeu/eMSSC-squared/commit/6668e715db04a8298475d741c76219d5c4f4be48) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-11 · [f58fccc](https://github.com/justindbilyeu/eMSSC-squared/commit/f58fcccdf4be482d8a4b31fe86aa5cab8b103d5f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-11 · [e99672e](https://github.com/justindbilyeu/eMSSC-squared/commit/e99672ebff8a6c298697d3159e5bf77f87f14662) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-10 · [012e284](https://github.com/justindbilyeu/eMSSC-squared/commit/012e284bbe0dd4bd22c4d76855882002b13ea97e) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,46 +24,17 @@ _Window: last 14 days; generated 2026-09-11 17:58 UTC._
 - 2026-09-04 · [cd365dd](https://github.com/justindbilyeu/eMSSC-squared/commit/cd365dda0e5ff886e735ba5833a939bc4804586b) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-03 · [cd26848](https://github.com/justindbilyeu/eMSSC-squared/commit/cd26848e55605779201a15932a5b89c4d1a62cde) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-03 · [a1f0959](https://github.com/justindbilyeu/eMSSC-squared/commit/a1f0959b08b01346563ab2cee676fdc26a3bcc54) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-09-02 · [3ede843](https://github.com/justindbilyeu/eMSSC-squared/commit/3ede843532e80852917efc0153572e8596b47eeb) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-09-02 · [ed662d3](https://github.com/justindbilyeu/eMSSC-squared/commit/ed662d351b1241a0eb9edbbcdafa536fe05ac880) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## CarrierCalc
 
 - 2026-09-08 · [1bbeb5a](https://github.com/justindbilyeu/CarrierCalc/commit/1bbeb5a348331880390fe69764ab8a81e5429492) — Deploy: storm share fixed at 50%, the slider removed
 - 2026-09-01 · [9b6ae31](https://github.com/justindbilyeu/CarrierCalc/commit/9b6ae313c8b0d380fda5fc8cb2d0898cfca43b8b) — Isolate the service worker cache from other pages on the same site
-- 2026-08-29 · [4eb53af](https://github.com/justindbilyeu/CarrierCalc/commit/4eb53afce653d85596a8b246d7936b04aba77a26) — Do not interpolate the homeowner name into innerHTML
-- 2026-08-29 · [d41c45c](https://github.com/justindbilyeu/CarrierCalc/commit/d41c45caeaaac6c49fd0d67f8b23abc06bc5a988) — Lead capture: a homeowner can raise a hand
-- 2026-08-28 · [0c1e3a4](https://github.com/justindbilyeu/CarrierCalc/commit/0c1e3a464201de6dc54d767137570d5611050c6a) — Texas Choice colours and company-line default contact
 
 ## CarrierCalc-Austin
 
 - 2026-09-08 · [7a0771a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/7a0771ad9deb4fdbeaffae007a74bf811b2df2fc) — Deploy: storm share fixed at 50%, the slider removed -- both pages
 - 2026-09-01 · [aababa1](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/aababa1d6145e86db740355bfd1f0e1e87ff2639) — Add the portfolio build at docs/portfolio/
 - 2026-09-01 · [ef14c6a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ef14c6a45a029a3fe602bf56001074cb08e2e4c4) — Isolate the service worker cache from other pages on the same site
-- 2026-08-29 · [4f4d5ea](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/4f4d5ead6dd0c48cfdd9d9fff1d924472c2d0c5d) — Do not interpolate the homeowner name into innerHTML
-- 2026-08-29 · [e8e0735](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/e8e0735b8a86c977b9aee3a624e6e013b23ccc60) — Lead capture: a homeowner can raise a hand
-- 2026-08-28 · [cf66557](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/cf66557f819ccb8ecec2ac3eade4ed59bd59ee17) — Texas Choice colours and company-line default contact
-
-## Tech-but-Verify
-
-- 2026-09-08 · [c98457f](https://github.com/justindbilyeu/Tech-but-Verify/commit/c98457fb3d26ede9f6bfc9c47430754b139e1255) — Say when a checklist was filed and nobody was told
-- 2026-09-06 · [21e737f](https://github.com/justindbilyeu/Tech-but-Verify/commit/21e737ff6e8548e9d9764993e8eb6a2a39c9d638) — checklist: Test Crew at 123 Test St, Testville, TX
-- 2026-09-06 · [bc316ed](https://github.com/justindbilyeu/Tech-but-Verify/commit/bc316eddd6656be500cc6f8410ca244fdfedc0b4) — Put GITHUB_REPO in the file, where a deploy cannot wipe it
-- 2026-09-06 · [329eb91](https://github.com/justindbilyeu/Tech-but-Verify/commit/329eb91b733957e575e644f8cd4d586150b63a03) — Say what the server said, instead of blaming the signal
-- 2026-09-04 · [519a362](https://github.com/justindbilyeu/Tech-but-Verify/commit/519a3621d2b97a1fac9141abb3a5b838ae33ba78) — Email the office when a checklist is filed
-- 2026-09-04 · [cd76eb2](https://github.com/justindbilyeu/Tech-but-Verify/commit/cd76eb202ce65e939b48e1c63865337aa774f539) — Teach the adapter and bundle suites about the signature
-- 2026-09-04 · [6585f44](https://github.com/justindbilyeu/Tech-but-Verify/commit/6585f44f7093afb939e91460479266468e4c9f70) — Add the crew boss acknowledgment, with a signature
-- 2026-09-04 · [c6ff46a](https://github.com/justindbilyeu/Tech-but-Verify/commit/c6ff46af6b2f2cbe438d5f5367109115731f9e6c) — Pin the names in PICKUP, without renaming anything
-- 2026-09-04 · [a65c1d0](https://github.com/justindbilyeu/Tech-but-Verify/commit/a65c1d0997ab5ccfa22b1f2a38240a542ea8a719) — Add CLAUDE.md
-- 2026-09-03 · [6ee1e6a](https://github.com/justindbilyeu/Tech-but-Verify/commit/6ee1e6af31b96814266f224bff50fac86b7f7c6c) — Tidy up, and leave a pickup file for a real screen
-- 2026-09-03 · [8acfca9](https://github.com/justindbilyeu/Tech-but-Verify/commit/8acfca94c5cafe58b901b0575df4ccb94ddfd836) — Point the checklist at the Cloudflare Worker
-- 2026-09-03 · [8881dbb](https://github.com/justindbilyeu/Tech-but-Verify/commit/8881dbb8b218b86b55af48a60aaab40eb9151373) — Merge the Cloudflare Worker adapter into main
-- 2026-09-03 · [f382024](https://github.com/justindbilyeu/Tech-but-Verify/commit/f382024acab009aeface82927921750244a9fae1) — A single pasteable file, so deploying needs no terminal
-- 2026-09-03 · [7d56dd7](https://github.com/justindbilyeu/Tech-but-Verify/commit/7d56dd767ecd2c06d6a26b7d038e16cc05f4e8f9) — Run the checklist handler on Cloudflare Workers without changing it
-- 2026-09-03 · [20f4c93](https://github.com/justindbilyeu/Tech-but-Verify/commit/20f4c93ccdb94049c4a4a881b80637145e3ff88d) — Move the endpoint to juiceworks-api, add optional crew boss PINs
-- 2026-09-03 · [18089e1](https://github.com/justindbilyeu/Tech-but-Verify/commit/18089e168c8d00da61585e01fed507c2935457d2) — Make the checklist iPad-ready and state ownership
-- 2026-09-03 · [cdb899e](https://github.com/justindbilyeu/Tech-but-Verify/commit/cdb899e93cd74d1b0e1a3b7367857b8648b73e26) — Add the real TCR logo and switch the mastheads to light
-- 2026-09-03 · [d1f91c8](https://github.com/justindbilyeu/Tech-but-Verify/commit/d1f91c861f481fac602ff49fafd1e9b438c5431f) — Add TCR crew boss pre-job checklist prototype
 
 ## Resonance_Geometry
 
@@ -84,4 +57,3 @@ _Window: last 14 days; generated 2026-09-11 17:58 UTC._
 ## justindbilyeu
 
 - 2026-09-01 · [b05edf4](https://github.com/justindbilyeu/justindbilyeu/commit/b05edf4affd464e40f04b8badedb4e4dde68733c) — Revise README for clarity and add new claims
-- 2026-08-28 · [78360ac](https://github.com/justindbilyeu/justindbilyeu/commit/78360acc30d4c0812cb19dabfd17584f38535e84) — Update description in README.md
