@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-14 19:39 UTC._
+_Window: last 14 days; generated 2026-09-15 18:33 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-15 · [dd480ee](https://github.com/justindbilyeu/eMSSC-squared/commit/dd480ee48d085d9eb1629b186e8534be5183f865) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-15 · [3ad913b](https://github.com/justindbilyeu/eMSSC-squared/commit/3ad913bb5bed14e48cfaed645609415ba875624c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-14 · [a6e378c](https://github.com/justindbilyeu/eMSSC-squared/commit/a6e378ca40d8a539f2b3876b910eeefbca30209f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-14 · [a9de2cd](https://github.com/justindbilyeu/eMSSC-squared/commit/a9de2cdc03194e37c2a30ca7605b129dc280fb30) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-13 · [5fcaf40](https://github.com/justindbilyeu/eMSSC-squared/commit/5fcaf40e25756c0dc390a78f479d64792b2d4f7c) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,8 +24,6 @@ _Window: last 14 days; generated 2026-09-14 19:39 UTC._
 - 2026-09-07 · [670c650](https://github.com/justindbilyeu/eMSSC-squared/commit/670c650d352e383f6fd28e7a0ba35d53a3065afb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-06 · [2ff1461](https://github.com/justindbilyeu/eMSSC-squared/commit/2ff1461bf8a241844ca5785dea6f30c9142fca10) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-06 · [d76e896](https://github.com/justindbilyeu/eMSSC-squared/commit/d76e896a2ab584b60cb31291ccdfeaf2e600487f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-09-05 · [4fe5ccd](https://github.com/justindbilyeu/eMSSC-squared/commit/4fe5ccdb9058d84c091e2727a2d38f2252daf507) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-09-05 · [82924c7](https://github.com/justindbilyeu/eMSSC-squared/commit/82924c771b5d4336f28ab3500b73a95260aa2b6f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## CarrierCalc
 
@@ -53,7 +53,3 @@ _Window: last 14 days; generated 2026-09-14 19:39 UTC._
 - 2026-09-02 · [11f8626](https://github.com/justindbilyeu/The-Charter/commit/11f8626127f9193fead8f91a7ef622b34f53744b) — Case study 7b: the same failure propagated again while this was being written
 - 2026-09-02 · [c93fc28](https://github.com/justindbilyeu/The-Charter/commit/c93fc280645ba82dcdaae9e47b8e43fe063c184b) — Add the case study: a corroboration that never happened
 - 2026-09-02 · [fe03a41](https://github.com/justindbilyeu/The-Charter/commit/fe03a4160da505d7abb1773146d5152894764a55) — ORIGIN: correct the forensic account; file G6 for the failure it misses
-
-## justindbilyeu
-
-- 2026-09-01 · [b05edf4](https://github.com/justindbilyeu/justindbilyeu/commit/b05edf4affd464e40f04b8badedb4e4dde68733c) — Revise README for clarity and add new claims
