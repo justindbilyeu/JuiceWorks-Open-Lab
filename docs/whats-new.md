@@ -1,9 +1,11 @@
 # What's New (Auto-Updated)
 
-_Window: last 14 days; generated 2026-09-15 18:33 UTC._
+_Window: last 14 days; generated 2026-09-16 18:31 UTC._
 
 ## eMSSC-squared
 
+- 2026-09-16 · [ab19f91](https://github.com/justindbilyeu/eMSSC-squared/commit/ab19f9112ab4e061bbed6697391581beaa470e03) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
+- 2026-09-16 · [fd7f0cb](https://github.com/justindbilyeu/eMSSC-squared/commit/fd7f0cb00a0e89103d5cd38be94872ac996bf639) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-15 · [dd480ee](https://github.com/justindbilyeu/eMSSC-squared/commit/dd480ee48d085d9eb1629b186e8534be5183f865) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-15 · [3ad913b](https://github.com/justindbilyeu/eMSSC-squared/commit/3ad913bb5bed14e48cfaed645609415ba875624c) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-14 · [a6e378c](https://github.com/justindbilyeu/eMSSC-squared/commit/a6e378ca40d8a539f2b3876b910eeefbca30209f) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
@@ -22,19 +24,14 @@ _Window: last 14 days; generated 2026-09-15 18:33 UTC._
 - 2026-09-08 · [0a45a7f](https://github.com/justindbilyeu/eMSSC-squared/commit/0a45a7f9e3b20cc02f6a93a6a197aa311eed5fec) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 - 2026-09-07 · [f5f3ad5](https://github.com/justindbilyeu/eMSSC-squared/commit/f5f3ad5e2d9f42428c7408c3d6efe9eda8b68a63) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
 - 2026-09-07 · [670c650](https://github.com/justindbilyeu/eMSSC-squared/commit/670c650d352e383f6fd28e7a0ba35d53a3065afb) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
-- 2026-09-06 · [2ff1461](https://github.com/justindbilyeu/eMSSC-squared/commit/2ff1461bf8a241844ca5785dea6f30c9142fca10) — chore(docs): sync from justindbilyeu/SunShare-TriSource/docs (@ main)
-- 2026-09-06 · [d76e896](https://github.com/justindbilyeu/eMSSC-squared/commit/d76e896a2ab584b60cb31291ccdfeaf2e600487f) — chore(docs): sync from justindbilyeu/SunShare-Connect-Initiative-/docs (@ main)
 
 ## CarrierCalc
 
 - 2026-09-08 · [1bbeb5a](https://github.com/justindbilyeu/CarrierCalc/commit/1bbeb5a348331880390fe69764ab8a81e5429492) — Deploy: storm share fixed at 50%, the slider removed
-- 2026-09-01 · [9b6ae31](https://github.com/justindbilyeu/CarrierCalc/commit/9b6ae313c8b0d380fda5fc8cb2d0898cfca43b8b) — Isolate the service worker cache from other pages on the same site
 
 ## CarrierCalc-Austin
 
 - 2026-09-08 · [7a0771a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/7a0771ad9deb4fdbeaffae007a74bf811b2df2fc) — Deploy: storm share fixed at 50%, the slider removed -- both pages
-- 2026-09-01 · [aababa1](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/aababa1d6145e86db740355bfd1f0e1e87ff2639) — Add the portfolio build at docs/portfolio/
-- 2026-09-01 · [ef14c6a](https://github.com/justindbilyeu/CarrierCalc-Austin/commit/ef14c6a45a029a3fe602bf56001074cb08e2e4c4) — Isolate the service worker cache from other pages on the same site
 
 ## Resonance_Geometry
 
@@ -43,13 +40,7 @@ _Window: last 14 days; generated 2026-09-15 18:33 UTC._
 - 2026-09-02 · [ce4c175](https://github.com/justindbilyeu/Resonance_Geometry/commit/ce4c175cfe8a2913d08bffed02bc20e315747409) — LICENSE: Apache 2.0 for the code, CC BY 4.0 for the papers
 - 2026-09-02 · [f2a5744](https://github.com/justindbilyeu/Resonance_Geometry/commit/f2a5744f2ce2f645008e8994138c11bb76350e1f) — Merge pull request #137 from justindbilyeu/claude/ci-honesty-and-paper-paths
 - 2026-09-02 · [a884c3b](https://github.com/justindbilyeu/Resonance_Geometry/commit/a884c3bb5d80587b0bb3785ab84b5350453d8bf0) — Retract the RTP at alpha ~= 0.35; guard the retraction with a test
-- 2026-09-02 · [c10f099](https://github.com/justindbilyeu/Resonance_Geometry/commit/c10f0992a709cb0333c77b4572aec1a7d6a2990c) — README: sort every claim in the repo by how well it is supported
-- 2026-09-02 · [e682fe4](https://github.com/justindbilyeu/Resonance_Geometry/commit/e682fe4fb8636fe0024a93aa311605f779dd4cb6) — README: state the evidence status of each number
-- 2026-09-02 · [5e1c5f3](https://github.com/justindbilyeu/Resonance_Geometry/commit/5e1c5f35f8b0c845115daa108b857c2f2a183494) — Make CI able to fail, and make the hallucination paper reproducible
 
 ## The-Charter
 
 - 2026-09-02 · [55e9a39](https://github.com/justindbilyeu/The-Charter/commit/55e9a39c52bd537c6366b033968dd37902ed8185) — Merge pull request #19 from justindbilyeu/claude/origin-forensics-and-attribution-gate
-- 2026-09-02 · [11f8626](https://github.com/justindbilyeu/The-Charter/commit/11f8626127f9193fead8f91a7ef622b34f53744b) — Case study 7b: the same failure propagated again while this was being written
-- 2026-09-02 · [c93fc28](https://github.com/justindbilyeu/The-Charter/commit/c93fc280645ba82dcdaae9e47b8e43fe063c184b) — Add the case study: a corroboration that never happened
-- 2026-09-02 · [fe03a41](https://github.com/justindbilyeu/The-Charter/commit/fe03a4160da505d7abb1773146d5152894764a55) — ORIGIN: correct the forensic account; file G6 for the failure it misses
